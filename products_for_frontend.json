@@ -1,0 +1,3908 @@
+[
+  {
+    "id": 1,
+    "name": "KunleAra Pharmacy",
+    "price": 1208.0,
+    "category": "General Medicine",
+    "sku": "KAP-KUN-0001",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 2,
+    "name": "AXCEL CETIRIZINE SYRUP CETRIZINE 5MG/5ML 60ML X BOTTLE",
+    "price": 760.0,
+    "category": "General Medicine",
+    "sku": "KAP-AXC-0002",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 3,
+    "name": "GOLDEN GLOW VITAMIN C SHOWER BATH 1000ML",
+    "price": 11000.0,
+    "category": "General Medicine",
+    "sku": "KAP-GOL-0003",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 4,
+    "name": "10ML NEEDLE SYRINGE X PC",
+    "price": 60.0,
+    "category": "General Medicine",
+    "sku": "KAP-10M-0004",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 5,
+    "name": "VIT A 10 000 IU NATURE FIELD X100 BOTTLE",
+    "price": 7970.0,
+    "category": "General Medicine",
+    "sku": "KAP-VIT-0005",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 6,
+    "name": "X-PRESSION RUWA BRAID COLOR 30",
+    "price": 3580.0,
+    "category": "General Medicine",
+    "sku": "KAP-X-P-0006",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 7,
+    "name": "JERGENS ORIGINAL SCENT CHERRY ALMOND 621ML IMPORTED",
+    "price": 16500.0,
+    "category": "General Medicine",
+    "sku": "KAP-JER-0007",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 8,
+    "name": "IODINE TINCTURE 15ML SOLFAM X BOTTLE",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-IOD-0008",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 9,
+    "name": "ORIJIN ZERO NON -ALCOHOLIC CAN",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-ORI-0009",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 10,
+    "name": "BETASOL LOTION CLOBETASOL PROPIONATE 30ML",
+    "price": 750.0,
+    "category": "General Medicine",
+    "sku": "KAP-BET-0010",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 11,
+    "name": "EPIDERM TRIPLE ACTION SKIN CREAM 30G X TUBE",
+    "price": 750.0,
+    "category": "General Medicine",
+    "sku": "KAP-EPI-0011",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 12,
+    "name": "CYPRIVIT SYRUP 200MLS CYPROHEPTADINE ITAMIN AMINO ACID XBOTTLE",
+    "price": 1350.0,
+    "category": "General Medicine",
+    "sku": "KAP-CYP-0012",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 13,
+    "name": "SALBUTAMOL INHALAR SALBOGET 100MCG",
+    "price": 2880.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAL-0013",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 14,
+    "name": "OMRON ARM M1 BASIC",
+    "price": 46230.0,
+    "category": "General Medicine",
+    "sku": "KAP-OMR-0014",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 15,
+    "name": "DAS OFADA RICE STONE FREE 10KG",
+    "price": 33550.0,
+    "category": "General Medicine",
+    "sku": "KAP-DAS-0015",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 16,
+    "name": "EVA PEARS SOAP 150G",
+    "price": 650.0,
+    "category": "General Medicine",
+    "sku": "KAP-EVA-0016",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 17,
+    "name": "BONABABE SYRUP 60ML PARACETAMOL/CHLORPHENIRAMINE X BOTTLE",
+    "price": 450.0,
+    "category": "General Medicine",
+    "sku": "KAP-BON-0017",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 18,
+    "name": "ELECTRONIC PULSE MASSAGER",
+    "price": 18000.0,
+    "category": "General Medicine",
+    "sku": "KAP-ELE-0018",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 19,
+    "name": "ENCHANTEUR STUNNING POWDER 125G",
+    "price": 2400.0,
+    "category": "General Medicine",
+    "sku": "KAP-ENC-0019",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 20,
+    "name": "V-SOY MULTI GRAIN 1LTRS",
+    "price": 1710.0,
+    "category": "General Medicine",
+    "sku": "KAP-V-S-0020",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 21,
+    "name": "MEFANTHER FORTE ARTEMETHER 80M/ LUMEFANTRINE 480MG 6TAB XPKT",
+    "price": 610.0,
+    "category": "General Medicine",
+    "sku": "KAP-MEF-0021",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 22,
+    "name": "PERFECT SIMPLY WHITE 4 IN 1 CLEANSER 150ML",
+    "price": 4130.0,
+    "category": "General Medicine",
+    "sku": "KAP-PER-0022",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 23,
+    "name": "XYLOX LETROZOLE 2.5MG XSACHET 14TAB",
+    "price": 2100.0,
+    "category": "General Medicine",
+    "sku": "KAP-XYL-0023",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 24,
+    "name": "ORGANO HOT COCOA COFFEE PER SATCHET",
+    "price": 1000.0,
+    "category": "General Medicine",
+    "sku": "KAP-ORG-0024",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 25,
+    "name": "TOKE KIDS FOLLOW ON LOTION 250ML",
+    "price": 4950.0,
+    "category": "General Medicine",
+    "sku": "KAP-TOK-0025",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 26,
+    "name": "LEVOXIN 750MG LEVOFLOXACIN 10TABS X PKT",
+    "price": 3420.0,
+    "category": "General Medicine",
+    "sku": "KAP-LEV-0026",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 27,
+    "name": "BREXA 140MG SILYMARIN X SAT 10TABS",
+    "price": 1800.0,
+    "category": "General Medicine",
+    "sku": "KAP-BRE-0027",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 28,
+    "name": "FROLIC SALAD DRESSING 250G",
+    "price": 1330.0,
+    "category": "General Medicine",
+    "sku": "KAP-FRO-0028",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 29,
+    "name": "LAGOS BRAID COLOR T1/27",
+    "price": 2370.0,
+    "category": "General Medicine",
+    "sku": "KAP-LAG-0029",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 30,
+    "name": "ANUDOL SUPPOSITORIES 6 SUPP XSATCHET",
+    "price": 2400.0,
+    "category": "General Medicine",
+    "sku": "KAP-ANU-0030",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 31,
+    "name": "BLADE EMERGENCE PERFUME 100ML",
+    "price": 2200.0,
+    "category": "General Medicine",
+    "sku": "KAP-BLA-0031",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 32,
+    "name": "LUSH WOW BRAID COLOR 33",
+    "price": 3630.0,
+    "category": "General Medicine",
+    "sku": "KAP-LUS-0032",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 33,
+    "name": "SALON PRO TWIN OLIVE 454MLS",
+    "price": 2200.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAL-0033",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 34,
+    "name": "GOLDEN",
+    "price": 4500.0,
+    "category": "General Medicine",
+    "sku": "KAP-GOL-0034",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 35,
+    "name": "LUSH JUMBO BRAIDS COLOR 27X",
+    "price": 5100.0,
+    "category": "General Medicine",
+    "sku": "KAP-LUS-0035",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 36,
+    "name": "ACTIVE CAVIAR DRIP GLUTA-C 100ML OIL",
+    "price": 6450.0,
+    "category": "General Medicine",
+    "sku": "KAP-ACT-0036",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 37,
+    "name": "KCLAVIN 625MG XPKT",
+    "price": 1860.0,
+    "category": "General Medicine",
+    "sku": "KAP-KCL-0037",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 38,
+    "name": "BELOXXI CRACKER 30G",
+    "price": 100.0,
+    "category": "General Medicine",
+    "sku": "KAP-BEL-0038",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 39,
+    "name": "LISINOTAB 10MG LISINOPRIL 14TABS X SACHET",
+    "price": 330.0,
+    "category": "General Medicine",
+    "sku": "KAP-LIS-0039",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 40,
+    "name": "LUMIHALE MONTELUKAST SODIUM 10MG X10TAB SAT",
+    "price": 520.0,
+    "category": "General Medicine",
+    "sku": "KAP-LUM-0040",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 41,
+    "name": "FINA ESSENTIAL MAXI-TONE LOTION 250ML",
+    "price": 1200.0,
+    "category": "General Medicine",
+    "sku": "KAP-FIN-0041",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 42,
+    "name": "EMZOBREX 200MG CELECOXIB 10CAPS X PKT",
+    "price": 1440.0,
+    "category": "General Medicine",
+    "sku": "KAP-EMZ-0042",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 43,
+    "name": "LISINOPRIL 5MG TEVA 14TABS X SACHET",
+    "price": 430.0,
+    "category": "General Medicine",
+    "sku": "KAP-LIS-0043",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 44,
+    "name": "GOODFIT BABY DIAPER SIZE 3 JUMBO X99PCS",
+    "price": 9880.0,
+    "category": "General Medicine",
+    "sku": "KAP-GOO-0044",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 45,
+    "name": "SUPRACAL SWIPHA 30TABS X PACK",
+    "price": 4800.0,
+    "category": "General Medicine",
+    "sku": "KAP-SUP-0045",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 46,
+    "name": "KISS BEAUTY SUPERSTAY MATTE INK",
+    "price": 700.0,
+    "category": "General Medicine",
+    "sku": "KAP-KIS-0046",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 47,
+    "name": "INFRARED BULB",
+    "price": 12000.0,
+    "category": "General Medicine",
+    "sku": "KAP-INF-0047",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 48,
+    "name": "GASNIL WITH CARICA PAPAYA 10TABS X PACK",
+    "price": 1400.0,
+    "category": "General Medicine",
+    "sku": "KAP-GAS-0048",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 49,
+    "name": "LEVOFLOXACIN 500MG/100ML WELQUINE INFUSION X VIAL",
+    "price": 910.0,
+    "category": "General Medicine",
+    "sku": "KAP-LEV-0049",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 50,
+    "name": "AMALORITE AMLODIPINE XSAT",
+    "price": 150.0,
+    "category": "General Medicine",
+    "sku": "KAP-AMA-0050",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 51,
+    "name": "FLAMINGO KNEE CAP L",
+    "price": 2400.0,
+    "category": "General Medicine",
+    "sku": "KAP-FLA-0051",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 52,
+    "name": "CEFTRIAXONE JEFYTRAN 1GM INJECT X ONE VIAL",
+    "price": 630.0,
+    "category": "General Medicine",
+    "sku": "KAP-CEF-0052",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 53,
+    "name": "HOT PEPPE POWDER 5GMS X 10PCS",
+    "price": 540.0,
+    "category": "General Medicine",
+    "sku": "KAP-HOT-0053",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 54,
+    "name": "OBICLAF 625 AMOXICILLIN 500MG/CLAVULANIC ACID 125MG 14TAB XPACK",
+    "price": 2220.0,
+    "category": "General Medicine",
+    "sku": "KAP-OBI-0054",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 55,
+    "name": "ROSUVASTATIN 5MG MEDREICH 14TABS X SACHET",
+    "price": 570.0,
+    "category": "General Medicine",
+    "sku": "KAP-ROS-0055",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 56,
+    "name": "YALE SPEEDY MINI BISCULT 15G",
+    "price": 50.0,
+    "category": "General Medicine",
+    "sku": "KAP-YAL-0056",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 57,
+    "name": "X-PRESSION MULTI COLOR 1",
+    "price": 1700.0,
+    "category": "General Medicine",
+    "sku": "KAP-X-P-0057",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 58,
+    "name": "LEVOFLOXACIN 500MG KESSINGTON 10TABS XPACK",
+    "price": 980.0,
+    "category": "General Medicine",
+    "sku": "KAP-LEV-0058",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 59,
+    "name": "LUMIPRESS 50MG LOSARTAN POTASSIUM 10TAB X SAT",
+    "price": 550.0,
+    "category": "General Medicine",
+    "sku": "KAP-LUM-0059",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 60,
+    "name": "FANTASTIC SUGAR BLOOD GLUCOSE METER",
+    "price": 16800.0,
+    "category": "General Medicine",
+    "sku": "KAP-FAN-0060",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 61,
+    "name": "SIMPLE MICELLAR GEL WASH 150ML",
+    "price": 5780.0,
+    "category": "General Medicine",
+    "sku": "KAP-SIM-0061",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 62,
+    "name": "SIMPLE MICELLAR CLEANSING WATER 400ML",
+    "price": 7350.0,
+    "category": "General Medicine",
+    "sku": "KAP-SIM-0062",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 63,
+    "name": "OUD FOR AMETHYST PERFUME 100ML",
+    "price": 30800.0,
+    "category": "General Medicine",
+    "sku": "KAP-OUD-0063",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 64,
+    "name": "OTERO CASTLE BEJAR SPRAY 200ML",
+    "price": 2600.0,
+    "category": "General Medicine",
+    "sku": "KAP-OTE-0064",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 65,
+    "name": "ASAD LATTAFA PERFUME",
+    "price": 24200.0,
+    "category": "General Medicine",
+    "sku": "KAP-ASA-0065",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 66,
+    "name": "LIPTON TEA",
+    "price": 930.0,
+    "category": "General Medicine",
+    "sku": "KAP-LIP-0066",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 67,
+    "name": "DOVE PINK 90G",
+    "price": 1150.0,
+    "category": "General Medicine",
+    "sku": "KAP-DOV-0067",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 68,
+    "name": "URBAN WOMAN BODY SPRAY 200ML",
+    "price": 3250.0,
+    "category": "General Medicine",
+    "sku": "KAP-URB-0068",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 69,
+    "name": "EPIC ADVENTURE EMPER PERFUMED SPRAY 200ML",
+    "price": 1430.0,
+    "category": "General Medicine",
+    "sku": "KAP-EPI-0069",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 70,
+    "name": "SALTROL 25 125MCG INHALER",
+    "price": 6200.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAL-0070",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 71,
+    "name": "MESPORIN INJ 1G IM X ONE VIAL",
+    "price": 6780.0,
+    "category": "General Medicine",
+    "sku": "KAP-MES-0071",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 72,
+    "name": "VASELINE GLUTA-HYA TUBE LOTION 300ML",
+    "price": 9170.0,
+    "category": "General Medicine",
+    "sku": "KAP-VAS-0072",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 73,
+    "name": "ARAMINOL 2MG/120MG XSAT",
+    "price": 90.0,
+    "category": "General Medicine",
+    "sku": "KAP-ARA-0073",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 74,
+    "name": "JULIET EVE 500MG X60CAP",
+    "price": 25300.0,
+    "category": "General Medicine",
+    "sku": "KAP-JUL-0074",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 75,
+    "name": "NON REBREATHING MASK CHILD",
+    "price": 1800.0,
+    "category": "General Medicine",
+    "sku": "KAP-NON-0075",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 76,
+    "name": "BONDMODINE 0.2 EYE DROP 5ML",
+    "price": 2280.0,
+    "category": "General Medicine",
+    "sku": "KAP-BON-0076",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 77,
+    "name": "JEONOL TABLET SALBUTAMOL THEOPHYLLINE XSATCHET",
+    "price": 140.0,
+    "category": "General Medicine",
+    "sku": "KAP-JEO-0077",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 78,
+    "name": "APETABON SYRUP 200MLS",
+    "price": 2020.0,
+    "category": "General Medicine",
+    "sku": "KAP-APE-0078",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 79,
+    "name": "ROSUVASTATIN 10MG MEDREICH/ETHIROSE 14TABS X SACHET",
+    "price": 1290.0,
+    "category": "General Medicine",
+    "sku": "KAP-ROS-0079",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Add to favorite",
+    "price": 17400.0,
+    "category": "General Medicine",
+    "sku": "KAP-ADD-0080",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 81,
+    "name": "YALE CABIN LUCKY",
+    "price": 100.0,
+    "category": "General Medicine",
+    "sku": "KAP-YAL-0081",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 82,
+    "name": "OLEMPEA EIFFEL TOWER COLLECTION SPRAY 200ML",
+    "price": 3300.0,
+    "category": "General Medicine",
+    "sku": "KAP-OLE-0082",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 83,
+    "name": "NUROFEN 400MG X12TABS PK",
+    "price": 3730.0,
+    "category": "General Medicine",
+    "sku": "KAP-NUR-0083",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 84,
+    "name": "DOVE NOURISHING SECRETS RELAXING RITUAL BODYWASH 750ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-DOV-0084",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 85,
+    "name": "DOVE NOURISHING SECRETS BODYWASH 750ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-DOV-0085",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 86,
+    "name": "OLAY EXCLUSIVE INSTANT WHITE ROSE CARROT EXTRACT SHOWER CREAM 1000ML",
+    "price": 4130.0,
+    "category": "General Medicine",
+    "sku": "KAP-OLA-0086",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 87,
+    "name": "ZOFLAM DICLOFENAC 50MG XSAT 10TAB",
+    "price": 270.0,
+    "category": "General Medicine",
+    "sku": "KAP-ZOF-0087",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 88,
+    "name": "LUSH MEGA BRAIDS 6X COLOR 1/27",
+    "price": 5000.0,
+    "category": "General Medicine",
+    "sku": "KAP-LUS-0088",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 89,
+    "name": "PERLAY GOLDIE BEAUTY LOTION 550ML",
+    "price": 5050.0,
+    "category": "General Medicine",
+    "sku": "KAP-PER-0089",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 90,
+    "name": "TROVAC CAP XPKT",
+    "price": 1200.0,
+    "category": "General Medicine",
+    "sku": "KAP-TRO-0090",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 91,
+    "name": "LOPERAMIDE PAUCO 2MG SATCHET",
+    "price": 50.0,
+    "category": "General Medicine",
+    "sku": "KAP-LOP-0091",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 92,
+    "name": "SACUVAN 24/26 SACUBITRIL 24MG VALSARTAN 25MG 10TAB XSAT",
+    "price": 5600.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAC-0092",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 93,
+    "name": "AVRO",
+    "price": 380.0,
+    "category": "General Medicine",
+    "sku": "KAP-AVR-0093",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 94,
+    "name": "ASCIPRAM 20MG ESCITALOPRAM 10TABS X SACHET",
+    "price": 1440.0,
+    "category": "General Medicine",
+    "sku": "KAP-ASC-0094",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 95,
+    "name": "ARTESUN PLUS 14YEARS",
+    "price": 100.0,
+    "category": "General Medicine",
+    "sku": "KAP-ART-0095",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 96,
+    "name": "EMCAP EXTRA PARACETAMOL/CAFFEINE500MG /30MG 10TAB XSAT",
+    "price": 200.0,
+    "category": "General Medicine",
+    "sku": "KAP-EMC-0096",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 97,
+    "name": "TREVIA 50MG SITAGLIPTIN 7TABS X SACHET",
+    "price": 2280.0,
+    "category": "General Medicine",
+    "sku": "KAP-TRE-0097",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 98,
+    "name": "CONFORM GLOVE 10PCS",
+    "price": 410.0,
+    "category": "General Medicine",
+    "sku": "KAP-CON-0098",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 99,
+    "name": "DIETHYLCARBAMAZINE 50MG COUNTING X TAB",
+    "price": 10.0,
+    "category": "General Medicine",
+    "sku": "KAP-DIE-0099",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 100,
+    "name": "ESSENTIAL FORTE ESSENTIAL PHOSPHOLIPID 300MG XSATCHET",
+    "price": 2280.0,
+    "category": "General Medicine",
+    "sku": "KAP-ESS-0100",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 101,
+    "name": "5ML NEEDLE SYRINGE X PC",
+    "price": 50.0,
+    "category": "General Medicine",
+    "sku": "KAP-5ML-0101",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 102,
+    "name": "2ML NEEDLE SYRINGE X PC",
+    "price": 50.0,
+    "category": "General Medicine",
+    "sku": "KAP-2ML-0102",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 103,
+    "name": "GYNO DAKTARIN VAG CREAM 40G MICONAZOLE 20MG X TUBE",
+    "price": 12700.0,
+    "category": "General Medicine",
+    "sku": "KAP-GYN-0103",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 104,
+    "name": "CERUMOL EAR DROP TURPENTINE OIL XBOTTLE",
+    "price": 10200.0,
+    "category": "General Medicine",
+    "sku": "KAP-CER-0104",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 105,
+    "name": "FLEMING 600MG INJ AMOXICILLIN/CLAVULANIC ACID X ONE VIAL",
+    "price": 850.0,
+    "category": "General Medicine",
+    "sku": "KAP-FLE-0105",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 106,
+    "name": "ERYTHROKID SUSP 250MG/5ML ERYTHROMYCIN 100ML X BOTTLE",
+    "price": 1860.0,
+    "category": "General Medicine",
+    "sku": "KAP-ERY-0106",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 107,
+    "name": "DYNAMOGEN ORAL 3MG/10ML X AMPOULE",
+    "price": 420.0,
+    "category": "General Medicine",
+    "sku": "KAP-DYN-0107",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 108,
+    "name": "EPILIM 500MG SODIUM VALPROATE SR 10TABS X SAT",
+    "price": 8050.0,
+    "category": "General Medicine",
+    "sku": "KAP-EPI-0108",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 109,
+    "name": "DEPIXOL INJ 40MG/2ML FLUPENTIXOL DECONATE X AMPOULE",
+    "price": 9600.0,
+    "category": "General Medicine",
+    "sku": "KAP-DEP-0109",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 110,
+    "name": "COFTA TAB AMMONIUM CL/IPECACUANHA 10TABS X SAT",
+    "price": 330.0,
+    "category": "General Medicine",
+    "sku": "KAP-COF-0110",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 111,
+    "name": "CHLORAPHENICOL 0.5 EYE DROP 10ML MCA X BOTTLE",
+    "price": 455.0,
+    "category": "General Medicine",
+    "sku": "KAP-CHL-0111",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 112,
+    "name": "DISPENSING ENVELOPE 1PK",
+    "price": 220.0,
+    "category": "General Medicine",
+    "sku": "KAP-DIS-0112",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 113,
+    "name": "DISPOSABLE GLOVES X100 PIECIES PER PKT",
+    "price": 380.0,
+    "category": "General Medicine",
+    "sku": "KAP-DIS-0113",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 114,
+    "name": "FERROUS BOTTLE 200MG FERROUS SULPHATE 200MG X 100TABS",
+    "price": 445.0,
+    "category": "General Medicine",
+    "sku": "KAP-FER-0114",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 115,
+    "name": "HCG DICLAIR INJ 5000IU XPKT",
+    "price": 13200.0,
+    "category": "General Medicine",
+    "sku": "KAP-HCG-0115",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 116,
+    "name": "HIPRIL 10MG XSATCHET",
+    "price": 280.0,
+    "category": "General Medicine",
+    "sku": "KAP-HIP-0116",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 117,
+    "name": "HIPRIL 5MG XSACHET",
+    "price": 220.0,
+    "category": "General Medicine",
+    "sku": "KAP-HIP-0117",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 118,
+    "name": "FUNGUSOL LOTION 50ML MICONAZOLE 2 X BOTTLE",
+    "price": 1070.0,
+    "category": "General Medicine",
+    "sku": "KAP-FUN-0118",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 119,
+    "name": "HEPP FORT 200ML X BOTTLE",
+    "price": 320.0,
+    "category": "General Medicine",
+    "sku": "KAP-HEP-0119",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 120,
+    "name": "GLUCOVANCE 500/2.5MG METFORMIN/GLIBENCLAMIDE 30TABS X PKT",
+    "price": 12040.0,
+    "category": "General Medicine",
+    "sku": "KAP-GLU-0120",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 121,
+    "name": "EPANUTIN FENITOIN 100MG COUNTING X TAB",
+    "price": 40.0,
+    "category": "General Medicine",
+    "sku": "KAP-EPA-0121",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 122,
+    "name": "CYCLOCEL 500MG CYCLOPHOSPHAMIDE X VIAL",
+    "price": 750.0,
+    "category": "General Medicine",
+    "sku": "KAP-CYC-0122",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 123,
+    "name": "OMRON ARM M2",
+    "price": 70070.0,
+    "category": "General Medicine",
+    "sku": "KAP-OMR-0123",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 124,
+    "name": "MILTON TAB",
+    "price": 5960.0,
+    "category": "General Medicine",
+    "sku": "KAP-MIL-0124",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 125,
+    "name": "PURE LOVE SPRAY",
+    "price": 1950.0,
+    "category": "General Medicine",
+    "sku": "KAP-PUR-0125",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 126,
+    "name": "ABAKTAL 400MG TAB PKT",
+    "price": 1170.0,
+    "category": "General Medicine",
+    "sku": "KAP-ABA-0126",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 127,
+    "name": "ANAFRANIL 25MG SATCHET",
+    "price": 3000.0,
+    "category": "General Medicine",
+    "sku": "KAP-ANA-0127",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 128,
+    "name": "E45 SKIN NOURISHING SOAP 250G 2 IN 1",
+    "price": 1430.0,
+    "category": "General Medicine",
+    "sku": "KAP-E45-0128",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 129,
+    "name": "CIALIS 20MG TADALAFIL 2TAB XPK",
+    "price": 8340.0,
+    "category": "General Medicine",
+    "sku": "KAP-CIA-0129",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 130,
+    "name": "LUMIGAN EYE DROP X 1",
+    "price": 17400.0,
+    "category": "General Medicine",
+    "sku": "KAP-LUM-0130",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 131,
+    "name": "PURIT 4L",
+    "price": 19470.0,
+    "category": "General Medicine",
+    "sku": "KAP-PUR-0131",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 132,
+    "name": "ATRACURIUM INJ 50MG X AMP",
+    "price": 6600.0,
+    "category": "General Medicine",
+    "sku": "KAP-ATR-0132",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 133,
+    "name": "COLOSTOMY BAG X 1PIECE",
+    "price": 1800.0,
+    "category": "General Medicine",
+    "sku": "KAP-COL-0133",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 134,
+    "name": "SUDREX CAFFEINE/PARACETAMOL XSATCHET",
+    "price": 510.0,
+    "category": "General Medicine",
+    "sku": "KAP-SUD-0134",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 135,
+    "name": "ABRO LEATHER CLEANER FURNITURE CLEANER 473ML",
+    "price": 1380.0,
+    "category": "General Medicine",
+    "sku": "KAP-ABR-0135",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 136,
+    "name": "DETTOL HAND SANITIZER 50ML",
+    "price": 810.0,
+    "category": "General Medicine",
+    "sku": "KAP-DET-0136",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 137,
+    "name": "DIABETAMIL 187.5G DRINK PK",
+    "price": 6240.0,
+    "category": "General Medicine",
+    "sku": "KAP-DIA-0137",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 138,
+    "name": "EASY ON",
+    "price": 2750.0,
+    "category": "General Medicine",
+    "sku": "KAP-EAS-0138",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 139,
+    "name": "ONION CRACKERS 200G BISCUIT",
+    "price": 1980.0,
+    "category": "General Medicine",
+    "sku": "KAP-ONI-0139",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 140,
+    "name": "KOFOL COUGH EXPECTORANT SYRUP",
+    "price": 2040.0,
+    "category": "General Medicine",
+    "sku": "KAP-KOF-0140",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 141,
+    "name": "MONTE CARLO PERFUME 100ML",
+    "price": 6600.0,
+    "category": "General Medicine",
+    "sku": "KAP-MON-0141",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 142,
+    "name": "LEVITRA 10MG XPKT",
+    "price": 4000.0,
+    "category": "General Medicine",
+    "sku": "KAP-LEV-0142",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 143,
+    "name": "CENTRUM SILVER MEN 50 MULTIVITAMIN X 65TAB",
+    "price": 30000.0,
+    "category": "General Medicine",
+    "sku": "KAP-CEN-0143",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 144,
+    "name": "CENTRUM SILVER WOMEN 50 MULTIVITAMIN X100TAB",
+    "price": 31050.0,
+    "category": "General Medicine",
+    "sku": "KAP-CEN-0144",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 145,
+    "name": "CENTRUM SILVER ADULT 50 MULTIVITAMINS 125TABS X CUP",
+    "price": 31050.0,
+    "category": "General Medicine",
+    "sku": "KAP-CEN-0145",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 146,
+    "name": "FAIR AND WHITE SAVON EXCLUSIVE WHITENIZER SOAP 200G",
+    "price": 5775.0,
+    "category": "General Medicine",
+    "sku": "KAP-FAI-0146",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 147,
+    "name": "FAIR AND WHITE EXCLUSIVE WHITENIZER MAXI TONE 250ML",
+    "price": 15000.0,
+    "category": "General Medicine",
+    "sku": "KAP-FAI-0147",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 148,
+    "name": "FAIR WHITE SOWHITE SERUM 30MLX1",
+    "price": 12000.0,
+    "category": "General Medicine",
+    "sku": "KAP-FAI-0148",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 149,
+    "name": "FAIR AND WHITE SAVON GOMMANT SOAP 200G",
+    "price": 4950.0,
+    "category": "General Medicine",
+    "sku": "KAP-FAI-0149",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 150,
+    "name": "FIESTA DOTTED CONDOM",
+    "price": 480.0,
+    "category": "General Medicine",
+    "sku": "KAP-FIE-0150",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 151,
+    "name": "LADYCARE WITH WINGS YELLOW X 10PCS",
+    "price": 640.0,
+    "category": "General Medicine",
+    "sku": "KAP-LAD-0151",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 152,
+    "name": "CIPROBIOTIC FORTE 500MG CIPROFLOXACIN 10TABS X PKT",
+    "price": 660.0,
+    "category": "General Medicine",
+    "sku": "KAP-CIP-0152",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 153,
+    "name": "PILOCARPINE 2 EYE DROP",
+    "price": 6000.0,
+    "category": "General Medicine",
+    "sku": "KAP-PIL-0153",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 154,
+    "name": "BRUT DEODORANT ORIGINAL BODY SPRAY 200ML",
+    "price": 2550.0,
+    "category": "General Medicine",
+    "sku": "KAP-BRU-0154",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 155,
+    "name": "TAXOTERE 80MG/4ML DOCETAXEL X VIAL",
+    "price": 129830.0,
+    "category": "General Medicine",
+    "sku": "KAP-TAX-0155",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 156,
+    "name": "COLIPAN SYRUP 60ML HYOSCINE-N-BUTYLBROMIDE X BOTTLE",
+    "price": 750.0,
+    "category": "General Medicine",
+    "sku": "KAP-COL-0156",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 157,
+    "name": "FEVIZ PLUS PK",
+    "price": 1000.0,
+    "category": "General Medicine",
+    "sku": "KAP-FEV-0157",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 158,
+    "name": "TRIBACT CREAM 30G CLOTRIMAZOLE BETAMETHASONE NEOMYCIN X TUBE",
+    "price": 600.0,
+    "category": "General Medicine",
+    "sku": "KAP-TRI-0158",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 159,
+    "name": "CLINDA GPO 150MG CLINDAMYCIN 10CAPS X SAT",
+    "price": 1980.0,
+    "category": "General Medicine",
+    "sku": "KAP-CLI-0159",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 160,
+    "name": "ENDIX G CREAM 20G ECONAZOLE TRIAMCINOLONE GENTAMICIN X TUBE",
+    "price": 1500.0,
+    "category": "General Medicine",
+    "sku": "KAP-END-0160",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 161,
+    "name": "QUAKER OAT 420G TIN",
+    "price": 3260.0,
+    "category": "General Medicine",
+    "sku": "KAP-QUA-0161",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 162,
+    "name": "ROYAL SHAVING POWDER",
+    "price": 2110.0,
+    "category": "General Medicine",
+    "sku": "KAP-ROY-0162",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 163,
+    "name": "ANGEL BABY ECO LARGE 9-14KGS X36PCS",
+    "price": 5230.0,
+    "category": "General Medicine",
+    "sku": "KAP-ANG-0163",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 164,
+    "name": "ANGEL BABY DIAPER JUMBO LARGE 9-1KGS X 72PCS",
+    "price": 10500.0,
+    "category": "General Medicine",
+    "sku": "KAP-ANG-0164",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 165,
+    "name": "DANO SLIM 900G SATCHET",
+    "price": 11750.0,
+    "category": "General Medicine",
+    "sku": "KAP-DAN-0165",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 166,
+    "name": "DANO SLIM SACHET 400G",
+    "price": 5700.0,
+    "category": "General Medicine",
+    "sku": "KAP-DAN-0166",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 167,
+    "name": "DR ALADDINS 7 KEYS HERBAL MIXTURE X BOTTLE",
+    "price": 1280.0,
+    "category": "General Medicine",
+    "sku": "KAP-DR -0167",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 168,
+    "name": "INSULIN SYRINGE X ONE PIECE",
+    "price": 120.0,
+    "category": "General Medicine",
+    "sku": "KAP-INS-0168",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 169,
+    "name": "MENTHOLATUM",
+    "price": 590.0,
+    "category": "General Medicine",
+    "sku": "KAP-MEN-0169",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 170,
+    "name": "SILVERCARE PLUS UNDERPADS X 1",
+    "price": 3360.0,
+    "category": "General Medicine",
+    "sku": "KAP-SIL-0170",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 171,
+    "name": "CEFIXIME DISP 200MG BENOW PKT",
+    "price": 840.0,
+    "category": "General Medicine",
+    "sku": "KAP-CEF-0171",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 172,
+    "name": "FORBETIC 500MG METFORMIN HYDROCHLORIDE X 10TABS X SAT",
+    "price": 210.0,
+    "category": "General Medicine",
+    "sku": "KAP-FOR-0172",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 173,
+    "name": "AAROMATE ORGANIC FRESHENER",
+    "price": 780.0,
+    "category": "General Medicine",
+    "sku": "KAP-AAR-0173",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 174,
+    "name": "CERELAC HONEY WHEAT MILK 400G",
+    "price": 8250.0,
+    "category": "General Medicine",
+    "sku": "KAP-CER-0174",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 175,
+    "name": "PEAK BABY INFANT FORMULAR 0-12MONTH",
+    "price": 8710.0,
+    "category": "General Medicine",
+    "sku": "KAP-PEA-0175",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 176,
+    "name": "FRISO GOLD RICE MILK CEREAL 300G",
+    "price": 27500.0,
+    "category": "General Medicine",
+    "sku": "KAP-FRI-0176",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 177,
+    "name": "FRISO GOLD WHEAT MILK CEREAL 300G",
+    "price": 32100.0,
+    "category": "General Medicine",
+    "sku": "KAP-FRI-0177",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 178,
+    "name": "AMOS WHITE WHITENING SOAP WITH SHEA",
+    "price": 420.0,
+    "category": "General Medicine",
+    "sku": "KAP-AMO-0178",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 179,
+    "name": "MY BOY INFANT FORMULA 400G",
+    "price": 7660.0,
+    "category": "General Medicine",
+    "sku": "KAP-MY -0179",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 180,
+    "name": "GOLDEN MORN 300G",
+    "price": 1700.0,
+    "category": "General Medicine",
+    "sku": "KAP-GOL-0180",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 181,
+    "name": "THREE CROWN EVAPORATED TIN",
+    "price": 630.0,
+    "category": "General Medicine",
+    "sku": "KAP-THR-0181",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 182,
+    "name": "NIVEA NOURISHING COCOA BUTTER 5IN1 400ML",
+    "price": 3950.0,
+    "category": "General Medicine",
+    "sku": "KAP-NIV-0182",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 183,
+    "name": "CERELAC HONEY WHEAT MILK 1KG RUBBER COVER",
+    "price": 16500.0,
+    "category": "General Medicine",
+    "sku": "KAP-CER-0183",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 184,
+    "name": "BAMA MAYONNAISE 385ML",
+    "price": 1835.0,
+    "category": "General Medicine",
+    "sku": "KAP-BAM-0184",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 185,
+    "name": "DIGITAL ELECTRONIC PERSONAL SCALE",
+    "price": 12000.0,
+    "category": "General Medicine",
+    "sku": "KAP-DIG-0185",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 186,
+    "name": "CT CLEAR THERAPY 250ML ORANGE",
+    "price": 3300.0,
+    "category": "General Medicine",
+    "sku": "KAP-CT -0186",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 187,
+    "name": "PAWPAW OIL 60ML",
+    "price": 1380.0,
+    "category": "General Medicine",
+    "sku": "KAP-PAW-0187",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 188,
+    "name": "PEAK FULL CREAM INSTANT MILK POWDER 900G TIN",
+    "price": 11740.0,
+    "category": "General Medicine",
+    "sku": "KAP-PEA-0188",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 189,
+    "name": "PEAK FULL CREAM INSTANT MILK POWDER 400G TIN",
+    "price": 5500.0,
+    "category": "General Medicine",
+    "sku": "KAP-PEA-0189",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 190,
+    "name": "PEAK FULL CREAM INSTANT MILK POWDER SATCHET X10PCS",
+    "price": 1770.0,
+    "category": "General Medicine",
+    "sku": "KAP-PEA-0190",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 191,
+    "name": "PEAK FULL CREAM INSTANT MILK POWDER 360G SATCHET",
+    "price": 4310.0,
+    "category": "General Medicine",
+    "sku": "KAP-PEA-0191",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 192,
+    "name": "BLUE BAND LOW FAT SPREAD 250G",
+    "price": 1650.0,
+    "category": "General Medicine",
+    "sku": "KAP-BLU-0192",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 193,
+    "name": "BLUE BAND LOW FAT SPREAD 75G",
+    "price": 520.0,
+    "category": "General Medicine",
+    "sku": "KAP-BLU-0193",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 194,
+    "name": "X-PRESSION 3X RUWA BRAID COLOR 1",
+    "price": 4070.0,
+    "category": "General Medicine",
+    "sku": "KAP-X-P-0194",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 195,
+    "name": "SENSODYNE DAILYCARE PROMO PACK TWO75ML ONE50ML",
+    "price": 2920.0,
+    "category": "General Medicine",
+    "sku": "KAP-SEN-0195",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 196,
+    "name": "ZOTRIM CO-TRIMOXAZOLE SUSP 240MG/5ML",
+    "price": 570.0,
+    "category": "General Medicine",
+    "sku": "KAP-ZOT-0196",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 197,
+    "name": "WIND AIR FRESHENER BLOCK STRAWBERRY/ APPLE 65G",
+    "price": 360.0,
+    "category": "General Medicine",
+    "sku": "KAP-WIN-0197",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 198,
+    "name": "SIMPSOM BP GREEN WATER 20MLS",
+    "price": 6600.0,
+    "category": "General Medicine",
+    "sku": "KAP-SIM-0198",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 199,
+    "name": "ZEDEX COLD PKT",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-ZED-0199",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 200,
+    "name": "ANGITEL 40MG X SAT",
+    "price": 760.0,
+    "category": "General Medicine",
+    "sku": "KAP-ANG-0200",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 201,
+    "name": "ESOFAG -D ESOMEPRAZOE 40MG DOMEPERIDONE 30MG 10TABS X SACHET",
+    "price": 1960.0,
+    "category": "General Medicine",
+    "sku": "KAP-ESO-0201",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 202,
+    "name": "ACLOTIL 75MG CLOPIDOGREL X SAT",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-ACL-0202",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 203,
+    "name": "MAGIC YOUR LIFE LIP OIL",
+    "price": 450.0,
+    "category": "General Medicine",
+    "sku": "KAP-MAG-0203",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 204,
+    "name": "GAB-M SACHET X10TABS",
+    "price": 480.0,
+    "category": "General Medicine",
+    "sku": "KAP-GAB-0204",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 205,
+    "name": "CLARTEM QS 80/480MG ARTEMETHER 80MG LUMEFANTRINE 480MG 6TABS X PKT",
+    "price": 990.0,
+    "category": "General Medicine",
+    "sku": "KAP-CLA-0205",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 206,
+    "name": "AMPICILLIN AND CLOXACILLIN 500MG KRISCLOX 10CAPS X SACHET",
+    "price": 530.0,
+    "category": "General Medicine",
+    "sku": "KAP-AMP-0206",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 207,
+    "name": "EL GAZELLE BIG CHICKEN KILISHI",
+    "price": 990.0,
+    "category": "General Medicine",
+    "sku": "KAP-EL -0207",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 208,
+    "name": "ALMIITRON SOFTGEL 80/480MG ARTEMETHER LUMEFANTRINE 6TABS X PKT",
+    "price": 2040.0,
+    "category": "General Medicine",
+    "sku": "KAP-ALM-0208",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 209,
+    "name": "LITTLE GIRL 3PIECES BAND",
+    "price": 1000.0,
+    "category": "General Medicine",
+    "sku": "KAP-LIT-0209",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 210,
+    "name": "KISSKIDS EMBRACE SOFT BABY DIAPER MIDI SIZE 3 X 50PCS",
+    "price": 6000.0,
+    "category": "General Medicine",
+    "sku": "KAP-KIS-0210",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 211,
+    "name": "BABY LIP BALM WITH OIL",
+    "price": 690.0,
+    "category": "General Medicine",
+    "sku": "KAP-BAB-0211",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 212,
+    "name": "MARVICO NUTMEG POWDER 5G X10",
+    "price": 1100.0,
+    "category": "General Medicine",
+    "sku": "KAP-MAR-0212",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 213,
+    "name": "BAFAMA CREAM 30G X TUBE",
+    "price": 580.0,
+    "category": "General Medicine",
+    "sku": "KAP-BAF-0213",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 214,
+    "name": "LIPIKIND 10MG XSAT",
+    "price": 580.0,
+    "category": "General Medicine",
+    "sku": "KAP-LIP-0214",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 215,
+    "name": "LAVERA SANDWICH BISCUITS BIG XPACKET",
+    "price": 1380.0,
+    "category": "General Medicine",
+    "sku": "KAP-LAV-0215",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 216,
+    "name": "MARCNOL 5/2.5MG AMLODIPINE RAMIPRIL 10TABS X SACHET",
+    "price": 750.0,
+    "category": "General Medicine",
+    "sku": "KAP-MAR-0216",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 217,
+    "name": "NEUROGESIC EXTRA 35G X TUBE",
+    "price": 1320.0,
+    "category": "General Medicine",
+    "sku": "KAP-NEU-0217",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 218,
+    "name": "PARLE-G GLUCO BISCUITS 30G",
+    "price": 100.0,
+    "category": "General Medicine",
+    "sku": "KAP-PAR-0218",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 219,
+    "name": "ORIGINAL OYIN AYO HONEY 500ML",
+    "price": 3850.0,
+    "category": "General Medicine",
+    "sku": "KAP-ORI-0219",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 220,
+    "name": "SPIDOL 75MG CLOPIDOGREL 7TABS X SATCHET",
+    "price": 660.0,
+    "category": "General Medicine",
+    "sku": "KAP-SPI-0220",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 221,
+    "name": "DICLOFENAC EYE DROP DGF",
+    "price": 1260.0,
+    "category": "General Medicine",
+    "sku": "KAP-DIC-0221",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 222,
+    "name": "VASELINE ESSENTIAL EVENTONE SPF24 LOTION 400ML",
+    "price": 3710.0,
+    "category": "General Medicine",
+    "sku": "KAP-VAS-0222",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 223,
+    "name": "VASELINE ALOE SOOTHE NON GREASY LOTION 400ML",
+    "price": 3710.0,
+    "category": "General Medicine",
+    "sku": "KAP-VAS-0223",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 224,
+    "name": "VASELINE COCOA RADIANTT NON GREASY 400ML",
+    "price": 3710.0,
+    "category": "General Medicine",
+    "sku": "KAP-VAS-0224",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 225,
+    "name": "METRONIDAZOLE 200MG COUNTING X TAB",
+    "price": 10.0,
+    "category": "General Medicine",
+    "sku": "KAP-MET-0225",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 226,
+    "name": "MULTIVITE TAB COUNTING X TAB",
+    "price": 5.0,
+    "category": "General Medicine",
+    "sku": "KAP-MUL-0226",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 227,
+    "name": "CALCIUM 300MGTAB COUNT",
+    "price": 6.0,
+    "category": "General Medicine",
+    "sku": "KAP-CAL-0227",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 228,
+    "name": "FERSOLATE FERROUS SULPHATE COUNTING X TAB",
+    "price": 5.0,
+    "category": "General Medicine",
+    "sku": "KAP-FER-0228",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 229,
+    "name": "ASPIRIN 300MG TAB",
+    "price": 5.0,
+    "category": "General Medicine",
+    "sku": "KAP-ASP-0229",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 230,
+    "name": "PIRITON TAB COUNTING X TAB",
+    "price": 2.0,
+    "category": "General Medicine",
+    "sku": "KAP-PIR-0230",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 231,
+    "name": "PARACETAMOL EMZOR 500MG 12TABS X SAT",
+    "price": 150.0,
+    "category": "General Medicine",
+    "sku": "KAP-PAR-0231",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 232,
+    "name": "AMINOPHYLLINE 100MG COUNTING X TAB",
+    "price": 10.0,
+    "category": "General Medicine",
+    "sku": "KAP-AMI-0232",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 233,
+    "name": "DAPSONE 100MG COUNTING X TAB",
+    "price": 10.0,
+    "category": "General Medicine",
+    "sku": "KAP-DAP-0233",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 234,
+    "name": "C/PROMAZINE 50MG COUNTING X TAB",
+    "price": 10.0,
+    "category": "General Medicine",
+    "sku": "KAP-C/P-0234",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 235,
+    "name": "BENDROFLUAZIDE 5MG COUNTING X TAB",
+    "price": 10.0,
+    "category": "General Medicine",
+    "sku": "KAP-BEN-0235",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 236,
+    "name": "FRUSEMIDE TAB COUNTING X TAB",
+    "price": 10.0,
+    "category": "General Medicine",
+    "sku": "KAP-FRU-0236",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 237,
+    "name": "HYDROCHLORTHIAZIDE 50MG XTAB",
+    "price": 6.0,
+    "category": "General Medicine",
+    "sku": "KAP-HYD-0237",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 238,
+    "name": "SPIRINOLACTONE 25MG COUNTING X TAB",
+    "price": 70.0,
+    "category": "General Medicine",
+    "sku": "KAP-SPI-0238",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 239,
+    "name": "NITROFURANTOIN 100MG COUNTING X TAB",
+    "price": 30.0,
+    "category": "General Medicine",
+    "sku": "KAP-NIT-0239",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 240,
+    "name": "PYRIDOXINE B6 50MG COUNTING X TAB",
+    "price": 10.0,
+    "category": "General Medicine",
+    "sku": "KAP-PYR-0240",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 241,
+    "name": "KETRAX TAB COUNTING LEVAMISOLE X TAB",
+    "price": 10.0,
+    "category": "General Medicine",
+    "sku": "KAP-KET-0241",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 242,
+    "name": "C/PROMAZINE 100MG COUNTING X TAB",
+    "price": 30.0,
+    "category": "General Medicine",
+    "sku": "KAP-C/P-0242",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 243,
+    "name": "PARACETAMOL 500MG COUNTING X TAB",
+    "price": 10.0,
+    "category": "General Medicine",
+    "sku": "KAP-PAR-0243",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 244,
+    "name": "CHLOROQUINE COUNTING X TAB",
+    "price": 50.0,
+    "category": "General Medicine",
+    "sku": "KAP-CHL-0244",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 245,
+    "name": "DIGOXIN TAB 0.25MG",
+    "price": 20.0,
+    "category": "General Medicine",
+    "sku": "KAP-DIG-0245",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 246,
+    "name": "BABYMED GENTLE LOTION 800ML",
+    "price": 5500.0,
+    "category": "General Medicine",
+    "sku": "KAP-BAB-0246",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 247,
+    "name": "BABYMED GENTLE SOAP 175G",
+    "price": 1400.0,
+    "category": "General Medicine",
+    "sku": "KAP-BAB-0247",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 248,
+    "name": "PAWPAW CLARIFYING LOTION 500ML",
+    "price": 4770.0,
+    "category": "General Medicine",
+    "sku": "KAP-PAW-0248",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 249,
+    "name": "CAROWHITE LIGHTDROPS SERUM 5AMPLES",
+    "price": 1300.0,
+    "category": "General Medicine",
+    "sku": "KAP-CAR-0249",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 250,
+    "name": "PAWPAW LIGHTENING SHOWER GEL 500ML",
+    "price": 4950.0,
+    "category": "General Medicine",
+    "sku": "KAP-PAW-0250",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 251,
+    "name": "TERRA CHICKEN X50CUBES PKT",
+    "price": 940.0,
+    "category": "General Medicine",
+    "sku": "KAP-TER-0251",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 252,
+    "name": "BLUE BAND ORIGINAL FAT SPREAD 450G",
+    "price": 3720.0,
+    "category": "General Medicine",
+    "sku": "KAP-BLU-0252",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 253,
+    "name": "BLUE BAND ORIGINAL FAT SPREAD 250G",
+    "price": 2300.0,
+    "category": "General Medicine",
+    "sku": "KAP-BLU-0253",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 254,
+    "name": "BLUE BAND LOW FAT SPREAD 900G",
+    "price": 4310.0,
+    "category": "General Medicine",
+    "sku": "KAP-BLU-0254",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 255,
+    "name": "PEAK 1-2-3YEARS GROWING UP MILK 360G SACHET",
+    "price": 4770.0,
+    "category": "General Medicine",
+    "sku": "KAP-PEA-0255",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 256,
+    "name": "PURIT ANTISEPTIC 125ML",
+    "price": 1455.0,
+    "category": "General Medicine",
+    "sku": "KAP-PUR-0256",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 257,
+    "name": "PURIT ANTISEPTIC 250ML",
+    "price": 2450.0,
+    "category": "General Medicine",
+    "sku": "KAP-PUR-0257",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 258,
+    "name": "PURIT ANTISEPTIC 500ML",
+    "price": 4760.0,
+    "category": "General Medicine",
+    "sku": "KAP-PUR-0258",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 259,
+    "name": "SAFE CUT 125ML",
+    "price": 930.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAF-0259",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 260,
+    "name": "PURIT 2LITERS",
+    "price": 11660.0,
+    "category": "General Medicine",
+    "sku": "KAP-PUR-0260",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 261,
+    "name": "ALWAYS ULTRA THIN 3IN1 X 7PADS",
+    "price": 1200.0,
+    "category": "General Medicine",
+    "sku": "KAP-ALW-0261",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 262,
+    "name": "ALWAYS ULTRA THIN X14 BLUE",
+    "price": 2260.0,
+    "category": "General Medicine",
+    "sku": "KAP-ALW-0262",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 263,
+    "name": "LARSOR TOMATO SEASONING 100G",
+    "price": 800.0,
+    "category": "General Medicine",
+    "sku": "KAP-LAR-0263",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 264,
+    "name": "LARSOR CHICKEN SEASONING X10PCS",
+    "price": 800.0,
+    "category": "General Medicine",
+    "sku": "KAP-LAR-0264",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 265,
+    "name": "LARSOR FRIED RICE SEASONING 100G",
+    "price": 800.0,
+    "category": "General Medicine",
+    "sku": "KAP-LAR-0265",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 266,
+    "name": "FUROCYST POLYCYSTIC OVARY XPKT",
+    "price": 36000.0,
+    "category": "General Medicine",
+    "sku": "KAP-FUR-0266",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 267,
+    "name": "JOHNSON COTTON BUD X200PCS",
+    "price": 1200.0,
+    "category": "General Medicine",
+    "sku": "KAP-JOH-0267",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 268,
+    "name": "HAYAATI LATTAFA BLACK PERFUME 100MLS",
+    "price": 18800.0,
+    "category": "General Medicine",
+    "sku": "KAP-HAY-0268",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 269,
+    "name": "OUD FOR GLORY PERFUME 100ML",
+    "price": 30800.0,
+    "category": "General Medicine",
+    "sku": "KAP-OUD-0269",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 270,
+    "name": "LUXE LATTAFA PERFUME 100ML",
+    "price": 24200.0,
+    "category": "General Medicine",
+    "sku": "KAP-LUX-0270",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 271,
+    "name": "QAED AL FURSAN PERFUME 90ML",
+    "price": 7200.0,
+    "category": "General Medicine",
+    "sku": "KAP-QAE-0271",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 272,
+    "name": "SAMJONES AMLODIPINE 10MG XSACHET",
+    "price": 410.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAM-0272",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 273,
+    "name": "VESICARE 5MG X10TABS SACHET",
+    "price": 5200.0,
+    "category": "General Medicine",
+    "sku": "KAP-VES-0273",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 274,
+    "name": "MALAL DISPERSIBLEX6 XPKT",
+    "price": 200.0,
+    "category": "General Medicine",
+    "sku": "KAP-MAL-0274",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 275,
+    "name": "MDP YITE WHITE TONE GLUTA/GOLD/CARROT SOAP 200G",
+    "price": 2300.0,
+    "category": "General Medicine",
+    "sku": "KAP-MDP-0275",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 276,
+    "name": "PANDA COLD DROP PARACETA CHLORPHENIRAMINE 15ML",
+    "price": 1500.0,
+    "category": "General Medicine",
+    "sku": "KAP-PAN-0276",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 277,
+    "name": "LARIACT 20/120 PKT",
+    "price": 240.0,
+    "category": "General Medicine",
+    "sku": "KAP-LAR-0277",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 278,
+    "name": "X-PRESSION RUWA BRAID COLOR 33",
+    "price": 3580.0,
+    "category": "General Medicine",
+    "sku": "KAP-X-P-0278",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 279,
+    "name": "CAMARA MEASURE BODY SPRAY 250ML",
+    "price": 3150.0,
+    "category": "General Medicine",
+    "sku": "KAP-CAM-0279",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 280,
+    "name": "CAMARA MONARCH BODY SPRAY 250ML",
+    "price": 3150.0,
+    "category": "General Medicine",
+    "sku": "KAP-CAM-0280",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 281,
+    "name": "GOOD DAY CHUNKIES CHOCOCHIP 150G",
+    "price": 1300.0,
+    "category": "General Medicine",
+    "sku": "KAP-GOO-0281",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 282,
+    "name": "BOURBON BRITANNIA ORIGINAL CHOCOLATE BISCUIT 2X100G",
+    "price": 1250.0,
+    "category": "General Medicine",
+    "sku": "KAP-BOU-0282",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 283,
+    "name": "ROYAL GAD LYSOL 60ML",
+    "price": 200.0,
+    "category": "General Medicine",
+    "sku": "KAP-ROY-0283",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 284,
+    "name": "SAIDA FOREVER BISCUIT STUFFED WITH COCOA CREAM 100G",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAI-0284",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 285,
+    "name": "SAIDA DARK CHOCOLATE BISCUIT 100G",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAI-0285",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 286,
+    "name": "SAIDA TRENDY CHOCOLATE BISCIUTSWITH COCOA CREAM 100G",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAI-0286",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 287,
+    "name": "OPTAFEN EYE DROP 10ML TIMOLOL MALEATE 0.5 X BOTTLE",
+    "price": 1140.0,
+    "category": "General Medicine",
+    "sku": "KAP-OPT-0287",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 288,
+    "name": "CETAFENAC 500/50MG PARACETAMOL DICLOFENAC 10TAB XPACK",
+    "price": 540.0,
+    "category": "General Medicine",
+    "sku": "KAP-CET-0288",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 289,
+    "name": "CETIN LORATADINE 10MG 10TAB XSAT",
+    "price": 110.0,
+    "category": "General Medicine",
+    "sku": "KAP-CET-0289",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 290,
+    "name": "NOW BONE STRENGHT X 120CAPS",
+    "price": 6000.0,
+    "category": "General Medicine",
+    "sku": "KAP-NOW-0290",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 291,
+    "name": "HISTOLAT 5MG LEVOCETRIZINE 10TABS X SAT",
+    "price": 120.0,
+    "category": "General Medicine",
+    "sku": "KAP-HIS-0291",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 292,
+    "name": "NO-PAIN 300MG ACETYL SALICYLIC ACID 10TABS X SACHET",
+    "price": 120.0,
+    "category": "General Medicine",
+    "sku": "KAP-NO--0292",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 293,
+    "name": "WALKING FRAME WITH TYRE X1",
+    "price": 33600.0,
+    "category": "General Medicine",
+    "sku": "KAP-WAL-0293",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 294,
+    "name": "CARTINEX RANOLAZINE EXTENTED 500MG 10TABS X SACHET",
+    "price": 3080.0,
+    "category": "General Medicine",
+    "sku": "KAP-CAR-0294",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 295,
+    "name": "CLAVUREM 375 X PKT",
+    "price": 1020.0,
+    "category": "General Medicine",
+    "sku": "KAP-CLA-0295",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 296,
+    "name": "NEXA 1000MG 1VIAL MEROPENEM",
+    "price": 10080.0,
+    "category": "General Medicine",
+    "sku": "KAP-NEX-0296",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 297,
+    "name": "TAMARAB INJ 20MG RABEPRAZOLE X VIAL",
+    "price": 2040.0,
+    "category": "General Medicine",
+    "sku": "KAP-TAM-0297",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 298,
+    "name": "FUROSEMIDE 20MG ROTEX BRAND INJECT XONE AMPOULE",
+    "price": 400.0,
+    "category": "General Medicine",
+    "sku": "KAP-FUR-0298",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 299,
+    "name": "SILVER CARE UNDERPAD X25",
+    "price": 3600.0,
+    "category": "General Medicine",
+    "sku": "KAP-SIL-0299",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 300,
+    "name": "GLODERM CREAM 30G CLOBETASOL MICONAZOLE GENTAMYCIN X TUBE",
+    "price": 1020.0,
+    "category": "General Medicine",
+    "sku": "KAP-GLO-0300",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 301,
+    "name": "SMART COLLECTION PERFUME 25ML NO540",
+    "price": 2520.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0301",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 302,
+    "name": "LOSARTAN POTASSIUM 50MG NUSAR 10TABS X SACHET",
+    "price": 1200.0,
+    "category": "General Medicine",
+    "sku": "KAP-LOS-0302",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 303,
+    "name": "EASADOL 500MG ACETAMINOPHEN 10CAPS X SACHET",
+    "price": 180.0,
+    "category": "General Medicine",
+    "sku": "KAP-EAS-0303",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 304,
+    "name": "HAEMATOVITE XPKT",
+    "price": 360.0,
+    "category": "General Medicine",
+    "sku": "KAP-HAE-0304",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 305,
+    "name": "WAYBILL 3",
+    "price": 2000.0,
+    "category": "General Medicine",
+    "sku": "KAP-WAY-0305",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 306,
+    "name": "SMART COLLECTION PERFUME NO225 100ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0306",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 307,
+    "name": "CERELAC WHEAT APPLE AFTER 6 MONTH 250G REFILL",
+    "price": 1980.0,
+    "category": "General Medicine",
+    "sku": "KAP-CER-0307",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 308,
+    "name": "SMART COLLECTION PERFUME NO332 100ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0308",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 309,
+    "name": "SMART COLLECTION PERFUME NO322 100ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0309",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 310,
+    "name": "SMART COLLECTION PERFUME NO94 100ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0310",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 311,
+    "name": "SMART COLLECTION PERFUME NO359 100ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0311",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 312,
+    "name": "SMART COLLECTION PERFUME NO540 100ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0312",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 313,
+    "name": "SMART COLLECTION PERFUME NO262 100ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0313",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 314,
+    "name": "SMART COLLECTION PERFUMR NO67 100ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0314",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 315,
+    "name": "SMART COLLECTION PERFUME NO275 100ML",
+    "price": 6450.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0315",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 316,
+    "name": "SMART COLLECTION PERFUME NO28 100ML",
+    "price": 6450.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0316",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 317,
+    "name": "SMART COLLECTION PERFUME NO02 100ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0317",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 318,
+    "name": "SMART COLLECTION PERFUME NO250 100ML",
+    "price": 6450.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0318",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 319,
+    "name": "SMART COLLECTION PERFUME NO538 100ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0319",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 320,
+    "name": "SMART COLLECTION PERFUME 100 NO64",
+    "price": 6200.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0320",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 321,
+    "name": "SMART COLLECTION PERFUME NO393 100ML",
+    "price": 6420.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0321",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 322,
+    "name": "SADOER HONEY FACIAL MASK 25G",
+    "price": 330.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAD-0322",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 323,
+    "name": "SADOER RASPBERRY FACIAL MASK 25G",
+    "price": 330.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAD-0323",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 324,
+    "name": "SADOER ORANGE FACIAL MASK 25G",
+    "price": 330.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAD-0324",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 325,
+    "name": "DR. MEINAIER BODY MASSAGE OIL 250MLS",
+    "price": 2300.0,
+    "category": "General Medicine",
+    "sku": "KAP-DR.-0325",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 326,
+    "name": "DRUMAZINE PLUS CREAM 25G",
+    "price": 1020.0,
+    "category": "General Medicine",
+    "sku": "KAP-DRU-0326",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 327,
+    "name": "TOROLAC EYE DROP 5ML KETOROLAC TROMETHAMINE 0.5 X BOTTLE",
+    "price": 2520.0,
+    "category": "General Medicine",
+    "sku": "KAP-TOR-0327",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 328,
+    "name": "OLUJI PURE COCOA POWDER 250g TIN",
+    "price": 4310.0,
+    "category": "General Medicine",
+    "sku": "KAP-OLU-0328",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 329,
+    "name": "OLUJI PURE COCOA POWDER 250G REFILL PACKET",
+    "price": 3670.0,
+    "category": "General Medicine",
+    "sku": "KAP-OLU-0329",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 330,
+    "name": "ANUA NIACINAMIDE 10 TXA4 DARK SPOT 30ML",
+    "price": 22000.0,
+    "category": "General Medicine",
+    "sku": "KAP-ANU-0330",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 331,
+    "name": "SPANISH GARDEN CHARCOAL EMERGENCY CONDITIONER 450ML",
+    "price": 3670.0,
+    "category": "General Medicine",
+    "sku": "KAP-SPA-0331",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 332,
+    "name": "ROSHAL 10MG ROSUVASTATIN 10TABS X SAT",
+    "price": 1600.0,
+    "category": "General Medicine",
+    "sku": "KAP-ROS-0332",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 333,
+    "name": "SEGO WRIST SUPPORT ELASTIC LARGE",
+    "price": 4200.0,
+    "category": "General Medicine",
+    "sku": "KAP-SEG-0333",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 334,
+    "name": "VINOZ ANTI- DANDRUFF CONDITIONER 225ML",
+    "price": 700.0,
+    "category": "General Medicine",
+    "sku": "KAP-VIN-0334",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 335,
+    "name": "COTRIM 10TAB XSACHET",
+    "price": 25.0,
+    "category": "General Medicine",
+    "sku": "KAP-COT-0335",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 336,
+    "name": "TYGACIL INJ 50MG",
+    "price": 13610.0,
+    "category": "General Medicine",
+    "sku": "KAP-TYG-0336",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 337,
+    "name": "EUCALYPTUS OIL 30ML",
+    "price": 750.0,
+    "category": "General Medicine",
+    "sku": "KAP-EUC-0337",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 338,
+    "name": "DIPLOVAS 10MG XSACHET",
+    "price": 170.0,
+    "category": "General Medicine",
+    "sku": "KAP-DIP-0338",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 339,
+    "name": "CIRCUMCISSION SET BY 14",
+    "price": 9600.0,
+    "category": "General Medicine",
+    "sku": "KAP-CIR-0339",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 340,
+    "name": "FOLIC ACID 400MCG X100TAB NATURES FIELD",
+    "price": 2860.0,
+    "category": "General Medicine",
+    "sku": "KAP-FOL-0340",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 341,
+    "name": "RIDA HERBAL SUPPLEMENT X90CAPSULES",
+    "price": 4080.0,
+    "category": "General Medicine",
+    "sku": "KAP-RID-0341",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 342,
+    "name": "EXACLAV CO-AMOXICLAV 625MG XPKT",
+    "price": 1440.0,
+    "category": "General Medicine",
+    "sku": "KAP-EXA-0342",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 343,
+    "name": "BETAWOMAN X30SOFTGEL XPKT",
+    "price": 8040.0,
+    "category": "General Medicine",
+    "sku": "KAP-BET-0343",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 344,
+    "name": "ACEL PLUS ACECLOFENAC PARACETAMOL 10TABS X PKT",
+    "price": 600.0,
+    "category": "General Medicine",
+    "sku": "KAP-ACE-0344",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 345,
+    "name": "MEPRID 2MG GLIMEPIRIDE 10TABS X SAT",
+    "price": 500.0,
+    "category": "General Medicine",
+    "sku": "KAP-MEP-0345",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 346,
+    "name": "MIDOZOL EYE DROP 5ML DORZOLAMIDE TIMOLOL X BOTTLE",
+    "price": 5040.0,
+    "category": "General Medicine",
+    "sku": "KAP-MID-0346",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 347,
+    "name": "U-TRYP 100 000 IU XVIAL",
+    "price": 49500.0,
+    "category": "General Medicine",
+    "sku": "KAP-U-T-0347",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 348,
+    "name": "BISMID FACE WHITENING CREAM 50G",
+    "price": 12100.0,
+    "category": "General Medicine",
+    "sku": "KAP-BIS-0348",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 349,
+    "name": "VITAMIX SELENIUM ACE D XPKT",
+    "price": 3300.0,
+    "category": "General Medicine",
+    "sku": "KAP-VIT-0349",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 350,
+    "name": "COMPREZON SOCKS XL",
+    "price": 11000.0,
+    "category": "General Medicine",
+    "sku": "KAP-COM-0350",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 351,
+    "name": "AMLODIPINE 10MG XSACHET SANDOZ",
+    "price": 310.0,
+    "category": "General Medicine",
+    "sku": "KAP-AML-0351",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 352,
+    "name": "GARNIER SKIN NATURALS BRIGHT COMPLETE 400ML",
+    "price": 8250.0,
+    "category": "General Medicine",
+    "sku": "KAP-GAR-0352",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 353,
+    "name": "SENSODYNE DAILY CARE 75ML",
+    "price": 2200.0,
+    "category": "General Medicine",
+    "sku": "KAP-SEN-0353",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 354,
+    "name": "SENSODYNE EXTRA FRESH",
+    "price": 970.0,
+    "category": "General Medicine",
+    "sku": "KAP-SEN-0354",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 355,
+    "name": "SENSODYNE RAPID RELIEF TOOTHBRUSH",
+    "price": 670.0,
+    "category": "General Medicine",
+    "sku": "KAP-SEN-0355",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 356,
+    "name": "SENSODYNE RAPID ACTION",
+    "price": 2240.0,
+    "category": "General Medicine",
+    "sku": "KAP-SEN-0356",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 357,
+    "name": "SENSODYNE EXTRA WHITENING",
+    "price": 3380.0,
+    "category": "General Medicine",
+    "sku": "KAP-SEN-0357",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 358,
+    "name": "IROKO AFRICAN ROOT 500ML",
+    "price": 12000.0,
+    "category": "General Medicine",
+    "sku": "KAP-IRO-0358",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 359,
+    "name": "Amoxicillin 500mg Capsules",
+    "price": 2500.0,
+    "category": "General Medicine",
+    "sku": "KAP-AMO-0359",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 360,
+    "name": "Augmentin 625mg Tablets",
+    "price": 4500.0,
+    "category": "General Medicine",
+    "sku": "KAP-AUG-0360",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 361,
+    "name": "Ciprofloxacin 500mg Tablets",
+    "price": 3200.0,
+    "category": "General Medicine",
+    "sku": "KAP-CIP-0361",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 362,
+    "name": "Metronidazole 400mg Tablets",
+    "price": 1800.0,
+    "category": "General Medicine",
+    "sku": "KAP-MET-0362",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 363,
+    "name": "Artemether Lumefantrine Tablets",
+    "price": 3500.0,
+    "category": "General Medicine",
+    "sku": "KAP-ART-0363",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 364,
+    "name": "Omeprazole 20mg Capsules",
+    "price": 2800.0,
+    "category": "General Medicine",
+    "sku": "KAP-OME-0364",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 365,
+    "name": "Atenolol 50mg Tablets",
+    "price": 2200.0,
+    "category": "General Medicine",
+    "sku": "KAP-ATE-0365",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 366,
+    "name": "Metformin 500mg Tablets",
+    "price": 1900.0,
+    "category": "General Medicine",
+    "sku": "KAP-MET-0366",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 367,
+    "name": "Paracetamol 500mg Tablets",
+    "price": 600.0,
+    "category": "General Medicine",
+    "sku": "KAP-PAR-0367",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 368,
+    "name": "Panadol Extra Tablets",
+    "price": 900.0,
+    "category": "General Medicine",
+    "sku": "KAP-PAN-0368",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 369,
+    "name": "Ibuprofen 400mg Tablets",
+    "price": 800.0,
+    "category": "General Medicine",
+    "sku": "KAP-IBU-0369",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 370,
+    "name": "Boska Pain Relief Tablets",
+    "price": 500.0,
+    "category": "General Medicine",
+    "sku": "KAP-BOS-0370",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 371,
+    "name": "Alabukun Powder",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-ALA-0371",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 372,
+    "name": "Benylin Cough Syrup 100ml",
+    "price": 1200.0,
+    "category": "General Medicine",
+    "sku": "KAP-BEN-0372",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 373,
+    "name": "ORS Oral Rehydration Salt",
+    "price": 200.0,
+    "category": "General Medicine",
+    "sku": "KAP-ORS-0373",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 374,
+    "name": "Antacid Tablets",
+    "price": 450.0,
+    "category": "General Medicine",
+    "sku": "KAP-ANT-0374",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 375,
+    "name": "Vitamin C 1000mg Tablets",
+    "price": 2500.0,
+    "category": "General Medicine",
+    "sku": "KAP-VIT-0375",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 376,
+    "name": "Centrum Multivitamin",
+    "price": 4000.0,
+    "category": "General Medicine",
+    "sku": "KAP-CEN-0376",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 377,
+    "name": "Calcium Vitamin D3 Tablets",
+    "price": 3200.0,
+    "category": "General Medicine",
+    "sku": "KAP-CAL-0377",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 378,
+    "name": "Iron Folic Acid Tablets",
+    "price": 1800.0,
+    "category": "General Medicine",
+    "sku": "KAP-IRO-0378",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 379,
+    "name": "Cod Liver Oil Capsules",
+    "price": 3500.0,
+    "category": "General Medicine",
+    "sku": "KAP-COD-0379",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 380,
+    "name": "Zinc Tablets 50mg",
+    "price": 2000.0,
+    "category": "General Medicine",
+    "sku": "KAP-ZIN-0380",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 381,
+    "name": "Vitamin B Complex",
+    "price": 2200.0,
+    "category": "General Medicine",
+    "sku": "KAP-VIT-0381",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 382,
+    "name": "Magnesium Supplements",
+    "price": 2800.0,
+    "category": "General Medicine",
+    "sku": "KAP-MAG-0382",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 383,
+    "name": "Coca Cola 35cl",
+    "price": 200.0,
+    "category": "General Medicine",
+    "sku": "KAP-COC-0383",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 384,
+    "name": "Sprite 50cl",
+    "price": 250.0,
+    "category": "General Medicine",
+    "sku": "KAP-SPR-0384",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 385,
+    "name": "Fanta Orange 35cl",
+    "price": 200.0,
+    "category": "General Medicine",
+    "sku": "KAP-FAN-0385",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 386,
+    "name": "Eva Water 75cl",
+    "price": 150.0,
+    "category": "General Medicine",
+    "sku": "KAP-EVA-0386",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 387,
+    "name": "Chi Exotic Juice 1L",
+    "price": 400.0,
+    "category": "General Medicine",
+    "sku": "KAP-CHI-0387",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 388,
+    "name": "Hollandia Yoghurt",
+    "price": 500.0,
+    "category": "General Medicine",
+    "sku": "KAP-HOL-0388",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 389,
+    "name": "Pepsi 50cl",
+    "price": 250.0,
+    "category": "General Medicine",
+    "sku": "KAP-PEP-0389",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 390,
+    "name": "7UP 35cl",
+    "price": 200.0,
+    "category": "General Medicine",
+    "sku": "KAP-7UP-0390",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 391,
+    "name": "Digestive Biscuits",
+    "price": 800.0,
+    "category": "General Medicine",
+    "sku": "KAP-DIG-0391",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 392,
+    "name": "Pringles Original 165g",
+    "price": 1200.0,
+    "category": "General Medicine",
+    "sku": "KAP-PRI-0392",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 393,
+    "name": "Gala Sausage Roll",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-GAL-0393",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 394,
+    "name": "Plantain Chips 100g",
+    "price": 500.0,
+    "category": "General Medicine",
+    "sku": "KAP-PLA-0394",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 395,
+    "name": "Groundnut 100g",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-GRO-0395",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 396,
+    "name": "Cabin Biscuits",
+    "price": 400.0,
+    "category": "General Medicine",
+    "sku": "KAP-CAB-0396",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 397,
+    "name": "Shortbread Biscuits",
+    "price": 700.0,
+    "category": "General Medicine",
+    "sku": "KAP-SHO-0397",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 398,
+    "name": "Meat Pie",
+    "price": 400.0,
+    "category": "General Medicine",
+    "sku": "KAP-MEA-0398",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 399,
+    "name": "Dettol Antiseptic 250ml",
+    "price": 1500.0,
+    "category": "General Medicine",
+    "sku": "KAP-DET-0399",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 400,
+    "name": "Savlon Antiseptic Cream",
+    "price": 1000.0,
+    "category": "General Medicine",
+    "sku": "KAP-SAV-0400",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 401,
+    "name": "Johnson Baby Oil 300ml",
+    "price": 1200.0,
+    "category": "General Medicine",
+    "sku": "KAP-JOH-0401",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 402,
+    "name": "Vaseline Petroleum Jelly",
+    "price": 800.0,
+    "category": "General Medicine",
+    "sku": "KAP-VAS-0402",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 403,
+    "name": "Cotton Wool 50g",
+    "price": 400.0,
+    "category": "General Medicine",
+    "sku": "KAP-COT-0403",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 404,
+    "name": "Bandage Roll 5cm",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-BAN-0404",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 405,
+    "name": "Hand Sanitizer 100ml",
+    "price": 600.0,
+    "category": "General Medicine",
+    "sku": "KAP-HAN-0405",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 406,
+    "name": "Hydrogen Peroxide 100ml",
+    "price": 500.0,
+    "category": "General Medicine",
+    "sku": "KAP-HYD-0406",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 407,
+    "name": "Dettol Disinfectant 500ml",
+    "price": 2000.0,
+    "category": "General Medicine",
+    "sku": "KAP-DET-0407",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 408,
+    "name": "Toilet Paper 4-pack",
+    "price": 1200.0,
+    "category": "General Medicine",
+    "sku": "KAP-TOI-0408",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 409,
+    "name": "Omo Detergent 500g",
+    "price": 1500.0,
+    "category": "General Medicine",
+    "sku": "KAP-OMO-0409",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 410,
+    "name": "Baygon Insecticide Spray",
+    "price": 1800.0,
+    "category": "General Medicine",
+    "sku": "KAP-BAY-0410",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 411,
+    "name": "Air Freshener Spray",
+    "price": 800.0,
+    "category": "General Medicine",
+    "sku": "KAP-AIR-0411",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 412,
+    "name": "Duracell Batteries AA",
+    "price": 600.0,
+    "category": "General Medicine",
+    "sku": "KAP-DUR-0412",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 413,
+    "name": "Rose Tissue Paper",
+    "price": 400.0,
+    "category": "General Medicine",
+    "sku": "KAP-ROS-0413",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 414,
+    "name": "Candles Pack of 6",
+    "price": 300.0,
+    "category": "General Medicine",
+    "sku": "KAP-CAN-0414",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 415,
+    "name": "Pampers Baby Dry Size 3",
+    "price": 4500.0,
+    "category": "General Medicine",
+    "sku": "KAP-PAM-0415",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 416,
+    "name": "SMA Baby Formula 400g",
+    "price": 5500.0,
+    "category": "General Medicine",
+    "sku": "KAP-SMA-0416",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 417,
+    "name": "Johnson Baby Shampoo",
+    "price": 1500.0,
+    "category": "General Medicine",
+    "sku": "KAP-JOH-0417",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 418,
+    "name": "Baby Wipes 80-pack",
+    "price": 1200.0,
+    "category": "General Medicine",
+    "sku": "KAP-BAB-0418",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 419,
+    "name": "Cerelac Baby Food 400g",
+    "price": 2200.0,
+    "category": "General Medicine",
+    "sku": "KAP-CER-0419",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 420,
+    "name": "Feeding Bottle 250ml",
+    "price": 2000.0,
+    "category": "General Medicine",
+    "sku": "KAP-FEE-0420",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 421,
+    "name": "Baby Powder 200g",
+    "price": 1300.0,
+    "category": "General Medicine",
+    "sku": "KAP-BAB-0421",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 422,
+    "name": "Pacifier Size 1",
+    "price": 800.0,
+    "category": "General Medicine",
+    "sku": "KAP-PAC-0422",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 423,
+    "name": "Moringa Powder 100g",
+    "price": 2500.0,
+    "category": "General Medicine",
+    "sku": "KAP-MOR-0423",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 424,
+    "name": "Ginger Honey Tea",
+    "price": 1500.0,
+    "category": "General Medicine",
+    "sku": "KAP-GIN-0424",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 425,
+    "name": "Turmeric Capsules",
+    "price": 3000.0,
+    "category": "General Medicine",
+    "sku": "KAP-TUR-0425",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 426,
+    "name": "Black Seed Oil 100ml",
+    "price": 2800.0,
+    "category": "General Medicine",
+    "sku": "KAP-BLA-0426",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 427,
+    "name": "Pure Honey 500g",
+    "price": 3500.0,
+    "category": "General Medicine",
+    "sku": "KAP-PUR-0427",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 428,
+    "name": "Garlic Supplement",
+    "price": 2200.0,
+    "category": "General Medicine",
+    "sku": "KAP-GAR-0428",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 429,
+    "name": "Whey Protein Powder 1kg",
+    "price": 8500.0,
+    "category": "General Medicine",
+    "sku": "KAP-WHE-0429",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 430,
+    "name": "Creatine Monohydrate",
+    "price": 6500.0,
+    "category": "General Medicine",
+    "sku": "KAP-CRE-0430",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 431,
+    "name": "BCAA Amino Acids",
+    "price": 7200.0,
+    "category": "General Medicine",
+    "sku": "KAP-BCA-0431",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 432,
+    "name": "Fat Burner Capsules",
+    "price": 5500.0,
+    "category": "General Medicine",
+    "sku": "KAP-FAT-0432",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 433,
+    "name": "Pre-workout Energy Drink",
+    "price": 4500.0,
+    "category": "General Medicine",
+    "sku": "KAP-PRE-0433",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  },
+  {
+    "id": 434,
+    "name": "Mass Gainer Powder",
+    "price": 9200.0,
+    "category": "General Medicine",
+    "sku": "KAP-MAS-0434",
+    "in_stock": true,
+    "image_url": "/images/products/placeholder.jpg"
+  }
+]

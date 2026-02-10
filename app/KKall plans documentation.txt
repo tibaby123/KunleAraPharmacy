@@ -1,0 +1,29 @@
+service_role:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndtbmdhbHFtZ2ljY2Rrb3lvanVmIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2ODkwNTU3MiwiZXhwIjoyMDg0NDgxNTcyfQ.AfVBmUKlunWzBAMY2UrYp6y6ceGZ9dXGLM-UmImhpBY
+anon: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndtbmdhbHFtZ2ljY2Rrb3lvanVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njg5MDU1NzIsImV4cCI6MjA4NDQ4MTU3Mn0.5pEDOK0MLI2lBPYBvhMRx4Li8IV3lHZETyjSdoYK13w
+url:https://wmngalqmgiccdkoyojuf.supabase.co
+database pswd:A83cctLpLpZxD1iw
+
+
+IMPLEMENTATION PLAN:
+Phase 1: Foundation (Day 1-2)
+✅ Supabase setup (already done)
+✅ Database schema
+✅ Seed 574 products
+✅ Create 3 branches
+✅ Distribute inventory
+Phase 2: Authentication (Day 2-3)
+Admin registration
+Staff login
+Role-based access
+Branch selection
+Phase 3: Admin Dashboard (Day 3-4)
+Staff management
+Inventory management
+Reports
+Phase 4: POS Enhancement (Day 4-5)
+Branch-specific inventory
+Improved UI
+Stock warnings
+Phase 5: Payment Integration (Day 5-6)
+Integrate 5 payment gateways
+Transaction logging

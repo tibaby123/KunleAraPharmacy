@@ -1,0 +1,56 @@
+import Link from 'next/link'
+
+export default function HomePage() {
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-green-50 to-blue-50 flex items-center justify-center p-4">
+      <div className="bg-white p-12 rounded-2xl shadow-2xl max-w-2xl w-full">
+        <div className="text-center mb-8">
+          <h1 className="text-4xl font-bold text-gray-800 mb-4">
+            🏥 Kunle Ara Pharmacy
+          </h1>
+          <p className="text-xl text-gray-600">
+            Pharmacy Management System
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <Link 
+            href="/pos"
+            className="bg-green-600 text-white p-8 rounded-xl hover:bg-green-700 transition text-center group"
+          >
+            <div className="text-5xl mb-4">💰</div>
+            <h2 className="text-2xl font-bold mb-2">POS System</h2>
+            <p className="text-green-100">Point of Sale</p>
+          </Link>
+
+          <Link 
+            href="/products"
+            className="bg-blue-600 text-white p-8 rounded-xl hover:bg-blue-700 transition text-center group"
+          >
+            <div className="text-5xl mb-4">📦</div>
+            <h2 className="text-2xl font-bold mb-2">Products</h2>
+            <p className="text-blue-100">Manage Inventory</p>
+          </Link>
+
+          <Link 
+            href="/refunds"
+            className="bg-red-600 text-white p-8 rounded-xl hover:bg-red-700 transition text-center group"
+          >
+            <div className="text-5xl mb-4">↩️</div>
+            <h2 className="text-2xl font-bold mb-2">Refunds</h2>
+            <p className="text-red-100">Process Returns</p>
+          </Link>
+
+          <Link 
+            href="/reports"
+            className="bg-purple-600 text-white p-8 rounded-xl hover:bg-purple-700 transition text-center group"
+          >
+            <div className="text-5xl mb-4">📊</div>
+            <h2 className="text-2xl font-bold mb-2">Reports</h2>
+            <p className="text-purple-100">View Analytics</p>
+          </Link>
+        </div>
+      </div>
+    </div>
+  )
+}

@@ -1,0 +1,2653 @@
+{
+  "metadata": {
+    "pharmacy_name": "Kunle Ara Pharmacy",
+    "total_products": 101,
+    "categories": [
+      "Antihistamines & Allergy",
+      "Antiseptics & Disinfectants",
+      "General Medicine",
+      "Health Drinks & Nutrition",
+      "Medical Supplies",
+      "Pain Relief & Fever",
+      "Personal Care",
+      "Topical Treatments",
+      "Vitamins & Supplements"
+    ],
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ],
+    "created_at": "2026-01-07T19:44:49.424708",
+    "version": "1.0",
+    "source": "comprehensive_scraping"
+  },
+  "products": [
+    {
+      "id": 1,
+      "sku": "KAP-ANT-0001",
+      "name": "ANTIHISTAMINS",
+      "description": "ANTIHISTAMINS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 110.0,
+      "category": "Antihistamines & Allergy",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424242",
+      "updated_at": "2026-01-07T19:44:49.424267"
+    },
+    {
+      "id": 2,
+      "sku": "KAP-SHO-0002",
+      "name": "SHOWER GEL",
+      "description": "SHOWER GEL - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 11000.0,
+      "category": "Personal Care",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424279",
+      "updated_at": "2026-01-07T19:44:49.424280"
+    },
+    {
+      "id": 3,
+      "sku": "KAP-CRE-0003",
+      "name": "CREAM",
+      "description": "CREAM - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 15000.0,
+      "category": "Topical Treatments",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424284",
+      "updated_at": "2026-01-07T19:44:49.424285"
+    },
+    {
+      "id": 4,
+      "sku": "KAP-DRI-0004",
+      "name": "DRINKS",
+      "description": "DRINKS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 20220.0,
+      "category": "Health Drinks & Nutrition",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424294",
+      "updated_at": "2026-01-07T19:44:49.424295"
+    },
+    {
+      "id": 5,
+      "sku": "KAP-SKI-0005",
+      "name": "SKIN DISINFECTION",
+      "description": "SKIN DISINFECTION - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 420.0,
+      "category": "Antiseptics & Disinfectants",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424299",
+      "updated_at": "2026-01-07T19:44:49.424300"
+    },
+    {
+      "id": 6,
+      "sku": "KAP-VIT-0006",
+      "name": "VITAMINS",
+      "description": "VITAMINS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 31050.0,
+      "category": "Vitamins & Supplements",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424304",
+      "updated_at": "2026-01-07T19:44:49.424304"
+    },
+    {
+      "id": 7,
+      "sku": "KAP-SUR-0007",
+      "name": "SURGICAL",
+      "description": "SURGICAL - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 33600.0,
+      "category": "Medical Supplies",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424309",
+      "updated_at": "2026-01-07T19:44:49.424310"
+    },
+    {
+      "id": 8,
+      "sku": "KAP-HAI-0008",
+      "name": "HAIR COSTUME",
+      "description": "HAIR COSTUME - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3580.0,
+      "category": "Personal Care",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424313",
+      "updated_at": "2026-01-07T19:44:49.424314"
+    },
+    {
+      "id": 9,
+      "sku": "KAP-LOT-0009",
+      "name": "LOTION",
+      "description": "LOTION - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 18150.0,
+      "category": "Topical Treatments",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424316",
+      "updated_at": "2026-01-07T19:44:49.424317"
+    },
+    {
+      "id": 10,
+      "sku": "KAP-ANA-0010",
+      "name": "ANALGESICS",
+      "description": "ANALGESICS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 12615.0,
+      "category": "Pain Relief & Fever",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424319",
+      "updated_at": "2026-01-07T19:44:49.424320"
+    },
+    {
+      "id": 11,
+      "sku": "KAP-MIN-0011",
+      "name": "MINERALS",
+      "description": "MINERALS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 12410.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424326",
+      "updated_at": "2026-01-07T19:44:49.424326"
+    },
+    {
+      "id": 12,
+      "sku": "KAP-OTH-0012",
+      "name": "OTHER",
+      "description": "OTHER - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 16920.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424329",
+      "updated_at": "2026-01-07T19:44:49.424330"
+    },
+    {
+      "id": 13,
+      "sku": "KAP-SPR-0013",
+      "name": "SPRAY",
+      "description": "SPRAY - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1300.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424333",
+      "updated_at": "2026-01-07T19:44:49.424334"
+    },
+    {
+      "id": 14,
+      "sku": "KAP-LIP-0014",
+      "name": "LIPID REGULATING DRUGS",
+      "description": "LIPID REGULATING DRUGS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 400.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424339",
+      "updated_at": "2026-01-07T19:44:49.424339"
+    },
+    {
+      "id": 15,
+      "sku": "KAP-BRO-0015",
+      "name": "BRONCHODIALATORS",
+      "description": "BRONCHODIALATORS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 10.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424342",
+      "updated_at": "2026-01-07T19:44:49.424343"
+    },
+    {
+      "id": 16,
+      "sku": "KAP-SUP-0016",
+      "name": "SUPERMARKET",
+      "description": "SUPERMARKET - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 2100.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424346",
+      "updated_at": "2026-01-07T19:44:49.424346"
+    },
+    {
+      "id": 17,
+      "sku": "KAP-TAB-0017",
+      "name": "TABLES/CAPSULES",
+      "description": "TABLES/CAPSULES - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 10880.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424351",
+      "updated_at": "2026-01-07T19:44:49.424352"
+    },
+    {
+      "id": 18,
+      "sku": "KAP-INJ-0018",
+      "name": "INJECTION",
+      "description": "INJECTION - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 176000.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424354",
+      "updated_at": "2026-01-07T19:44:49.424355"
+    },
+    {
+      "id": 19,
+      "sku": "KAP-ACC-0019",
+      "name": "ACCUHALER",
+      "description": "ACCUHALER - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 6200.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424358",
+      "updated_at": "2026-01-07T19:44:49.424358"
+    },
+    {
+      "id": 20,
+      "sku": "KAP-EAR-0020",
+      "name": "EAR CARE",
+      "description": "EAR CARE - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1380.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424364",
+      "updated_at": "2026-01-07T19:44:49.424364"
+    },
+    {
+      "id": 21,
+      "sku": "KAP-FEM-0021",
+      "name": "FEMALE FERTILITY DRUGS",
+      "description": "FEMALE FERTILITY DRUGS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 30530.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424369",
+      "updated_at": "2026-01-07T19:44:49.424370"
+    },
+    {
+      "id": 22,
+      "sku": "KAP-SOA-0022",
+      "name": "SOAP",
+      "description": "SOAP - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3300.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424372",
+      "updated_at": "2026-01-07T19:44:49.424373"
+    },
+    {
+      "id": 23,
+      "sku": "KAP-PRO-0023",
+      "name": "PROVISION",
+      "description": "PROVISION - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3670.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424376",
+      "updated_at": "2026-01-07T19:44:49.424376"
+    },
+    {
+      "id": 24,
+      "sku": "KAP-PER-0024",
+      "name": "PERFUME",
+      "description": "PERFUME - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 18000.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424381",
+      "updated_at": "2026-01-07T19:44:49.424381"
+    },
+    {
+      "id": 25,
+      "sku": "KAP-CLE-0025",
+      "name": "CLEANSER",
+      "description": "CLEANSER - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 14850.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424384",
+      "updated_at": "2026-01-07T19:44:49.424385"
+    },
+    {
+      "id": 26,
+      "sku": "KAP-SYR-0026",
+      "name": "SYRUP",
+      "description": "SYRUP - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1640.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424387",
+      "updated_at": "2026-01-07T19:44:49.424388"
+    },
+    {
+      "id": 27,
+      "sku": "KAP-HER-0027",
+      "name": "HERBAL TEA",
+      "description": "HERBAL TEA - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3120.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424393",
+      "updated_at": "2026-01-07T19:44:49.424393"
+    },
+    {
+      "id": 28,
+      "sku": "KAP-ANT-0028",
+      "name": "ANTIBIOTIC CREAM",
+      "description": "ANTIBIOTIC CREAM - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 4800.0,
+      "category": "Topical Treatments",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424396",
+      "updated_at": "2026-01-07T19:44:49.424397"
+    },
+    {
+      "id": 29,
+      "sku": "KAP-SWE-0029",
+      "name": "SWEETENER",
+      "description": "SWEETENER - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3000.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424399",
+      "updated_at": "2026-01-07T19:44:49.424400"
+    },
+    {
+      "id": 30,
+      "sku": "KAP-OIN-0030",
+      "name": "OINTMENT",
+      "description": "OINTMENT - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3600.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424403",
+      "updated_at": "2026-01-07T19:44:49.424403"
+    },
+    {
+      "id": 31,
+      "sku": "KAP-THR-0031",
+      "name": "THRUSH DRUGS",
+      "description": "THRUSH DRUGS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 2220.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424406",
+      "updated_at": "2026-01-07T19:44:49.424407"
+    },
+    {
+      "id": 32,
+      "sku": "KAP-SEA-0032",
+      "name": "SEASONING",
+      "description": "SEASONING - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1100.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424413",
+      "updated_at": "2026-01-07T19:44:49.424414"
+    },
+    {
+      "id": 33,
+      "sku": "KAP-COS-0033",
+      "name": "COSMETICS",
+      "description": "COSMETICS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 16500.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424416",
+      "updated_at": "2026-01-07T19:44:49.424417"
+    },
+    {
+      "id": 34,
+      "sku": "KAP-MED-0034",
+      "name": "MEDICAL DEVICE",
+      "description": "MEDICAL DEVICE - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 17725.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424422",
+      "updated_at": "2026-01-07T19:44:49.424422"
+    },
+    {
+      "id": 35,
+      "sku": "KAP-ANT-0035",
+      "name": "ANTIHYPERTENSIVES",
+      "description": "ANTIHYPERTENSIVES - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 24720.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424427",
+      "updated_at": "2026-01-07T19:44:49.424428"
+    },
+    {
+      "id": 36,
+      "sku": "KAP-ANT-0036",
+      "name": "ANTIBIOTICS",
+      "description": "ANTIBIOTICS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 4570.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424431",
+      "updated_at": "2026-01-07T19:44:49.424431"
+    },
+    {
+      "id": 37,
+      "sku": "KAP-DIA-0037",
+      "name": "DIAPER ADULT",
+      "description": "DIAPER ADULT - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 12940.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424434",
+      "updated_at": "2026-01-07T19:44:49.424435"
+    },
+    {
+      "id": 38,
+      "sku": "KAP-ANT-0038",
+      "name": "ANTI MALARIALS",
+      "description": "ANTI MALARIALS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1440.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424439",
+      "updated_at": "2026-01-07T19:44:49.424440"
+    },
+    {
+      "id": 39,
+      "sku": "KAP-MOU-0039",
+      "name": "MOUTH WASHES",
+      "description": "MOUTH WASHES - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3380.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424442",
+      "updated_at": "2026-01-07T19:44:49.424443"
+    },
+    {
+      "id": 40,
+      "sku": "KAP-ANT-0040",
+      "name": "ANTI DEPRESSANTS",
+      "description": "ANTI DEPRESSANTS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1440.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424446",
+      "updated_at": "2026-01-07T19:44:49.424446"
+    },
+    {
+      "id": 41,
+      "sku": "KAP-ANT-0041",
+      "name": "ANTIBIOTICS SUSPENSION",
+      "description": "ANTIBIOTICS SUSPENSION - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 2880.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424449",
+      "updated_at": "2026-01-07T19:44:49.424450"
+    },
+    {
+      "id": 42,
+      "sku": "KAP-ANT-0042",
+      "name": "ANTI FUNGAL",
+      "description": "ANTI FUNGAL - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 580.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424452",
+      "updated_at": "2026-01-07T19:44:49.424453"
+    },
+    {
+      "id": 43,
+      "sku": "KAP-SUS-0043",
+      "name": "SUSPENSION",
+      "description": "SUSPENSION - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 4085.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424460",
+      "updated_at": "2026-01-07T19:44:49.424460"
+    },
+    {
+      "id": 44,
+      "sku": "KAP-HAI-0044",
+      "name": "HAIR CARE",
+      "description": "HAIR CARE - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3630.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424465",
+      "updated_at": "2026-01-07T19:44:49.424465"
+    },
+    {
+      "id": 45,
+      "sku": "KAP-ELE-0045",
+      "name": "ELECTRONIC DEVICE",
+      "description": "ELECTRONIC DEVICE - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 222200.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424468",
+      "updated_at": "2026-01-07T19:44:49.424469"
+    },
+    {
+      "id": 46,
+      "sku": "KAP-HON-0046",
+      "name": "HONEY",
+      "description": "HONEY - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 6050.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424472",
+      "updated_at": "2026-01-07T19:44:49.424472"
+    },
+    {
+      "id": 47,
+      "sku": "KAP-WIN-0047",
+      "name": "WINE",
+      "description": "WINE - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3300.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424475",
+      "updated_at": "2026-01-07T19:44:49.424475"
+    },
+    {
+      "id": 48,
+      "sku": "KAP-EYE-0048",
+      "name": "EYE/EAR",
+      "description": "EYE/EAR - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 21600.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424478",
+      "updated_at": "2026-01-07T19:44:49.424479"
+    },
+    {
+      "id": 49,
+      "sku": "KAP-TOI-0049",
+      "name": "TOILETERIES",
+      "description": "TOILETERIES - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1190.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424481",
+      "updated_at": "2026-01-07T19:44:49.424482"
+    },
+    {
+      "id": 50,
+      "sku": "KAP-ANA-0050",
+      "name": "ANAESTHESIA GENERAL",
+      "description": "ANAESTHESIA GENERAL - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 2000.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424485",
+      "updated_at": "2026-01-07T19:44:49.424486"
+    },
+    {
+      "id": 51,
+      "sku": "KAP-ANT-0051",
+      "name": "ANTIMOTILITY DRUGS",
+      "description": "ANTIMOTILITY DRUGS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 480.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424492",
+      "updated_at": "2026-01-07T19:44:49.424492"
+    },
+    {
+      "id": 52,
+      "sku": "KAP-BLO-0052",
+      "name": "BLOOD TONIC/CAP",
+      "description": "BLOOD TONIC/CAP - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 780.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424495",
+      "updated_at": "2026-01-07T19:44:49.424496"
+    },
+    {
+      "id": 53,
+      "sku": "KAP-SUP-0053",
+      "name": "SUPPOSITORIES",
+      "description": "SUPPOSITORIES - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 5520.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424501",
+      "updated_at": "2026-01-07T19:44:49.424502"
+    },
+    {
+      "id": 54,
+      "sku": "KAP-ATT-0054",
+      "name": "ATTACHMENT",
+      "description": "ATTACHMENT - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 7700.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424507",
+      "updated_at": "2026-01-07T19:44:49.424508"
+    },
+    {
+      "id": 55,
+      "sku": "KAP-TOO-0055",
+      "name": "TOOTHCARE",
+      "description": "TOOTHCARE - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 540.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424510",
+      "updated_at": "2026-01-07T19:44:49.424511"
+    },
+    {
+      "id": 56,
+      "sku": "KAP-SUP-0056",
+      "name": "SUPLEMENT",
+      "description": "SUPLEMENT - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 8400.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424514",
+      "updated_at": "2026-01-07T19:44:49.424514"
+    },
+    {
+      "id": 57,
+      "sku": "KAP-BIS-0057",
+      "name": "BISCUITS",
+      "description": "BISCUITS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1150.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424520",
+      "updated_at": "2026-01-07T19:44:49.424520"
+    },
+    {
+      "id": 58,
+      "sku": "KAP-BIS-0058",
+      "name": "BISCUIT",
+      "description": "BISCUIT - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 100.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424526",
+      "updated_at": "2026-01-07T19:44:49.424527"
+    },
+    {
+      "id": 59,
+      "sku": "KAP-ANA-0059",
+      "name": "ANALGESIC TOPICAL",
+      "description": "ANALGESIC TOPICAL - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1300.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424532",
+      "updated_at": "2026-01-07T19:44:49.424533"
+    },
+    {
+      "id": 60,
+      "sku": "KAP-EYE-0060",
+      "name": "EYE CARE",
+      "description": "EYE CARE - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 12340.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424536",
+      "updated_at": "2026-01-07T19:44:49.424536"
+    },
+    {
+      "id": 61,
+      "sku": "KAP-SPI-0061",
+      "name": "SPICE",
+      "description": "SPICE - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1100.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424539",
+      "updated_at": "2026-01-07T19:44:49.424539"
+    },
+    {
+      "id": 62,
+      "sku": "KAP-COL-0062",
+      "name": "COLD AND CATARRH",
+      "description": "COLD AND CATARRH - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3570.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424542",
+      "updated_at": "2026-01-07T19:44:49.424543"
+    },
+    {
+      "id": 63,
+      "sku": "KAP-POW-0063",
+      "name": "POWDER",
+      "description": "POWDER - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 2400.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424546",
+      "updated_at": "2026-01-07T19:44:49.424546"
+    },
+    {
+      "id": 64,
+      "sku": "KAP-MAN-0064",
+      "name": "MANPOWERS",
+      "description": "MANPOWERS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 15140.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424553",
+      "updated_at": "2026-01-07T19:44:49.424554"
+    },
+    {
+      "id": 65,
+      "sku": "KAP-COU-0065",
+      "name": "COUGH SUPPRESANTS",
+      "description": "COUGH SUPPRESANTS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 350.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424557",
+      "updated_at": "2026-01-07T19:44:49.424557"
+    },
+    {
+      "id": 66,
+      "sku": "KAP-NAT-0066",
+      "name": "NATURAL REMEDIES",
+      "description": "NATURAL REMEDIES - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1410.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424561",
+      "updated_at": "2026-01-07T19:44:49.424561"
+    },
+    {
+      "id": 67,
+      "sku": "KAP-LOG-0067",
+      "name": "LOGISTICS",
+      "description": "LOGISTICS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 2000.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424567",
+      "updated_at": "2026-01-07T19:44:49.424568"
+    },
+    {
+      "id": 68,
+      "sku": "KAP-ANT-0068",
+      "name": "ANTI FUNGI CREAM",
+      "description": "ANTI FUNGI CREAM - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1020.0,
+      "category": "Topical Treatments",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424572",
+      "updated_at": "2026-01-07T19:44:49.424572"
+    },
+    {
+      "id": 69,
+      "sku": "KAP-PAE-0069",
+      "name": "PAEDIATRICS DRUGS",
+      "description": "PAEDIATRICS DRUGS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1500.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424575",
+      "updated_at": "2026-01-07T19:44:49.424576"
+    },
+    {
+      "id": 70,
+      "sku": "KAP-ANT-0070",
+      "name": "ANTI VIRAL",
+      "description": "ANTI VIRAL - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 2400.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424578",
+      "updated_at": "2026-01-07T19:44:49.424579"
+    },
+    {
+      "id": 71,
+      "sku": "KAP-ANT-0071",
+      "name": "ANTI EPILEPTICS",
+      "description": "ANTI EPILEPTICS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1000.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424582",
+      "updated_at": "2026-01-07T19:44:49.424582"
+    },
+    {
+      "id": 72,
+      "sku": "KAP-COU-0072",
+      "name": "COUGH EXPECTORANTS",
+      "description": "COUGH EXPECTORANTS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1105.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424585",
+      "updated_at": "2026-01-07T19:44:49.424586"
+    },
+    {
+      "id": 73,
+      "sku": "KAP-ANT-0073",
+      "name": "ANTIPSYCHOTICS",
+      "description": "ANTIPSYCHOTICS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3900.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424589",
+      "updated_at": "2026-01-07T19:44:49.424589"
+    },
+    {
+      "id": 74,
+      "sku": "KAP-ANT-0074",
+      "name": "ANTI ARRHYTHMIC DRUGS",
+      "description": "ANTI ARRHYTHMIC DRUGS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 20.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424594",
+      "updated_at": "2026-01-07T19:44:49.424595"
+    },
+    {
+      "id": 75,
+      "sku": "KAP-ANT-0075",
+      "name": "ANTI HELMINTICS",
+      "description": "ANTI HELMINTICS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 10.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424601",
+      "updated_at": "2026-01-07T19:44:49.424602"
+    },
+    {
+      "id": 76,
+      "sku": "KAP-DIU-0076",
+      "name": "DIURETICS",
+      "description": "DIURETICS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 280.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424605",
+      "updated_at": "2026-01-07T19:44:49.424605"
+    },
+    {
+      "id": 77,
+      "sku": "KAP-TOO-0077",
+      "name": "TOOTHPASTE/TOOTHBRUSH",
+      "description": "TOOTHPASTE/TOOTHBRUSH - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 670.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424608",
+      "updated_at": "2026-01-07T19:44:49.424609"
+    },
+    {
+      "id": 78,
+      "sku": "KAP-ANT-0078",
+      "name": "ANTIRITROVIRAL",
+      "description": "ANTIRITROVIRAL - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 8630.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424612",
+      "updated_at": "2026-01-07T19:44:49.424613"
+    },
+    {
+      "id": 79,
+      "sku": "KAP-SKI-0079",
+      "name": "SKIN AND BODY",
+      "description": "SKIN AND BODY - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 4600.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424616",
+      "updated_at": "2026-01-07T19:44:49.424616"
+    },
+    {
+      "id": 80,
+      "sku": "KAP-ANT-0080",
+      "name": "ANTI MALARIA SUSPENSIONS",
+      "description": "ANTI MALARIA SUSPENSIONS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1080.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424620",
+      "updated_at": "2026-01-07T19:44:49.424620"
+    },
+    {
+      "id": 81,
+      "sku": "KAP-PER-0081",
+      "name": "PERFUMES",
+      "description": "PERFUMES - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 14300.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424623",
+      "updated_at": "2026-01-07T19:44:49.424623"
+    },
+    {
+      "id": 82,
+      "sku": "KAP-CON-0082",
+      "name": "CONDOM",
+      "description": "CONDOM - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 3580.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424626",
+      "updated_at": "2026-01-07T19:44:49.424628"
+    },
+    {
+      "id": 83,
+      "sku": "KAP-ANT-0083",
+      "name": "ANTACID",
+      "description": "ANTACID - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 700.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424632",
+      "updated_at": "2026-01-07T19:44:49.424632"
+    },
+    {
+      "id": 84,
+      "sku": "KAP-ANT-0084",
+      "name": "ANTISEPTICS",
+      "description": "ANTISEPTICS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 200.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424637",
+      "updated_at": "2026-01-07T19:44:49.424637"
+    },
+    {
+      "id": 85,
+      "sku": "KAP-CYT-0085",
+      "name": "CYTOTOXICS",
+      "description": "CYTOTOXICS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 33890.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424641",
+      "updated_at": "2026-01-07T19:44:49.424642"
+    },
+    {
+      "id": 86,
+      "sku": "KAP-INF-0086",
+      "name": "INFUSION",
+      "description": "INFUSION - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 11860.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424645",
+      "updated_at": "2026-01-07T19:44:49.424645"
+    },
+    {
+      "id": 87,
+      "sku": "KAP-DIA-0087",
+      "name": "DIABETES DRUGS",
+      "description": "DIABETES DRUGS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 10680.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424648",
+      "updated_at": "2026-01-07T19:44:49.424649"
+    },
+    {
+      "id": 88,
+      "sku": "KAP-CON-0088",
+      "name": "CONTRACEPTIVES",
+      "description": "CONTRACEPTIVES - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 300.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424652",
+      "updated_at": "2026-01-07T19:44:49.424652"
+    },
+    {
+      "id": 89,
+      "sku": "KAP-OIL-0089",
+      "name": "OIL",
+      "description": "OIL - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1380.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424655",
+      "updated_at": "2026-01-07T19:44:49.424656"
+    },
+    {
+      "id": 90,
+      "sku": "KAP-INS-0090",
+      "name": "INSECTICIDES",
+      "description": "INSECTICIDES - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 6880.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424659",
+      "updated_at": "2026-01-07T19:44:49.424660"
+    },
+    {
+      "id": 91,
+      "sku": "KAP-BAB-0091",
+      "name": "BABY FOODS",
+      "description": "BABY FOODS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 27500.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424663",
+      "updated_at": "2026-01-07T19:44:49.424663"
+    },
+    {
+      "id": 92,
+      "sku": "KAP-ANT-0092",
+      "name": "ANTI ULCER",
+      "description": "ANTI ULCER - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 4960.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424666",
+      "updated_at": "2026-01-07T19:44:49.424667"
+    },
+    {
+      "id": 93,
+      "sku": "KAP-CYT-0093",
+      "name": "CYTOTOXICS INJECTION",
+      "description": "CYTOTOXICS INJECTION - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 129830.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424670",
+      "updated_at": "2026-01-07T19:44:49.424670"
+    },
+    {
+      "id": 94,
+      "sku": "KAP-HYP-0094",
+      "name": "HYPNOTICS AND ANXIOLYTICS",
+      "description": "HYPNOTICS AND ANXIOLYTICS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1140.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424675",
+      "updated_at": "2026-01-07T19:44:49.424676"
+    },
+    {
+      "id": 95,
+      "sku": "KAP-ANT-0095",
+      "name": "ANTI BIOTIC FUNGI AND ITCHING CREAM",
+      "description": "ANTI BIOTIC FUNGI AND ITCHING CREAM - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 1200.0,
+      "category": "Topical Treatments",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424678",
+      "updated_at": "2026-01-07T19:44:49.424681"
+    },
+    {
+      "id": 96,
+      "sku": "KAP-DIA-0096",
+      "name": "DIABETES MONIITORING DEVICES",
+      "description": "DIABETES MONIITORING DEVICES - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 2400.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424686",
+      "updated_at": "2026-01-07T19:44:49.424686"
+    },
+    {
+      "id": 97,
+      "sku": "KAP-SIC-0097",
+      "name": "SICKLE CELL ANAEMIA",
+      "description": "SICKLE CELL ANAEMIA - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 5400.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424689",
+      "updated_at": "2026-01-07T19:44:49.424690"
+    },
+    {
+      "id": 98,
+      "sku": "KAP-LAX-0098",
+      "name": "LAXATIVES",
+      "description": "LAXATIVES - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 21600.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424694",
+      "updated_at": "2026-01-07T19:44:49.424695"
+    },
+    {
+      "id": 99,
+      "sku": "KAP-PAM-0099",
+      "name": "PAMPERS",
+      "description": "PAMPERS - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 11170.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424697",
+      "updated_at": "2026-01-07T19:44:49.424698"
+    },
+    {
+      "id": 100,
+      "sku": "KAP-PUR-0100",
+      "name": "PURGATIVE",
+      "description": "PURGATIVE - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 4500.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424701",
+      "updated_at": "2026-01-07T19:44:49.424702"
+    },
+    {
+      "id": 101,
+      "sku": "KAP-SPO-0101",
+      "name": "SPONGE",
+      "description": "SPONGE - High quality pharmaceutical product available at all Kunle Ara Pharmacy branches",
+      "price": 5135.0,
+      "category": "General Medicine",
+      "stock_quantity": 50,
+      "in_stock": true,
+      "branches": {
+        "UCH": {
+          "stock": 50,
+          "available": true
+        },
+        "Yemetu": {
+          "stock": 50,
+          "available": true
+        },
+        "Ring Road": {
+          "stock": 50,
+          "available": true
+        }
+      },
+      "created_at": "2026-01-07T19:44:49.424704",
+      "updated_at": "2026-01-07T19:44:49.424705"
+    }
+  ]
+}

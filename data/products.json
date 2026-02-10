@@ -1,0 +1,1416 @@
+[
+  {
+    "id": 1,
+    "name": "ANTIHISTAMINS",
+    "price": 110.0,
+    "category": "ANTIHISTAMINS",
+    "sku": "KAP-001",
+    "description": "ANTIHISTAMINS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "SHOWER GEL",
+    "price": 11000.0,
+    "category": "SHOWER GEL",
+    "sku": "KAP-002",
+    "description": "SHOWER GEL - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "CREAM",
+    "price": 15000.0,
+    "category": "CREAM",
+    "sku": "KAP-003",
+    "description": "CREAM - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "DRINKS",
+    "price": 20220.0,
+    "category": "DRINKS",
+    "sku": "KAP-004",
+    "description": "DRINKS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "SKIN DISINFECTION",
+    "price": 420.0,
+    "category": "SKIN DISINFECTION",
+    "sku": "KAP-005",
+    "description": "SKIN DISINFECTION - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "VITAMINS",
+    "price": 31050.0,
+    "category": "VITAMINS",
+    "sku": "KAP-006",
+    "description": "VITAMINS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "SURGICAL",
+    "price": 33600.0,
+    "category": "SURGICAL",
+    "sku": "KAP-007",
+    "description": "SURGICAL - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "HAIR COSTUME",
+    "price": 3580.0,
+    "category": "HAIR COSTUME",
+    "sku": "KAP-008",
+    "description": "HAIR COSTUME - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "LOTION",
+    "price": 18150.0,
+    "category": "LOTION",
+    "sku": "KAP-009",
+    "description": "LOTION - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "ANALGESICS",
+    "price": 12615.0,
+    "category": "ANALGESICS",
+    "sku": "KAP-010",
+    "description": "ANALGESICS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "MINERALS",
+    "price": 12410.0,
+    "category": "MINERALS",
+    "sku": "KAP-011",
+    "description": "MINERALS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "OTHER",
+    "price": 16920.0,
+    "category": "OTHER",
+    "sku": "KAP-012",
+    "description": "OTHER - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "SPRAY",
+    "price": 1300.0,
+    "category": "SPRAY",
+    "sku": "KAP-013",
+    "description": "SPRAY - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "LIPID REGULATING DRUGS",
+    "price": 400.0,
+    "category": "LIPID REGULATING DRUGS",
+    "sku": "KAP-014",
+    "description": "LIPID REGULATING DRUGS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "BRONCHODIALATORS",
+    "price": 10.0,
+    "category": "BRONCHODIALATORS",
+    "sku": "KAP-015",
+    "description": "BRONCHODIALATORS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "SUPERMARKET",
+    "price": 2100.0,
+    "category": "SUPERMARKET",
+    "sku": "KAP-016",
+    "description": "SUPERMARKET - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "TABLES/CAPSULES",
+    "price": 10880.0,
+    "category": "TABLES/CAPSULES",
+    "sku": "KAP-017",
+    "description": "TABLES/CAPSULES - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "INJECTION",
+    "price": 176000.0,
+    "category": "INJECTION",
+    "sku": "KAP-018",
+    "description": "INJECTION - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "ACCUHALER",
+    "price": 6200.0,
+    "category": "ACCUHALER",
+    "sku": "KAP-019",
+    "description": "ACCUHALER - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "EAR CARE",
+    "price": 1380.0,
+    "category": "EAR CARE",
+    "sku": "KAP-020",
+    "description": "EAR CARE - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "FEMALE FERTILITY DRUGS",
+    "price": 30530.0,
+    "category": "FEMALE FERTILITY DRUGS",
+    "sku": "KAP-021",
+    "description": "FEMALE FERTILITY DRUGS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "SOAP",
+    "price": 3300.0,
+    "category": "SOAP",
+    "sku": "KAP-022",
+    "description": "SOAP - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "PROVISION",
+    "price": 3670.0,
+    "category": "PROVISION",
+    "sku": "KAP-023",
+    "description": "PROVISION - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "PERFUME",
+    "price": 18000.0,
+    "category": "PERFUME",
+    "sku": "KAP-024",
+    "description": "PERFUME - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "CLEANSER",
+    "price": 14850.0,
+    "category": "CLEANSER",
+    "sku": "KAP-025",
+    "description": "CLEANSER - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "SYRUP",
+    "price": 1640.0,
+    "category": "SYRUP",
+    "sku": "KAP-026",
+    "description": "SYRUP - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "HERBAL TEA",
+    "price": 3120.0,
+    "category": "HERBAL TEA",
+    "sku": "KAP-027",
+    "description": "HERBAL TEA - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "ANTIBIOTIC CREAM",
+    "price": 4800.0,
+    "category": "ANTIBIOTIC CREAM",
+    "sku": "KAP-028",
+    "description": "ANTIBIOTIC CREAM - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "SWEETENER",
+    "price": 3000.0,
+    "category": "SWEETENER",
+    "sku": "KAP-029",
+    "description": "SWEETENER - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "OINTMENT",
+    "price": 3600.0,
+    "category": "OINTMENT",
+    "sku": "KAP-030",
+    "description": "OINTMENT - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "THRUSH DRUGS",
+    "price": 2220.0,
+    "category": "THRUSH DRUGS",
+    "sku": "KAP-031",
+    "description": "THRUSH DRUGS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "SEASONING",
+    "price": 1100.0,
+    "category": "SEASONING",
+    "sku": "KAP-032",
+    "description": "SEASONING - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "COSMETICS",
+    "price": 16500.0,
+    "category": "COSMETICS",
+    "sku": "KAP-033",
+    "description": "COSMETICS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "MEDICAL DEVICE",
+    "price": 17725.0,
+    "category": "MEDICAL DEVICE",
+    "sku": "KAP-034",
+    "description": "MEDICAL DEVICE - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "ANTIHYPERTENSIVES",
+    "price": 24720.0,
+    "category": "ANTIHYPERTENSIVES",
+    "sku": "KAP-035",
+    "description": "ANTIHYPERTENSIVES - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "ANTIBIOTICS",
+    "price": 4570.0,
+    "category": "ANTIBIOTICS",
+    "sku": "KAP-036",
+    "description": "ANTIBIOTICS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "DIAPER ADULT",
+    "price": 12940.0,
+    "category": "DIAPER ADULT",
+    "sku": "KAP-037",
+    "description": "DIAPER ADULT - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "ANTI MALARIALS",
+    "price": 1440.0,
+    "category": "ANTI MALARIALS",
+    "sku": "KAP-038",
+    "description": "ANTI MALARIALS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "MOUTH WASHES",
+    "price": 3380.0,
+    "category": "MOUTH WASHES",
+    "sku": "KAP-039",
+    "description": "MOUTH WASHES - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "ANTI DEPRESSANTS",
+    "price": 1440.0,
+    "category": "ANTI DEPRESSANTS",
+    "sku": "KAP-040",
+    "description": "ANTI DEPRESSANTS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "ANTIBIOTICS SUSPENSION",
+    "price": 2880.0,
+    "category": "ANTIBIOTICS SUSPENSION",
+    "sku": "KAP-041",
+    "description": "ANTIBIOTICS SUSPENSION - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "ANTI FUNGAL",
+    "price": 580.0,
+    "category": "ANTI FUNGAL",
+    "sku": "KAP-042",
+    "description": "ANTI FUNGAL - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "SUSPENSION",
+    "price": 4085.0,
+    "category": "SUSPENSION",
+    "sku": "KAP-043",
+    "description": "SUSPENSION - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "HAIR CARE",
+    "price": 3630.0,
+    "category": "HAIR CARE",
+    "sku": "KAP-044",
+    "description": "HAIR CARE - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "ELECTRONIC DEVICE",
+    "price": 222200.0,
+    "category": "ELECTRONIC DEVICE",
+    "sku": "KAP-045",
+    "description": "ELECTRONIC DEVICE - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "HONEY",
+    "price": 6050.0,
+    "category": "HONEY",
+    "sku": "KAP-046",
+    "description": "HONEY - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "WINE",
+    "price": 3300.0,
+    "category": "WINE",
+    "sku": "KAP-047",
+    "description": "WINE - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "EYE/EAR",
+    "price": 21600.0,
+    "category": "EYE/EAR",
+    "sku": "KAP-048",
+    "description": "EYE/EAR - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "TOILETERIES",
+    "price": 1190.0,
+    "category": "TOILETERIES",
+    "sku": "KAP-049",
+    "description": "TOILETERIES - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "ANAESTHESIA GENERAL",
+    "price": 2000.0,
+    "category": "ANAESTHESIA GENERAL",
+    "sku": "KAP-050",
+    "description": "ANAESTHESIA GENERAL - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "ANTIMOTILITY DRUGS",
+    "price": 480.0,
+    "category": "ANTIMOTILITY DRUGS",
+    "sku": "KAP-051",
+    "description": "ANTIMOTILITY DRUGS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "BLOOD TONIC/CAP",
+    "price": 780.0,
+    "category": "BLOOD TONIC/CAP",
+    "sku": "KAP-052",
+    "description": "BLOOD TONIC/CAP - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "SUPPOSITORIES",
+    "price": 5520.0,
+    "category": "SUPPOSITORIES",
+    "sku": "KAP-053",
+    "description": "SUPPOSITORIES - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "ATTACHMENT",
+    "price": 7700.0,
+    "category": "ATTACHMENT",
+    "sku": "KAP-054",
+    "description": "ATTACHMENT - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "TOOTHCARE",
+    "price": 540.0,
+    "category": "TOOTHCARE",
+    "sku": "KAP-055",
+    "description": "TOOTHCARE - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "SUPLEMENT",
+    "price": 8400.0,
+    "category": "SUPLEMENT",
+    "sku": "KAP-056",
+    "description": "SUPLEMENT - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "BISCUITS",
+    "price": 1150.0,
+    "category": "BISCUITS",
+    "sku": "KAP-057",
+    "description": "BISCUITS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "BISCUIT",
+    "price": 100.0,
+    "category": "BISCUIT",
+    "sku": "KAP-058",
+    "description": "BISCUIT - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "ANALGESIC TOPICAL",
+    "price": 1300.0,
+    "category": "ANALGESIC TOPICAL",
+    "sku": "KAP-059",
+    "description": "ANALGESIC TOPICAL - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "EYE CARE",
+    "price": 12340.0,
+    "category": "EYE CARE",
+    "sku": "KAP-060",
+    "description": "EYE CARE - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "SPICE",
+    "price": 1100.0,
+    "category": "SPICE",
+    "sku": "KAP-061",
+    "description": "SPICE - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "COLD AND CATARRH",
+    "price": 3570.0,
+    "category": "COLD AND CATARRH",
+    "sku": "KAP-062",
+    "description": "COLD AND CATARRH - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "POWDER",
+    "price": 2400.0,
+    "category": "POWDER",
+    "sku": "KAP-063",
+    "description": "POWDER - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "MANPOWERS",
+    "price": 15140.0,
+    "category": "MANPOWERS",
+    "sku": "KAP-064",
+    "description": "MANPOWERS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "COUGH SUPPRESANTS",
+    "price": 350.0,
+    "category": "COUGH SUPPRESANTS",
+    "sku": "KAP-065",
+    "description": "COUGH SUPPRESANTS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "NATURAL REMEDIES",
+    "price": 1410.0,
+    "category": "NATURAL REMEDIES",
+    "sku": "KAP-066",
+    "description": "NATURAL REMEDIES - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "LOGISTICS",
+    "price": 2000.0,
+    "category": "LOGISTICS",
+    "sku": "KAP-067",
+    "description": "LOGISTICS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "ANTI FUNGI CREAM",
+    "price": 1020.0,
+    "category": "ANTI FUNGI CREAM",
+    "sku": "KAP-068",
+    "description": "ANTI FUNGI CREAM - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "PAEDIATRICS DRUGS",
+    "price": 1500.0,
+    "category": "PAEDIATRICS DRUGS",
+    "sku": "KAP-069",
+    "description": "PAEDIATRICS DRUGS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "ANTI VIRAL",
+    "price": 2400.0,
+    "category": "ANTI VIRAL",
+    "sku": "KAP-070",
+    "description": "ANTI VIRAL - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "ANTI EPILEPTICS",
+    "price": 1000.0,
+    "category": "ANTI EPILEPTICS",
+    "sku": "KAP-071",
+    "description": "ANTI EPILEPTICS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "COUGH EXPECTORANTS",
+    "price": 1105.0,
+    "category": "COUGH EXPECTORANTS",
+    "sku": "KAP-072",
+    "description": "COUGH EXPECTORANTS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "ANTIPSYCHOTICS",
+    "price": 3900.0,
+    "category": "ANTIPSYCHOTICS",
+    "sku": "KAP-073",
+    "description": "ANTIPSYCHOTICS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "ANTI ARRHYTHMIC DRUGS",
+    "price": 20.0,
+    "category": "ANTI ARRHYTHMIC DRUGS",
+    "sku": "KAP-074",
+    "description": "ANTI ARRHYTHMIC DRUGS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "ANTI HELMINTICS",
+    "price": 10.0,
+    "category": "ANTI HELMINTICS",
+    "sku": "KAP-075",
+    "description": "ANTI HELMINTICS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "DIURETICS",
+    "price": 280.0,
+    "category": "DIURETICS",
+    "sku": "KAP-076",
+    "description": "DIURETICS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "TOOTHPASTE/TOOTHBRUSH",
+    "price": 670.0,
+    "category": "TOOTHPASTE/TOOTHBRUSH",
+    "sku": "KAP-077",
+    "description": "TOOTHPASTE/TOOTHBRUSH - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "ANTIRITROVIRAL",
+    "price": 8630.0,
+    "category": "ANTIRITROVIRAL",
+    "sku": "KAP-078",
+    "description": "ANTIRITROVIRAL - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "SKIN AND BODY",
+    "price": 4600.0,
+    "category": "SKIN AND BODY",
+    "sku": "KAP-079",
+    "description": "SKIN AND BODY - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "ANTI MALARIA SUSPENSIONS",
+    "price": 1080.0,
+    "category": "ANTI MALARIA SUSPENSIONS",
+    "sku": "KAP-080",
+    "description": "ANTI MALARIA SUSPENSIONS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "PERFUMES",
+    "price": 14300.0,
+    "category": "PERFUMES",
+    "sku": "KAP-081",
+    "description": "PERFUMES - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "CONDOM",
+    "price": 3580.0,
+    "category": "CONDOM",
+    "sku": "KAP-082",
+    "description": "CONDOM - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "ANTACID",
+    "price": 700.0,
+    "category": "ANTACID",
+    "sku": "KAP-083",
+    "description": "ANTACID - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "ANTISEPTICS",
+    "price": 200.0,
+    "category": "ANTISEPTICS",
+    "sku": "KAP-084",
+    "description": "ANTISEPTICS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "CYTOTOXICS",
+    "price": 33890.0,
+    "category": "CYTOTOXICS",
+    "sku": "KAP-085",
+    "description": "CYTOTOXICS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "INFUSION",
+    "price": 11860.0,
+    "category": "INFUSION",
+    "sku": "KAP-086",
+    "description": "INFUSION - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "DIABETES DRUGS",
+    "price": 10680.0,
+    "category": "DIABETES DRUGS",
+    "sku": "KAP-087",
+    "description": "DIABETES DRUGS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "CONTRACEPTIVES",
+    "price": 300.0,
+    "category": "CONTRACEPTIVES",
+    "sku": "KAP-088",
+    "description": "CONTRACEPTIVES - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "OIL",
+    "price": 1380.0,
+    "category": "OIL",
+    "sku": "KAP-089",
+    "description": "OIL - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "INSECTICIDES",
+    "price": 6880.0,
+    "category": "INSECTICIDES",
+    "sku": "KAP-090",
+    "description": "INSECTICIDES - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "BABY FOODS",
+    "price": 27500.0,
+    "category": "BABY FOODS",
+    "sku": "KAP-091",
+    "description": "BABY FOODS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "ANTI ULCER",
+    "price": 4960.0,
+    "category": "ANTI ULCER",
+    "sku": "KAP-092",
+    "description": "ANTI ULCER - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "CYTOTOXICS INJECTION",
+    "price": 129830.0,
+    "category": "CYTOTOXICS INJECTION",
+    "sku": "KAP-093",
+    "description": "CYTOTOXICS INJECTION - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "HYPNOTICS AND ANXIOLYTICS",
+    "price": 1140.0,
+    "category": "HYPNOTICS AND ANXIOLYTICS",
+    "sku": "KAP-094",
+    "description": "HYPNOTICS AND ANXIOLYTICS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "ANTI BIOTIC FUNGI AND ITCHING CREAM",
+    "price": 1200.0,
+    "category": "ANTI BIOTIC FUNGI AND ITCHING CREAM",
+    "sku": "KAP-095",
+    "description": "ANTI BIOTIC FUNGI AND ITCHING CREAM - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "DIABETES MONIITORING DEVICES",
+    "price": 2400.0,
+    "category": "DIABETES MONIITORING DEVICES",
+    "sku": "KAP-096",
+    "description": "DIABETES MONIITORING DEVICES - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "SICKLE CELL ANAEMIA",
+    "price": 5400.0,
+    "category": "SICKLE CELL ANAEMIA",
+    "sku": "KAP-097",
+    "description": "SICKLE CELL ANAEMIA - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "LAXATIVES",
+    "price": 21600.0,
+    "category": "LAXATIVES",
+    "sku": "KAP-098",
+    "description": "LAXATIVES - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "PAMPERS",
+    "price": 11170.0,
+    "category": "PAMPERS",
+    "sku": "KAP-099",
+    "description": "PAMPERS - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "PURGATIVE",
+    "price": 4500.0,
+    "category": "PURGATIVE",
+    "sku": "KAP-100",
+    "description": "PURGATIVE - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "SPONGE",
+    "price": 5135.0,
+    "category": "SPONGE",
+    "sku": "KAP-101",
+    "description": "SPONGE - Available at Kunle Ara Pharmacy",
+    "stock": 100,
+    "branches": [
+      "UCH",
+      "Yemetu",
+      "Ring Road"
+    ]
+  }
+]

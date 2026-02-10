@@ -1,0 +1,320 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+<<<<<<< HEAD
+model Product {
+  id                    String     @id @default(cuid())
+  name                  String
+  price                 Float
+  category              String
+  brand                 String?
+  inStock               Boolean    @default(true)
+  stockQuantity         Int
+  prescriptionRequired  Boolean    @default(false)
+  barcode               String?    @unique
+  image                 String?
+  createdAt             DateTime   @default(now())
+  updatedAt             DateTime   @updatedAt
+  saleItems             SaleItem[]
+=======
+model branches {
+  id                     Int                      @id @default(autoincrement())
+  name                   String                   @db.VarChar(100)
+  address                String?
+  phone                  String?                  @db.VarChar(20)
+  manager_id             Int?
+  created_at             DateTime?                @default(now()) @db.Timestamp(6)
+  updated_at             DateTime?                @default(now()) @db.Timestamp(6)
+  consultations          consultations[]
+  inventory_transactions inventory_transactions[]
+  orders                 orders[]
+  products               products[]
+  staff                  staff[]
+  staff_performance      staff_performance[]
+  sales                  Sale[]                   @relation("SalesBranch")
+  refunds                Refund[]                 @relation("RefundsBranch")
+}
+
+model consultations {
+  id               Int       @id @default(autoincrement())
+  pharmacist_id    Int
+  customer_name    String?   @db.VarChar(255)
+  branch_id        Int?
+  start_time       DateTime  @db.Timestamp(6)
+  end_time         DateTime? @db.Timestamp(6)
+  duration_seconds Int?
+  outcome          String?   @db.VarChar(50)
+  notes            String?
+  created_at       DateTime? @default(now()) @db.Timestamp(6)
+  branches         branches? @relation(fields: [branch_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  staff            staff     @relation(fields: [pharmacist_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model inventory_transactions {
+  id               Int       @id @default(autoincrement())
+  product_id       Int?
+  branch_id        Int?
+  transaction_type String    @db.VarChar(20)
+  quantity         Int
+  reference_id     Int?
+  created_by       Int?
+  created_at       DateTime? @default(now()) @db.Timestamp(6)
+  branches         branches? @relation(fields: [branch_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  staff            staff?    @relation(fields: [created_by], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  products         products? @relation(fields: [product_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model order_items {
+  id          Int       @id @default(autoincrement())
+  order_id    Int?
+  product_id  Int?
+  quantity    Int
+  unit_price  Decimal   @db.Decimal(10, 2)
+  total_price Decimal   @db.Decimal(10, 2)
+  orders      orders?   @relation(fields: [order_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  products    products? @relation(fields: [product_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model orders {
+  id                Int                 @id @default(autoincrement())
+  order_number      String              @unique @db.VarChar(50)
+  customer_name     String?             @db.VarChar(255)
+  customer_phone    String?             @db.VarChar(20)
+  branch_id         Int?
+  staff_id          Int?
+  total_amount      Decimal             @db.Decimal(10, 2)
+  order_type        String              @db.VarChar(20)
+  status            String?             @default("pending") @db.VarChar(20)
+  created_at        DateTime?           @default(now()) @db.Timestamp(6)
+  completed_at      DateTime?           @db.Timestamp(6)
+  order_items       order_items[]
+  branches          branches?           @relation(fields: [branch_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  staff             staff?              @relation(fields: [staff_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  staff_performance staff_performance[]
+}
+
+model products {
+  id                     Int                      @id @default(autoincrement())
+  sku                    String                   @unique @db.VarChar(50)
+  name                   String                   @db.VarChar(255)
+  description            String?
+  price                  Decimal                  @db.Decimal(10, 2)
+  category               String?                  @db.VarChar(100)
+  stock_quantity         Int?                     @default(0)
+  branch_id              Int?
+  in_stock               Boolean?                 @default(true)
+  prescription_required  Boolean?                 @default(false)
+  barcode                String?                  @unique @db.VarChar(100)
+  created_at             DateTime?                @default(now()) @db.Timestamp(6)
+  updated_at             DateTime?                @default(now()) @db.Timestamp(6)
+  inventory_transactions inventory_transactions[]
+  order_items            order_items[]
+  branches               branches?                @relation(fields: [branch_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  saleItems              SaleItem[]               @relation("SaleItemsProduct")
+}
+
+model staff {
+  id                     Int                      @id @default(autoincrement())
+  name                   String                   @db.VarChar(255)
+  email                  String?                  @unique @db.VarChar(255)
+  password               String?                  @db.VarChar(255)
+  branch_id              Int?
+  role                   String                   @db.VarChar(50)
+  hire_date              DateTime?                @db.Date
+  created_at             DateTime?                @default(now()) @db.Timestamp(6)
+  consultations          consultations[]
+  inventory_transactions inventory_transactions[]
+  orders                 orders[]
+  branches               branches?                @relation(fields: [branch_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  staff_performance      staff_performance[]
+  sales                  Sale[]                   @relation("SalesStaff")
+}
+
+model staff_performance {
+  id                        Int       @id @default(autoincrement())
+  staff_id                  Int
+  branch_id                 Int?
+  order_id                  Int?
+  processing_time_seconds   Int?
+  consultation_time_seconds Int?
+  sla_compliant             Boolean?
+  commission_earned         Decimal?  @db.Decimal(10, 2)
+  performance_date          DateTime? @default(dbgenerated("CURRENT_DATE")) @db.Date
+  created_at                DateTime? @default(now()) @db.Timestamp(6)
+  branches                  branches? @relation(fields: [branch_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  orders                    orders?   @relation(fields: [order_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  staff                     staff     @relation(fields: [staff_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+>>>>>>> f96f68f (Fix: Working version with all dependencies installed)
+}
+
+model Sale {
+  id                      String                    @id @default(cuid())
+<<<<<<< HEAD
+  receiptNumber           String                    @unique
+  items                   SaleItem[]
+  subtotal                Float
+  tax                     Float
+  total                   Float
+  discount                Float                     @default(0)
+  paymentMethod           String
+  amountReceived          Float
+  change                  Float
+  staffId                 String
+  staff                   Staff                     @relation(fields: [staffId], references: [id])
+  customerName            String?
+  customerPhone           String?
+  branchId                String
+  branch                  Branch                    @relation(fields: [branchId], references: [id])
+  prescriptionValidations PrescriptionValidation[]
+  refund                  Refund?
+  createdAt               DateTime                  @default(now())
+}
+
+model SaleItem {
+  id           String  @id @default(cuid())
+  saleId       String
+  sale         Sale    @relation(fields: [saleId], references: [id], onDelete: Cascade)
+  productId    String
+  product      Product @relation(fields: [productId], references: [id])
+  productName  String
+  quantity     Int
+  unitPrice    Float
+  totalPrice   Float
+  prescriberId String?
+=======
+  receiptNumber           String                    @unique @map("receipt_number")
+  items                   SaleItem[]
+  subtotal                Decimal                   @db.Decimal(10, 2)
+  tax                     Decimal                   @db.Decimal(10, 2)
+  total                   Decimal                   @db.Decimal(10, 2)
+  discount                Decimal                   @default(0) @db.Decimal(10, 2)
+  paymentMethod           String                    @map("payment_method") @db.VarChar(20)
+  amountReceived          Decimal                   @map("amount_received") @db.Decimal(10, 2)
+  change                  Decimal                   @db.Decimal(10, 2)
+  staffId                 Int                       @map("staff_id")
+  staff                   staff                     @relation("SalesStaff", fields: [staffId], references: [id])
+  customerName            String?                   @map("customer_name") @db.VarChar(255)
+  customerPhone           String?                   @map("customer_phone") @db.VarChar(20)
+  branchId                Int                       @map("branch_id")
+  branch                  branches                  @relation("SalesBranch", fields: [branchId], references: [id])
+  prescriptionValidations PrescriptionValidation[]
+  refund                  Refund?
+  createdAt               DateTime                  @default(now()) @map("created_at") @db.Timestamp(6)
+
+  @@map("sales")
+}
+
+model SaleItem {
+  id           String   @id @default(cuid())
+  saleId       String   @map("sale_id")
+  sale         Sale     @relation(fields: [saleId], references: [id], onDelete: Cascade)
+  productId    Int      @map("product_id")
+  product      products @relation("SaleItemsProduct", fields: [productId], references: [id])
+  productName  String   @map("product_name") @db.VarChar(255)
+  quantity     Int
+  unitPrice    Decimal  @map("unit_price") @db.Decimal(10, 2)
+  totalPrice   Decimal  @map("total_price") @db.Decimal(10, 2)
+  prescriberId String?  @map("prescriber_id") @db.VarChar(50)
+
+  @@map("sale_items")
+>>>>>>> f96f68f (Fix: Working version with all dependencies installed)
+}
+
+model PrescriptionValidation {
+  id             String   @id @default(cuid())
+<<<<<<< HEAD
+  saleId         String
+  sale           Sale     @relation(fields: [saleId], references: [id], onDelete: Cascade)
+  itemId         String
+  itemName       String
+  prescriberId   String
+  prescriberName String
+  validatedAt    DateTime @default(now())
+  validatedBy    String
+=======
+  saleId         String   @map("sale_id")
+  sale           Sale     @relation(fields: [saleId], references: [id], onDelete: Cascade)
+  itemId         String   @map("item_id")
+  itemName       String   @map("item_name") @db.VarChar(255)
+  prescriberId   String   @map("prescriber_id") @db.VarChar(50)
+  prescriberName String   @map("prescriber_name") @db.VarChar(255)
+  validatedAt    DateTime @default(now()) @map("validated_at") @db.Timestamp(6)
+  validatedBy    String   @map("validated_by") @db.VarChar(50)
+
+  @@map("prescription_validations")
+>>>>>>> f96f68f (Fix: Working version with all dependencies installed)
+}
+
+model Refund {
+  id             String       @id @default(cuid())
+<<<<<<< HEAD
+  originalSaleId String       @unique
+  originalSale   Sale         @relation(fields: [originalSaleId], references: [id])
+  refundAmount   Float
+  reasonId       String
+  reason         RefundReason @relation(fields: [reasonId], references: [id])
+  customReason   String?
+  processedBy    String
+  branchId       String
+  branch         Branch       @relation(fields: [branchId], references: [id])
+  createdAt      DateTime     @default(now())
+}
+
+model RefundReason {
+  id        String   @id @default(cuid())
+  reason    String   @unique
+  isActive  Boolean  @default(true)
+  createdAt DateTime @default(now())
+  refunds   Refund[]
+}
+
+model Staff {
+  id        String   @id
+  name      String
+  password  String
+  branchId  String
+  branch    Branch   @relation(fields: [branchId], references: [id])
+  role      String   @default("cashier")
+  createdAt DateTime @default(now())
+  sales     Sale[]
+}
+
+model Branch {
+  id        String   @id
+  name      String
+  location  String
+  createdAt DateTime @default(now())
+  sales     Sale[]
+  staff     Staff[]
+  refunds   Refund[]
+=======
+  originalSaleId String       @unique @map("original_sale_id")
+  originalSale   Sale         @relation(fields: [originalSaleId], references: [id])
+  refundAmount   Decimal      @map("refund_amount") @db.Decimal(10, 2)
+  reasonId       String       @map("reason_id")
+  reason         RefundReason @relation(fields: [reasonId], references: [id])
+  customReason   String?      @map("custom_reason") @db.VarChar(500)
+  processedBy    String       @map("processed_by") @db.VarChar(50)
+  branchId       Int          @map("branch_id")
+  branch         branches     @relation("RefundsBranch", fields: [branchId], references: [id])
+  createdAt      DateTime     @default(now()) @map("created_at") @db.Timestamp(6)
+
+  @@map("refunds")
+}
+
+model RefundReason {
+  id        String    @id @default(cuid())
+  reason    String    @unique @db.VarChar(255)
+  isActive  Boolean   @default(true) @map("is_active")
+  createdAt DateTime  @default(now()) @map("created_at") @db.Timestamp(6)
+  refunds   Refund[]
+
+  @@map("refund_reasons")
+>>>>>>> f96f68f (Fix: Working version with all dependencies installed)
+}

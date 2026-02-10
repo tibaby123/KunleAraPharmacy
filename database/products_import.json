@@ -1,0 +1,1521 @@
+{
+  "total_products": 101,
+  "created_at": "2026-01-07T20:12:25.187894",
+  "products": [
+    {
+      "id": 1,
+      "sku": "KAP-ANT-0001",
+      "name": "ANTIHISTAMINS",
+      "description": "ANTIHISTAMINS - High quality pharmaceutical product",
+      "price": 110.0,
+      "category": "Antihistamines",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 2,
+      "sku": "KAP-SHO-0002",
+      "name": "SHOWER GEL",
+      "description": "SHOWER GEL - High quality pharmaceutical product",
+      "price": 11000.0,
+      "category": "Personal Care",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 3,
+      "sku": "KAP-CRE-0003",
+      "name": "CREAM",
+      "description": "CREAM - High quality pharmaceutical product",
+      "price": 15000.0,
+      "category": "Topical Treatments",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 4,
+      "sku": "KAP-DRI-0004",
+      "name": "DRINKS",
+      "description": "DRINKS - High quality pharmaceutical product",
+      "price": 20220.0,
+      "category": "Health Drinks",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 5,
+      "sku": "KAP-SKI-0005",
+      "name": "SKIN DISINFECTION",
+      "description": "SKIN DISINFECTION - High quality pharmaceutical product",
+      "price": 420.0,
+      "category": "Antiseptics",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 6,
+      "sku": "KAP-VIT-0006",
+      "name": "VITAMINS",
+      "description": "VITAMINS - High quality pharmaceutical product",
+      "price": 31050.0,
+      "category": "Vitamins & Supplements",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 7,
+      "sku": "KAP-SUR-0007",
+      "name": "SURGICAL",
+      "description": "SURGICAL - High quality pharmaceutical product",
+      "price": 33600.0,
+      "category": "Medical Supplies",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 8,
+      "sku": "KAP-HAI-0008",
+      "name": "HAIR COSTUME",
+      "description": "HAIR COSTUME - High quality pharmaceutical product",
+      "price": 3580.0,
+      "category": "Personal Care",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 9,
+      "sku": "KAP-LOT-0009",
+      "name": "LOTION",
+      "description": "LOTION - High quality pharmaceutical product",
+      "price": 18150.0,
+      "category": "Topical Treatments",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 10,
+      "sku": "KAP-ANA-0010",
+      "name": "ANALGESICS",
+      "description": "ANALGESICS - High quality pharmaceutical product",
+      "price": 12615.0,
+      "category": "Pain Relief",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 11,
+      "sku": "KAP-MIN-0011",
+      "name": "MINERALS",
+      "description": "MINERALS - High quality pharmaceutical product",
+      "price": 12410.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 12,
+      "sku": "KAP-OTH-0012",
+      "name": "OTHER",
+      "description": "OTHER - High quality pharmaceutical product",
+      "price": 16920.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 13,
+      "sku": "KAP-SPR-0013",
+      "name": "SPRAY",
+      "description": "SPRAY - High quality pharmaceutical product",
+      "price": 1300.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 14,
+      "sku": "KAP-LIP-0014",
+      "name": "LIPID REGULATING DRUGS",
+      "description": "LIPID REGULATING DRUGS - High quality pharmaceutical product",
+      "price": 400.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 15,
+      "sku": "KAP-BRO-0015",
+      "name": "BRONCHODIALATORS",
+      "description": "BRONCHODIALATORS - High quality pharmaceutical product",
+      "price": 10.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 16,
+      "sku": "KAP-SUP-0016",
+      "name": "SUPERMARKET",
+      "description": "SUPERMARKET - High quality pharmaceutical product",
+      "price": 2100.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 17,
+      "sku": "KAP-TAB-0017",
+      "name": "TABLES/CAPSULES",
+      "description": "TABLES/CAPSULES - High quality pharmaceutical product",
+      "price": 10880.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 18,
+      "sku": "KAP-INJ-0018",
+      "name": "INJECTION",
+      "description": "INJECTION - High quality pharmaceutical product",
+      "price": 176000.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 19,
+      "sku": "KAP-ACC-0019",
+      "name": "ACCUHALER",
+      "description": "ACCUHALER - High quality pharmaceutical product",
+      "price": 6200.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 20,
+      "sku": "KAP-EAR-0020",
+      "name": "EAR CARE",
+      "description": "EAR CARE - High quality pharmaceutical product",
+      "price": 1380.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 21,
+      "sku": "KAP-FEM-0021",
+      "name": "FEMALE FERTILITY DRUGS",
+      "description": "FEMALE FERTILITY DRUGS - High quality pharmaceutical product",
+      "price": 30530.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 22,
+      "sku": "KAP-SOA-0022",
+      "name": "SOAP",
+      "description": "SOAP - High quality pharmaceutical product",
+      "price": 3300.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 23,
+      "sku": "KAP-PRO-0023",
+      "name": "PROVISION",
+      "description": "PROVISION - High quality pharmaceutical product",
+      "price": 3670.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 24,
+      "sku": "KAP-PER-0024",
+      "name": "PERFUME",
+      "description": "PERFUME - High quality pharmaceutical product",
+      "price": 18000.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 25,
+      "sku": "KAP-CLE-0025",
+      "name": "CLEANSER",
+      "description": "CLEANSER - High quality pharmaceutical product",
+      "price": 14850.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 26,
+      "sku": "KAP-SYR-0026",
+      "name": "SYRUP",
+      "description": "SYRUP - High quality pharmaceutical product",
+      "price": 1640.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 27,
+      "sku": "KAP-HER-0027",
+      "name": "HERBAL TEA",
+      "description": "HERBAL TEA - High quality pharmaceutical product",
+      "price": 3120.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 28,
+      "sku": "KAP-ANT-0028",
+      "name": "ANTIBIOTIC CREAM",
+      "description": "ANTIBIOTIC CREAM - High quality pharmaceutical product",
+      "price": 4800.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 29,
+      "sku": "KAP-SWE-0029",
+      "name": "SWEETENER",
+      "description": "SWEETENER - High quality pharmaceutical product",
+      "price": 3000.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 30,
+      "sku": "KAP-OIN-0030",
+      "name": "OINTMENT",
+      "description": "OINTMENT - High quality pharmaceutical product",
+      "price": 3600.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 31,
+      "sku": "KAP-THR-0031",
+      "name": "THRUSH DRUGS",
+      "description": "THRUSH DRUGS - High quality pharmaceutical product",
+      "price": 2220.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 32,
+      "sku": "KAP-SEA-0032",
+      "name": "SEASONING",
+      "description": "SEASONING - High quality pharmaceutical product",
+      "price": 1100.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 33,
+      "sku": "KAP-COS-0033",
+      "name": "COSMETICS",
+      "description": "COSMETICS - High quality pharmaceutical product",
+      "price": 16500.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 34,
+      "sku": "KAP-MED-0034",
+      "name": "MEDICAL DEVICE",
+      "description": "MEDICAL DEVICE - High quality pharmaceutical product",
+      "price": 17725.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 35,
+      "sku": "KAP-ANT-0035",
+      "name": "ANTIHYPERTENSIVES",
+      "description": "ANTIHYPERTENSIVES - High quality pharmaceutical product",
+      "price": 24720.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 36,
+      "sku": "KAP-ANT-0036",
+      "name": "ANTIBIOTICS",
+      "description": "ANTIBIOTICS - High quality pharmaceutical product",
+      "price": 4570.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 37,
+      "sku": "KAP-DIA-0037",
+      "name": "DIAPER ADULT",
+      "description": "DIAPER ADULT - High quality pharmaceutical product",
+      "price": 12940.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 38,
+      "sku": "KAP-ANT-0038",
+      "name": "ANTI MALARIALS",
+      "description": "ANTI MALARIALS - High quality pharmaceutical product",
+      "price": 1440.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 39,
+      "sku": "KAP-MOU-0039",
+      "name": "MOUTH WASHES",
+      "description": "MOUTH WASHES - High quality pharmaceutical product",
+      "price": 3380.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 40,
+      "sku": "KAP-ANT-0040",
+      "name": "ANTI DEPRESSANTS",
+      "description": "ANTI DEPRESSANTS - High quality pharmaceutical product",
+      "price": 1440.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 41,
+      "sku": "KAP-ANT-0041",
+      "name": "ANTIBIOTICS SUSPENSION",
+      "description": "ANTIBIOTICS SUSPENSION - High quality pharmaceutical product",
+      "price": 2880.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 42,
+      "sku": "KAP-ANT-0042",
+      "name": "ANTI FUNGAL",
+      "description": "ANTI FUNGAL - High quality pharmaceutical product",
+      "price": 580.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 43,
+      "sku": "KAP-SUS-0043",
+      "name": "SUSPENSION",
+      "description": "SUSPENSION - High quality pharmaceutical product",
+      "price": 4085.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 44,
+      "sku": "KAP-HAI-0044",
+      "name": "HAIR CARE",
+      "description": "HAIR CARE - High quality pharmaceutical product",
+      "price": 3630.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 45,
+      "sku": "KAP-ELE-0045",
+      "name": "ELECTRONIC DEVICE",
+      "description": "ELECTRONIC DEVICE - High quality pharmaceutical product",
+      "price": 222200.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 46,
+      "sku": "KAP-HON-0046",
+      "name": "HONEY",
+      "description": "HONEY - High quality pharmaceutical product",
+      "price": 6050.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 47,
+      "sku": "KAP-WIN-0047",
+      "name": "WINE",
+      "description": "WINE - High quality pharmaceutical product",
+      "price": 3300.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 48,
+      "sku": "KAP-EYE-0048",
+      "name": "EYE/EAR",
+      "description": "EYE/EAR - High quality pharmaceutical product",
+      "price": 21600.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 49,
+      "sku": "KAP-TOI-0049",
+      "name": "TOILETERIES",
+      "description": "TOILETERIES - High quality pharmaceutical product",
+      "price": 1190.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 50,
+      "sku": "KAP-ANA-0050",
+      "name": "ANAESTHESIA GENERAL",
+      "description": "ANAESTHESIA GENERAL - High quality pharmaceutical product",
+      "price": 2000.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 51,
+      "sku": "KAP-ANT-0051",
+      "name": "ANTIMOTILITY DRUGS",
+      "description": "ANTIMOTILITY DRUGS - High quality pharmaceutical product",
+      "price": 480.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 52,
+      "sku": "KAP-BLO-0052",
+      "name": "BLOOD TONIC/CAP",
+      "description": "BLOOD TONIC/CAP - High quality pharmaceutical product",
+      "price": 780.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 53,
+      "sku": "KAP-SUP-0053",
+      "name": "SUPPOSITORIES",
+      "description": "SUPPOSITORIES - High quality pharmaceutical product",
+      "price": 5520.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 54,
+      "sku": "KAP-ATT-0054",
+      "name": "ATTACHMENT",
+      "description": "ATTACHMENT - High quality pharmaceutical product",
+      "price": 7700.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 55,
+      "sku": "KAP-TOO-0055",
+      "name": "TOOTHCARE",
+      "description": "TOOTHCARE - High quality pharmaceutical product",
+      "price": 540.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 56,
+      "sku": "KAP-SUP-0056",
+      "name": "SUPLEMENT",
+      "description": "SUPLEMENT - High quality pharmaceutical product",
+      "price": 8400.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 57,
+      "sku": "KAP-BIS-0057",
+      "name": "BISCUITS",
+      "description": "BISCUITS - High quality pharmaceutical product",
+      "price": 1150.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 58,
+      "sku": "KAP-BIS-0058",
+      "name": "BISCUIT",
+      "description": "BISCUIT - High quality pharmaceutical product",
+      "price": 100.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 59,
+      "sku": "KAP-ANA-0059",
+      "name": "ANALGESIC TOPICAL",
+      "description": "ANALGESIC TOPICAL - High quality pharmaceutical product",
+      "price": 1300.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 60,
+      "sku": "KAP-EYE-0060",
+      "name": "EYE CARE",
+      "description": "EYE CARE - High quality pharmaceutical product",
+      "price": 12340.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 61,
+      "sku": "KAP-SPI-0061",
+      "name": "SPICE",
+      "description": "SPICE - High quality pharmaceutical product",
+      "price": 1100.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 62,
+      "sku": "KAP-COL-0062",
+      "name": "COLD AND CATARRH",
+      "description": "COLD AND CATARRH - High quality pharmaceutical product",
+      "price": 3570.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 63,
+      "sku": "KAP-POW-0063",
+      "name": "POWDER",
+      "description": "POWDER - High quality pharmaceutical product",
+      "price": 2400.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 64,
+      "sku": "KAP-MAN-0064",
+      "name": "MANPOWERS",
+      "description": "MANPOWERS - High quality pharmaceutical product",
+      "price": 15140.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 65,
+      "sku": "KAP-COU-0065",
+      "name": "COUGH SUPPRESANTS",
+      "description": "COUGH SUPPRESANTS - High quality pharmaceutical product",
+      "price": 350.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 66,
+      "sku": "KAP-NAT-0066",
+      "name": "NATURAL REMEDIES",
+      "description": "NATURAL REMEDIES - High quality pharmaceutical product",
+      "price": 1410.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 67,
+      "sku": "KAP-LOG-0067",
+      "name": "LOGISTICS",
+      "description": "LOGISTICS - High quality pharmaceutical product",
+      "price": 2000.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 68,
+      "sku": "KAP-ANT-0068",
+      "name": "ANTI FUNGI CREAM",
+      "description": "ANTI FUNGI CREAM - High quality pharmaceutical product",
+      "price": 1020.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 69,
+      "sku": "KAP-PAE-0069",
+      "name": "PAEDIATRICS DRUGS",
+      "description": "PAEDIATRICS DRUGS - High quality pharmaceutical product",
+      "price": 1500.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 70,
+      "sku": "KAP-ANT-0070",
+      "name": "ANTI VIRAL",
+      "description": "ANTI VIRAL - High quality pharmaceutical product",
+      "price": 2400.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 71,
+      "sku": "KAP-ANT-0071",
+      "name": "ANTI EPILEPTICS",
+      "description": "ANTI EPILEPTICS - High quality pharmaceutical product",
+      "price": 1000.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 72,
+      "sku": "KAP-COU-0072",
+      "name": "COUGH EXPECTORANTS",
+      "description": "COUGH EXPECTORANTS - High quality pharmaceutical product",
+      "price": 1105.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 73,
+      "sku": "KAP-ANT-0073",
+      "name": "ANTIPSYCHOTICS",
+      "description": "ANTIPSYCHOTICS - High quality pharmaceutical product",
+      "price": 3900.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 74,
+      "sku": "KAP-ANT-0074",
+      "name": "ANTI ARRHYTHMIC DRUGS",
+      "description": "ANTI ARRHYTHMIC DRUGS - High quality pharmaceutical product",
+      "price": 20.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 75,
+      "sku": "KAP-ANT-0075",
+      "name": "ANTI HELMINTICS",
+      "description": "ANTI HELMINTICS - High quality pharmaceutical product",
+      "price": 10.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 76,
+      "sku": "KAP-DIU-0076",
+      "name": "DIURETICS",
+      "description": "DIURETICS - High quality pharmaceutical product",
+      "price": 280.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 77,
+      "sku": "KAP-TOO-0077",
+      "name": "TOOTHPASTE/TOOTHBRUSH",
+      "description": "TOOTHPASTE/TOOTHBRUSH - High quality pharmaceutical product",
+      "price": 670.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 78,
+      "sku": "KAP-ANT-0078",
+      "name": "ANTIRITROVIRAL",
+      "description": "ANTIRITROVIRAL - High quality pharmaceutical product",
+      "price": 8630.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 79,
+      "sku": "KAP-SKI-0079",
+      "name": "SKIN AND BODY",
+      "description": "SKIN AND BODY - High quality pharmaceutical product",
+      "price": 4600.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 80,
+      "sku": "KAP-ANT-0080",
+      "name": "ANTI MALARIA SUSPENSIONS",
+      "description": "ANTI MALARIA SUSPENSIONS - High quality pharmaceutical product",
+      "price": 1080.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 81,
+      "sku": "KAP-PER-0081",
+      "name": "PERFUMES",
+      "description": "PERFUMES - High quality pharmaceutical product",
+      "price": 14300.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 82,
+      "sku": "KAP-CON-0082",
+      "name": "CONDOM",
+      "description": "CONDOM - High quality pharmaceutical product",
+      "price": 3580.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 83,
+      "sku": "KAP-ANT-0083",
+      "name": "ANTACID",
+      "description": "ANTACID - High quality pharmaceutical product",
+      "price": 700.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 84,
+      "sku": "KAP-ANT-0084",
+      "name": "ANTISEPTICS",
+      "description": "ANTISEPTICS - High quality pharmaceutical product",
+      "price": 200.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 85,
+      "sku": "KAP-CYT-0085",
+      "name": "CYTOTOXICS",
+      "description": "CYTOTOXICS - High quality pharmaceutical product",
+      "price": 33890.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 86,
+      "sku": "KAP-INF-0086",
+      "name": "INFUSION",
+      "description": "INFUSION - High quality pharmaceutical product",
+      "price": 11860.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 87,
+      "sku": "KAP-DIA-0087",
+      "name": "DIABETES DRUGS",
+      "description": "DIABETES DRUGS - High quality pharmaceutical product",
+      "price": 10680.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 88,
+      "sku": "KAP-CON-0088",
+      "name": "CONTRACEPTIVES",
+      "description": "CONTRACEPTIVES - High quality pharmaceutical product",
+      "price": 300.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 89,
+      "sku": "KAP-OIL-0089",
+      "name": "OIL",
+      "description": "OIL - High quality pharmaceutical product",
+      "price": 1380.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 90,
+      "sku": "KAP-INS-0090",
+      "name": "INSECTICIDES",
+      "description": "INSECTICIDES - High quality pharmaceutical product",
+      "price": 6880.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 91,
+      "sku": "KAP-BAB-0091",
+      "name": "BABY FOODS",
+      "description": "BABY FOODS - High quality pharmaceutical product",
+      "price": 27500.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 92,
+      "sku": "KAP-ANT-0092",
+      "name": "ANTI ULCER",
+      "description": "ANTI ULCER - High quality pharmaceutical product",
+      "price": 4960.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 93,
+      "sku": "KAP-CYT-0093",
+      "name": "CYTOTOXICS INJECTION",
+      "description": "CYTOTOXICS INJECTION - High quality pharmaceutical product",
+      "price": 129830.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 94,
+      "sku": "KAP-HYP-0094",
+      "name": "HYPNOTICS AND ANXIOLYTICS",
+      "description": "HYPNOTICS AND ANXIOLYTICS - High quality pharmaceutical product",
+      "price": 1140.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 95,
+      "sku": "KAP-ANT-0095",
+      "name": "ANTI BIOTIC FUNGI AND ITCHING CREAM",
+      "description": "ANTI BIOTIC FUNGI AND ITCHING CREAM - High quality pharmaceutical product",
+      "price": 1200.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 96,
+      "sku": "KAP-DIA-0096",
+      "name": "DIABETES MONIITORING DEVICES",
+      "description": "DIABETES MONIITORING DEVICES - High quality pharmaceutical product",
+      "price": 2400.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 97,
+      "sku": "KAP-SIC-0097",
+      "name": "SICKLE CELL ANAEMIA",
+      "description": "SICKLE CELL ANAEMIA - High quality pharmaceutical product",
+      "price": 5400.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 98,
+      "sku": "KAP-LAX-0098",
+      "name": "LAXATIVES",
+      "description": "LAXATIVES - High quality pharmaceutical product",
+      "price": 21600.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 99,
+      "sku": "KAP-PAM-0099",
+      "name": "PAMPERS",
+      "description": "PAMPERS - High quality pharmaceutical product",
+      "price": 11170.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 100,
+      "sku": "KAP-PUR-0100",
+      "name": "PURGATIVE",
+      "description": "PURGATIVE - High quality pharmaceutical product",
+      "price": 4500.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    },
+    {
+      "id": 101,
+      "sku": "KAP-SPO-0101",
+      "name": "SPONGE",
+      "description": "SPONGE - High quality pharmaceutical product",
+      "price": 5135.0,
+      "category": "General Medicine",
+      "stock_quantity": 100,
+      "in_stock": true,
+      "branch_availability": {
+        "UCH": true,
+        "Yemetu": true,
+        "Ring_Road": true
+      }
+    }
+  ]
+}

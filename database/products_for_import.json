@@ -1,0 +1,4354 @@
+{
+  "total_products": 434,
+  "categories": [
+    "Baby Care",
+    "General Medicine",
+    "Beauty Products",
+    "Medical Supplies",
+    "Vitamins & Supplements",
+    "Personal Care",
+    "Pharmaceuticals"
+  ],
+  "products": [
+    {
+      "sku": "KAP-KUN-0001",
+      "name": "KunleAra Pharmacy",
+      "description": "KunleAra Pharmacy - Available at Kunle Ara Pharmacy",
+      "price": 1208.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "KunleAra",
+      "created_at": "2026-01-07T19:56:05.914391"
+    },
+    {
+      "sku": "KAP-AXC-0002",
+      "name": "AXCEL CETIRIZINE SYRUP CETRIZINE 5MG/5ML 60ML X BOTTLE",
+      "description": "AXCEL CETIRIZINE SYRUP CETRIZINE 5MG/5ML 60ML X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 760.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "AXCEL",
+      "created_at": "2026-01-07T19:56:05.914436"
+    },
+    {
+      "sku": "KAP-GOL-0003",
+      "name": "GOLDEN GLOW VITAMIN C SHOWER BATH 1000ML",
+      "description": "GOLDEN GLOW VITAMIN C SHOWER BATH 1000ML - Available at Kunle Ara Pharmacy",
+      "price": 11000.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "GOLDEN",
+      "created_at": "2026-01-07T19:56:05.914442"
+    },
+    {
+      "sku": "KAP-10M-0004",
+      "name": "10ML NEEDLE SYRINGE X PC",
+      "description": "10ML NEEDLE SYRINGE X PC - Available at Kunle Ara Pharmacy",
+      "price": 60.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "10ML",
+      "created_at": "2026-01-07T19:56:05.914446"
+    },
+    {
+      "sku": "KAP-VIT-0005",
+      "name": "VIT A 10 000 IU NATURE FIELD X100 BOTTLE",
+      "description": "VIT A 10 000 IU NATURE FIELD X100 BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 7970.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "VIT",
+      "created_at": "2026-01-07T19:56:05.914454"
+    },
+    {
+      "sku": "KAP-X-P-0006",
+      "name": "X-PRESSION RUWA BRAID COLOR 30",
+      "description": "X-PRESSION RUWA BRAID COLOR 30 - Available at Kunle Ara Pharmacy",
+      "price": 3580.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "X-PRESSION",
+      "created_at": "2026-01-07T19:56:05.914461"
+    },
+    {
+      "sku": "KAP-JER-0007",
+      "name": "JERGENS ORIGINAL SCENT CHERRY ALMOND 621ML IMPORTED",
+      "description": "JERGENS ORIGINAL SCENT CHERRY ALMOND 621ML IMPORTED - Available at Kunle Ara Pharmacy",
+      "price": 16500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "JERGENS",
+      "created_at": "2026-01-07T19:56:05.914465"
+    },
+    {
+      "sku": "KAP-IOD-0008",
+      "name": "IODINE TINCTURE 15ML SOLFAM X BOTTLE",
+      "description": "IODINE TINCTURE 15ML SOLFAM X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "IODINE",
+      "created_at": "2026-01-07T19:56:05.914469"
+    },
+    {
+      "sku": "KAP-ORI-0009",
+      "name": "ORIJIN ZERO NON -ALCOHOLIC CAN",
+      "description": "ORIJIN ZERO NON -ALCOHOLIC CAN - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ORIJIN",
+      "created_at": "2026-01-07T19:56:05.914476"
+    },
+    {
+      "sku": "KAP-BET-0010",
+      "name": "BETASOL LOTION CLOBETASOL PROPIONATE 30ML",
+      "description": "BETASOL LOTION CLOBETASOL PROPIONATE 30ML - Available at Kunle Ara Pharmacy",
+      "price": 750.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "BETASOL",
+      "created_at": "2026-01-07T19:56:05.914480"
+    },
+    {
+      "sku": "KAP-EPI-0011",
+      "name": "EPIDERM TRIPLE ACTION SKIN CREAM 30G X TUBE",
+      "description": "EPIDERM TRIPLE ACTION SKIN CREAM 30G X TUBE - Available at Kunle Ara Pharmacy",
+      "price": 750.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "EPIDERM",
+      "created_at": "2026-01-07T19:56:05.914486"
+    },
+    {
+      "sku": "KAP-CYP-0012",
+      "name": "CYPRIVIT SYRUP 200MLS CYPROHEPTADINE ITAMIN AMINO ACID XBOTTLE",
+      "description": "CYPRIVIT SYRUP 200MLS CYPROHEPTADINE ITAMIN AMINO ACID XBOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 1350.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CYPRIVIT",
+      "created_at": "2026-01-07T19:56:05.914490"
+    },
+    {
+      "sku": "KAP-SAL-0013",
+      "name": "SALBUTAMOL INHALAR SALBOGET 100MCG",
+      "description": "SALBUTAMOL INHALAR SALBOGET 100MCG - Available at Kunle Ara Pharmacy",
+      "price": 2880.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SALBUTAMOL",
+      "created_at": "2026-01-07T19:56:05.914497"
+    },
+    {
+      "sku": "KAP-OMR-0014",
+      "name": "OMRON ARM M1 BASIC",
+      "description": "OMRON ARM M1 BASIC - Available at Kunle Ara Pharmacy",
+      "price": 46230.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "OMRON",
+      "created_at": "2026-01-07T19:56:05.914504"
+    },
+    {
+      "sku": "KAP-DAS-0015",
+      "name": "DAS OFADA RICE STONE FREE 10KG",
+      "description": "DAS OFADA RICE STONE FREE 10KG - Available at Kunle Ara Pharmacy",
+      "price": 33550.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "DAS",
+      "created_at": "2026-01-07T19:56:05.914511"
+    },
+    {
+      "sku": "KAP-EVA-0016",
+      "name": "EVA PEARS SOAP 150G",
+      "description": "EVA PEARS SOAP 150G - Available at Kunle Ara Pharmacy",
+      "price": 650.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "EVA",
+      "created_at": "2026-01-07T19:56:05.914516"
+    },
+    {
+      "sku": "KAP-BON-0017",
+      "name": "BONABABE SYRUP 60ML PARACETAMOL/CHLORPHENIRAMINE X BOTTLE",
+      "description": "BONABABE SYRUP 60ML PARACETAMOL/CHLORPHENIRAMINE X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 450.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "BONABABE",
+      "created_at": "2026-01-07T19:56:05.914519"
+    },
+    {
+      "sku": "KAP-ELE-0018",
+      "name": "ELECTRONIC PULSE MASSAGER",
+      "description": "ELECTRONIC PULSE MASSAGER - Available at Kunle Ara Pharmacy",
+      "price": 18000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ELECTRONIC",
+      "created_at": "2026-01-07T19:56:05.914530"
+    },
+    {
+      "sku": "KAP-ENC-0019",
+      "name": "ENCHANTEUR STUNNING POWDER 125G",
+      "description": "ENCHANTEUR STUNNING POWDER 125G - Available at Kunle Ara Pharmacy",
+      "price": 2400.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ENCHANTEUR",
+      "created_at": "2026-01-07T19:56:05.914538"
+    },
+    {
+      "sku": "KAP-V-S-0020",
+      "name": "V-SOY MULTI GRAIN 1LTRS",
+      "description": "V-SOY MULTI GRAIN 1LTRS - Available at Kunle Ara Pharmacy",
+      "price": 1710.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "V-SOY",
+      "created_at": "2026-01-07T19:56:05.914545"
+    },
+    {
+      "sku": "KAP-MEF-0021",
+      "name": "MEFANTHER FORTE ARTEMETHER 80M/ LUMEFANTRINE 480MG 6TAB XPKT",
+      "description": "MEFANTHER FORTE ARTEMETHER 80M/ LUMEFANTRINE 480MG 6TAB XPKT - Available at Kunle Ara Pharmacy",
+      "price": 610.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "MEFANTHER",
+      "created_at": "2026-01-07T19:56:05.914549"
+    },
+    {
+      "sku": "KAP-PER-0022",
+      "name": "PERFECT SIMPLY WHITE 4 IN 1 CLEANSER 150ML",
+      "description": "PERFECT SIMPLY WHITE 4 IN 1 CLEANSER 150ML - Available at Kunle Ara Pharmacy",
+      "price": 4130.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PERFECT",
+      "created_at": "2026-01-07T19:56:05.914552"
+    },
+    {
+      "sku": "KAP-XYL-0023",
+      "name": "XYLOX LETROZOLE 2.5MG XSACHET 14TAB",
+      "description": "XYLOX LETROZOLE 2.5MG XSACHET 14TAB - Available at Kunle Ara Pharmacy",
+      "price": 2100.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "XYLOX",
+      "created_at": "2026-01-07T19:56:05.914555"
+    },
+    {
+      "sku": "KAP-ORG-0024",
+      "name": "ORGANO HOT COCOA COFFEE PER SATCHET",
+      "description": "ORGANO HOT COCOA COFFEE PER SATCHET - Available at Kunle Ara Pharmacy",
+      "price": 1000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ORGANO",
+      "created_at": "2026-01-07T19:56:05.914563"
+    },
+    {
+      "sku": "KAP-TOK-0025",
+      "name": "TOKE KIDS FOLLOW ON LOTION 250ML",
+      "description": "TOKE KIDS FOLLOW ON LOTION 250ML - Available at Kunle Ara Pharmacy",
+      "price": 4950.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "TOKE",
+      "created_at": "2026-01-07T19:56:05.914566"
+    },
+    {
+      "sku": "KAP-LEV-0026",
+      "name": "LEVOXIN 750MG LEVOFLOXACIN 10TABS X PKT",
+      "description": "LEVOXIN 750MG LEVOFLOXACIN 10TABS X PKT - Available at Kunle Ara Pharmacy",
+      "price": 3420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LEVOXIN",
+      "created_at": "2026-01-07T19:56:05.914571"
+    },
+    {
+      "sku": "KAP-BRE-0027",
+      "name": "BREXA 140MG SILYMARIN X SAT 10TABS",
+      "description": "BREXA 140MG SILYMARIN X SAT 10TABS - Available at Kunle Ara Pharmacy",
+      "price": 1800.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "BREXA",
+      "created_at": "2026-01-07T19:56:05.914574"
+    },
+    {
+      "sku": "KAP-FRO-0028",
+      "name": "FROLIC SALAD DRESSING 250G",
+      "description": "FROLIC SALAD DRESSING 250G - Available at Kunle Ara Pharmacy",
+      "price": 1330.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "FROLIC",
+      "created_at": "2026-01-07T19:56:05.914581"
+    },
+    {
+      "sku": "KAP-LAG-0029",
+      "name": "LAGOS BRAID COLOR T1/27",
+      "description": "LAGOS BRAID COLOR T1/27 - Available at Kunle Ara Pharmacy",
+      "price": 2370.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LAGOS",
+      "created_at": "2026-01-07T19:56:05.914587"
+    },
+    {
+      "sku": "KAP-ANU-0030",
+      "name": "ANUDOL SUPPOSITORIES 6 SUPP XSATCHET",
+      "description": "ANUDOL SUPPOSITORIES 6 SUPP XSATCHET - Available at Kunle Ara Pharmacy",
+      "price": 2400.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ANUDOL",
+      "created_at": "2026-01-07T19:56:05.914596"
+    },
+    {
+      "sku": "KAP-BLA-0031",
+      "name": "BLADE EMERGENCE PERFUME 100ML",
+      "description": "BLADE EMERGENCE PERFUME 100ML - Available at Kunle Ara Pharmacy",
+      "price": 2200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "BLADE",
+      "created_at": "2026-01-07T19:56:05.914599"
+    },
+    {
+      "sku": "KAP-LUS-0032",
+      "name": "LUSH WOW BRAID COLOR 33",
+      "description": "LUSH WOW BRAID COLOR 33 - Available at Kunle Ara Pharmacy",
+      "price": 3630.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LUSH",
+      "created_at": "2026-01-07T19:56:05.914606"
+    },
+    {
+      "sku": "KAP-SAL-0033",
+      "name": "SALON PRO TWIN OLIVE 454MLS",
+      "description": "SALON PRO TWIN OLIVE 454MLS - Available at Kunle Ara Pharmacy",
+      "price": 2200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SALON",
+      "created_at": "2026-01-07T19:56:05.914609"
+    },
+    {
+      "sku": "KAP-GOL-0034",
+      "name": "GOLDEN",
+      "description": "GOLDEN - Available at Kunle Ara Pharmacy",
+      "price": 4500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "GOLDEN",
+      "created_at": "2026-01-07T19:56:05.914615"
+    },
+    {
+      "sku": "KAP-LUS-0035",
+      "name": "LUSH JUMBO BRAIDS COLOR 27X",
+      "description": "LUSH JUMBO BRAIDS COLOR 27X - Available at Kunle Ara Pharmacy",
+      "price": 5100.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LUSH",
+      "created_at": "2026-01-07T19:56:05.914621"
+    },
+    {
+      "sku": "KAP-ACT-0036",
+      "name": "ACTIVE CAVIAR DRIP GLUTA-C 100ML OIL",
+      "description": "ACTIVE CAVIAR DRIP GLUTA-C 100ML OIL - Available at Kunle Ara Pharmacy",
+      "price": 6450.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ACTIVE",
+      "created_at": "2026-01-07T19:56:05.914625"
+    },
+    {
+      "sku": "KAP-KCL-0037",
+      "name": "KCLAVIN 625MG XPKT",
+      "description": "KCLAVIN 625MG XPKT - Available at Kunle Ara Pharmacy",
+      "price": 1860.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "KCLAVIN",
+      "created_at": "2026-01-07T19:56:05.914627"
+    },
+    {
+      "sku": "KAP-BEL-0038",
+      "name": "BELOXXI CRACKER 30G",
+      "description": "BELOXXI CRACKER 30G - Available at Kunle Ara Pharmacy",
+      "price": 100.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "BELOXXI",
+      "created_at": "2026-01-07T19:56:05.914642"
+    },
+    {
+      "sku": "KAP-LIS-0039",
+      "name": "LISINOTAB 10MG LISINOPRIL 14TABS X SACHET",
+      "description": "LISINOTAB 10MG LISINOPRIL 14TABS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 330.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LISINOTAB",
+      "created_at": "2026-01-07T19:56:05.914661"
+    },
+    {
+      "sku": "KAP-LUM-0040",
+      "name": "LUMIHALE MONTELUKAST SODIUM 10MG X10TAB SAT",
+      "description": "LUMIHALE MONTELUKAST SODIUM 10MG X10TAB SAT - Available at Kunle Ara Pharmacy",
+      "price": 520.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LUMIHALE",
+      "created_at": "2026-01-07T19:56:05.914666"
+    },
+    {
+      "sku": "KAP-FIN-0041",
+      "name": "FINA ESSENTIAL MAXI-TONE LOTION 250ML",
+      "description": "FINA ESSENTIAL MAXI-TONE LOTION 250ML - Available at Kunle Ara Pharmacy",
+      "price": 1200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "FINA",
+      "created_at": "2026-01-07T19:56:05.914671"
+    },
+    {
+      "sku": "KAP-EMZ-0042",
+      "name": "EMZOBREX 200MG CELECOXIB 10CAPS X PKT",
+      "description": "EMZOBREX 200MG CELECOXIB 10CAPS X PKT - Available at Kunle Ara Pharmacy",
+      "price": 1440.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "EMZOBREX",
+      "created_at": "2026-01-07T19:56:05.914675"
+    },
+    {
+      "sku": "KAP-LIS-0043",
+      "name": "LISINOPRIL 5MG TEVA 14TABS X SACHET",
+      "description": "LISINOPRIL 5MG TEVA 14TABS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 430.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LISINOPRIL",
+      "created_at": "2026-01-07T19:56:05.914678"
+    },
+    {
+      "sku": "KAP-GOO-0044",
+      "name": "GOODFIT BABY DIAPER SIZE 3 JUMBO X99PCS",
+      "description": "GOODFIT BABY DIAPER SIZE 3 JUMBO X99PCS - Available at Kunle Ara Pharmacy",
+      "price": 9880.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "GOODFIT",
+      "created_at": "2026-01-07T19:56:05.914684"
+    },
+    {
+      "sku": "KAP-SUP-0045",
+      "name": "SUPRACAL SWIPHA 30TABS X PACK",
+      "description": "SUPRACAL SWIPHA 30TABS X PACK - Available at Kunle Ara Pharmacy",
+      "price": 4800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SUPRACAL",
+      "created_at": "2026-01-07T19:56:05.914691"
+    },
+    {
+      "sku": "KAP-KIS-0046",
+      "name": "KISS BEAUTY SUPERSTAY MATTE INK",
+      "description": "KISS BEAUTY SUPERSTAY MATTE INK - Available at Kunle Ara Pharmacy",
+      "price": 700.0,
+      "category": "Beauty Products",
+      "is_prescription": false,
+      "brand": "KISS",
+      "created_at": "2026-01-07T19:56:05.914697"
+    },
+    {
+      "sku": "KAP-INF-0047",
+      "name": "INFRARED BULB",
+      "description": "INFRARED BULB - Available at Kunle Ara Pharmacy",
+      "price": 12000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "INFRARED",
+      "created_at": "2026-01-07T19:56:05.914703"
+    },
+    {
+      "sku": "KAP-GAS-0048",
+      "name": "GASNIL WITH CARICA PAPAYA 10TABS X PACK",
+      "description": "GASNIL WITH CARICA PAPAYA 10TABS X PACK - Available at Kunle Ara Pharmacy",
+      "price": 1400.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "GASNIL",
+      "created_at": "2026-01-07T19:56:05.914711"
+    },
+    {
+      "sku": "KAP-LEV-0049",
+      "name": "LEVOFLOXACIN 500MG/100ML WELQUINE INFUSION X VIAL",
+      "description": "LEVOFLOXACIN 500MG/100ML WELQUINE INFUSION X VIAL - Available at Kunle Ara Pharmacy",
+      "price": 910.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LEVOFLOXACIN",
+      "created_at": "2026-01-07T19:56:05.914714"
+    },
+    {
+      "sku": "KAP-AMA-0050",
+      "name": "AMALORITE AMLODIPINE XSAT",
+      "description": "AMALORITE AMLODIPINE XSAT - Available at Kunle Ara Pharmacy",
+      "price": 150.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "AMALORITE",
+      "created_at": "2026-01-07T19:56:05.914718"
+    },
+    {
+      "sku": "KAP-FLA-0051",
+      "name": "FLAMINGO KNEE CAP L",
+      "description": "FLAMINGO KNEE CAP L - Available at Kunle Ara Pharmacy",
+      "price": 2400.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "FLAMINGO",
+      "created_at": "2026-01-07T19:56:05.914724"
+    },
+    {
+      "sku": "KAP-CEF-0052",
+      "name": "CEFTRIAXONE JEFYTRAN 1GM INJECT X ONE VIAL",
+      "description": "CEFTRIAXONE JEFYTRAN 1GM INJECT X ONE VIAL - Available at Kunle Ara Pharmacy",
+      "price": 630.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "CEFTRIAXONE",
+      "created_at": "2026-01-07T19:56:05.914732"
+    },
+    {
+      "sku": "KAP-HOT-0053",
+      "name": "HOT PEPPE POWDER 5GMS X 10PCS",
+      "description": "HOT PEPPE POWDER 5GMS X 10PCS - Available at Kunle Ara Pharmacy",
+      "price": 540.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "HOT",
+      "created_at": "2026-01-07T19:56:05.914739"
+    },
+    {
+      "sku": "KAP-OBI-0054",
+      "name": "OBICLAF 625 AMOXICILLIN 500MG/CLAVULANIC ACID 125MG 14TAB XPACK",
+      "description": "OBICLAF 625 AMOXICILLIN 500MG/CLAVULANIC ACID 125MG 14TAB XPACK - Available at Kunle Ara Pharmacy",
+      "price": 2220.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "OBICLAF",
+      "created_at": "2026-01-07T19:56:05.914743"
+    },
+    {
+      "sku": "KAP-ROS-0055",
+      "name": "ROSUVASTATIN 5MG MEDREICH 14TABS X SACHET",
+      "description": "ROSUVASTATIN 5MG MEDREICH 14TABS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 570.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ROSUVASTATIN",
+      "created_at": "2026-01-07T19:56:05.914746"
+    },
+    {
+      "sku": "KAP-YAL-0056",
+      "name": "YALE SPEEDY MINI BISCULT 15G",
+      "description": "YALE SPEEDY MINI BISCULT 15G - Available at Kunle Ara Pharmacy",
+      "price": 50.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "YALE",
+      "created_at": "2026-01-07T19:56:05.914753"
+    },
+    {
+      "sku": "KAP-X-P-0057",
+      "name": "X-PRESSION MULTI COLOR 1",
+      "description": "X-PRESSION MULTI COLOR 1 - Available at Kunle Ara Pharmacy",
+      "price": 1700.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "X-PRESSION",
+      "created_at": "2026-01-07T19:56:05.914761"
+    },
+    {
+      "sku": "KAP-LEV-0058",
+      "name": "LEVOFLOXACIN 500MG KESSINGTON 10TABS XPACK",
+      "description": "LEVOFLOXACIN 500MG KESSINGTON 10TABS XPACK - Available at Kunle Ara Pharmacy",
+      "price": 980.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LEVOFLOXACIN",
+      "created_at": "2026-01-07T19:56:05.914764"
+    },
+    {
+      "sku": "KAP-LUM-0059",
+      "name": "LUMIPRESS 50MG LOSARTAN POTASSIUM 10TAB X SAT",
+      "description": "LUMIPRESS 50MG LOSARTAN POTASSIUM 10TAB X SAT - Available at Kunle Ara Pharmacy",
+      "price": 550.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LUMIPRESS",
+      "created_at": "2026-01-07T19:56:05.914768"
+    },
+    {
+      "sku": "KAP-FAN-0060",
+      "name": "FANTASTIC SUGAR BLOOD GLUCOSE METER",
+      "description": "FANTASTIC SUGAR BLOOD GLUCOSE METER - Available at Kunle Ara Pharmacy",
+      "price": 16800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "FANTASTIC",
+      "created_at": "2026-01-07T19:56:05.914776"
+    },
+    {
+      "sku": "KAP-SIM-0061",
+      "name": "SIMPLE MICELLAR GEL WASH 150ML",
+      "description": "SIMPLE MICELLAR GEL WASH 150ML - Available at Kunle Ara Pharmacy",
+      "price": 5780.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SIMPLE",
+      "created_at": "2026-01-07T19:56:05.914779"
+    },
+    {
+      "sku": "KAP-SIM-0062",
+      "name": "SIMPLE MICELLAR CLEANSING WATER 400ML",
+      "description": "SIMPLE MICELLAR CLEANSING WATER 400ML - Available at Kunle Ara Pharmacy",
+      "price": 7350.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SIMPLE",
+      "created_at": "2026-01-07T19:56:05.914782"
+    },
+    {
+      "sku": "KAP-OUD-0063",
+      "name": "OUD FOR AMETHYST PERFUME 100ML",
+      "description": "OUD FOR AMETHYST PERFUME 100ML - Available at Kunle Ara Pharmacy",
+      "price": 30800.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "OUD",
+      "created_at": "2026-01-07T19:56:05.914785"
+    },
+    {
+      "sku": "KAP-OTE-0064",
+      "name": "OTERO CASTLE BEJAR SPRAY 200ML",
+      "description": "OTERO CASTLE BEJAR SPRAY 200ML - Available at Kunle Ara Pharmacy",
+      "price": 2600.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "OTERO",
+      "created_at": "2026-01-07T19:56:05.914789"
+    },
+    {
+      "sku": "KAP-ASA-0065",
+      "name": "ASAD LATTAFA PERFUME",
+      "description": "ASAD LATTAFA PERFUME - Available at Kunle Ara Pharmacy",
+      "price": 24200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ASAD",
+      "created_at": "2026-01-07T19:56:05.914795"
+    },
+    {
+      "sku": "KAP-LIP-0066",
+      "name": "LIPTON TEA",
+      "description": "LIPTON TEA - Available at Kunle Ara Pharmacy",
+      "price": 930.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LIPTON",
+      "created_at": "2026-01-07T19:56:05.914802"
+    },
+    {
+      "sku": "KAP-DOV-0067",
+      "name": "DOVE PINK 90G",
+      "description": "DOVE PINK 90G - Available at Kunle Ara Pharmacy",
+      "price": 1150.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "DOVE",
+      "created_at": "2026-01-07T19:56:05.914808"
+    },
+    {
+      "sku": "KAP-URB-0068",
+      "name": "URBAN WOMAN BODY SPRAY 200ML",
+      "description": "URBAN WOMAN BODY SPRAY 200ML - Available at Kunle Ara Pharmacy",
+      "price": 3250.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "URBAN",
+      "created_at": "2026-01-07T19:56:05.914812"
+    },
+    {
+      "sku": "KAP-EPI-0069",
+      "name": "EPIC ADVENTURE EMPER PERFUMED SPRAY 200ML",
+      "description": "EPIC ADVENTURE EMPER PERFUMED SPRAY 200ML - Available at Kunle Ara Pharmacy",
+      "price": 1430.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "EPIC",
+      "created_at": "2026-01-07T19:56:05.914815"
+    },
+    {
+      "sku": "KAP-SAL-0070",
+      "name": "SALTROL 25 125MCG INHALER",
+      "description": "SALTROL 25 125MCG INHALER - Available at Kunle Ara Pharmacy",
+      "price": 6200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SALTROL",
+      "created_at": "2026-01-07T19:56:05.914824"
+    },
+    {
+      "sku": "KAP-MES-0071",
+      "name": "MESPORIN INJ 1G IM X ONE VIAL",
+      "description": "MESPORIN INJ 1G IM X ONE VIAL - Available at Kunle Ara Pharmacy",
+      "price": 6780.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "MESPORIN",
+      "created_at": "2026-01-07T19:56:05.914831"
+    },
+    {
+      "sku": "KAP-VAS-0072",
+      "name": "VASELINE GLUTA-HYA TUBE LOTION 300ML",
+      "description": "VASELINE GLUTA-HYA TUBE LOTION 300ML - Available at Kunle Ara Pharmacy",
+      "price": 9170.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "VASELINE",
+      "created_at": "2026-01-07T19:56:05.914834"
+    },
+    {
+      "sku": "KAP-ARA-0073",
+      "name": "ARAMINOL 2MG/120MG XSAT",
+      "description": "ARAMINOL 2MG/120MG XSAT - Available at Kunle Ara Pharmacy",
+      "price": 90.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ARAMINOL",
+      "created_at": "2026-01-07T19:56:05.914837"
+    },
+    {
+      "sku": "KAP-JUL-0074",
+      "name": "JULIET EVE 500MG X60CAP",
+      "description": "JULIET EVE 500MG X60CAP - Available at Kunle Ara Pharmacy",
+      "price": 25300.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "JULIET",
+      "created_at": "2026-01-07T19:56:05.914840"
+    },
+    {
+      "sku": "KAP-NON-0075",
+      "name": "NON REBREATHING MASK CHILD",
+      "description": "NON REBREATHING MASK CHILD - Available at Kunle Ara Pharmacy",
+      "price": 1800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "NON",
+      "created_at": "2026-01-07T19:56:05.914847"
+    },
+    {
+      "sku": "KAP-BON-0076",
+      "name": "BONDMODINE 0.2 EYE DROP 5ML",
+      "description": "BONDMODINE 0.2 EYE DROP 5ML - Available at Kunle Ara Pharmacy",
+      "price": 2280.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "BONDMODINE",
+      "created_at": "2026-01-07T19:56:05.914850"
+    },
+    {
+      "sku": "KAP-JEO-0077",
+      "name": "JEONOL TABLET SALBUTAMOL THEOPHYLLINE XSATCHET",
+      "description": "JEONOL TABLET SALBUTAMOL THEOPHYLLINE XSATCHET - Available at Kunle Ara Pharmacy",
+      "price": 140.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "JEONOL",
+      "created_at": "2026-01-07T19:56:05.914856"
+    },
+    {
+      "sku": "KAP-APE-0078",
+      "name": "APETABON SYRUP 200MLS",
+      "description": "APETABON SYRUP 200MLS - Available at Kunle Ara Pharmacy",
+      "price": 2020.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "APETABON",
+      "created_at": "2026-01-07T19:56:05.914860"
+    },
+    {
+      "sku": "KAP-ROS-0079",
+      "name": "ROSUVASTATIN 10MG MEDREICH/ETHIROSE 14TABS X SACHET",
+      "description": "ROSUVASTATIN 10MG MEDREICH/ETHIROSE 14TABS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 1290.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ROSUVASTATIN",
+      "created_at": "2026-01-07T19:56:05.914864"
+    },
+    {
+      "sku": "KAP-ADD-0080",
+      "name": "Add to favorite",
+      "description": "Add to favorite - Available at Kunle Ara Pharmacy",
+      "price": 17400.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Add",
+      "created_at": "2026-01-07T19:56:05.914870"
+    },
+    {
+      "sku": "KAP-YAL-0081",
+      "name": "YALE CABIN LUCKY",
+      "description": "YALE CABIN LUCKY - Available at Kunle Ara Pharmacy",
+      "price": 100.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "YALE",
+      "created_at": "2026-01-07T19:56:05.914876"
+    },
+    {
+      "sku": "KAP-OLE-0082",
+      "name": "OLEMPEA EIFFEL TOWER COLLECTION SPRAY 200ML",
+      "description": "OLEMPEA EIFFEL TOWER COLLECTION SPRAY 200ML - Available at Kunle Ara Pharmacy",
+      "price": 3300.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "OLEMPEA",
+      "created_at": "2026-01-07T19:56:05.914880"
+    },
+    {
+      "sku": "KAP-NUR-0083",
+      "name": "NUROFEN 400MG X12TABS PK",
+      "description": "NUROFEN 400MG X12TABS PK - Available at Kunle Ara Pharmacy",
+      "price": 3730.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "NUROFEN",
+      "created_at": "2026-01-07T19:56:05.914883"
+    },
+    {
+      "sku": "KAP-DOV-0084",
+      "name": "DOVE NOURISHING SECRETS RELAXING RITUAL BODYWASH 750ML",
+      "description": "DOVE NOURISHING SECRETS RELAXING RITUAL BODYWASH 750ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "DOVE",
+      "created_at": "2026-01-07T19:56:05.914887"
+    },
+    {
+      "sku": "KAP-DOV-0085",
+      "name": "DOVE NOURISHING SECRETS BODYWASH 750ML",
+      "description": "DOVE NOURISHING SECRETS BODYWASH 750ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "DOVE",
+      "created_at": "2026-01-07T19:56:05.914890"
+    },
+    {
+      "sku": "KAP-OLA-0086",
+      "name": "OLAY EXCLUSIVE INSTANT WHITE ROSE CARROT EXTRACT SHOWER CREAM 1000ML",
+      "description": "OLAY EXCLUSIVE INSTANT WHITE ROSE CARROT EXTRACT SHOWER CREAM 1000ML - Available at Kunle Ara Pharmacy",
+      "price": 4130.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "OLAY",
+      "created_at": "2026-01-07T19:56:05.914895"
+    },
+    {
+      "sku": "KAP-ZOF-0087",
+      "name": "ZOFLAM DICLOFENAC 50MG XSAT 10TAB",
+      "description": "ZOFLAM DICLOFENAC 50MG XSAT 10TAB - Available at Kunle Ara Pharmacy",
+      "price": 270.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ZOFLAM",
+      "created_at": "2026-01-07T19:56:05.914899"
+    },
+    {
+      "sku": "KAP-LUS-0088",
+      "name": "LUSH MEGA BRAIDS 6X COLOR 1/27",
+      "description": "LUSH MEGA BRAIDS 6X COLOR 1/27 - Available at Kunle Ara Pharmacy",
+      "price": 5000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LUSH",
+      "created_at": "2026-01-07T19:56:05.914906"
+    },
+    {
+      "sku": "KAP-PER-0089",
+      "name": "PERLAY GOLDIE BEAUTY LOTION 550ML",
+      "description": "PERLAY GOLDIE BEAUTY LOTION 550ML - Available at Kunle Ara Pharmacy",
+      "price": 5050.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PERLAY",
+      "created_at": "2026-01-07T19:56:05.914909"
+    },
+    {
+      "sku": "KAP-TRO-0090",
+      "name": "TROVAC CAP XPKT",
+      "description": "TROVAC CAP XPKT - Available at Kunle Ara Pharmacy",
+      "price": 1200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "TROVAC",
+      "created_at": "2026-01-07T19:56:05.914915"
+    },
+    {
+      "sku": "KAP-LOP-0091",
+      "name": "LOPERAMIDE PAUCO 2MG SATCHET",
+      "description": "LOPERAMIDE PAUCO 2MG SATCHET - Available at Kunle Ara Pharmacy",
+      "price": 50.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LOPERAMIDE",
+      "created_at": "2026-01-07T19:56:05.914919"
+    },
+    {
+      "sku": "KAP-SAC-0092",
+      "name": "SACUVAN 24/26 SACUBITRIL 24MG VALSARTAN 25MG 10TAB XSAT",
+      "description": "SACUVAN 24/26 SACUBITRIL 24MG VALSARTAN 25MG 10TAB XSAT - Available at Kunle Ara Pharmacy",
+      "price": 5600.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SACUVAN",
+      "created_at": "2026-01-07T19:56:05.914923"
+    },
+    {
+      "sku": "KAP-AVR-0093",
+      "name": "AVRO",
+      "description": "AVRO - Available at Kunle Ara Pharmacy",
+      "price": 380.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "AVRO",
+      "created_at": "2026-01-07T19:56:05.914928"
+    },
+    {
+      "sku": "KAP-ASC-0094",
+      "name": "ASCIPRAM 20MG ESCITALOPRAM 10TABS X SACHET",
+      "description": "ASCIPRAM 20MG ESCITALOPRAM 10TABS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 1440.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ASCIPRAM",
+      "created_at": "2026-01-07T19:56:05.914932"
+    },
+    {
+      "sku": "KAP-ART-0095",
+      "name": "ARTESUN PLUS 14YEARS",
+      "description": "ARTESUN PLUS 14YEARS - Available at Kunle Ara Pharmacy",
+      "price": 100.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ARTESUN",
+      "created_at": "2026-01-07T19:56:05.914939"
+    },
+    {
+      "sku": "KAP-EMC-0096",
+      "name": "EMCAP EXTRA PARACETAMOL/CAFFEINE500MG /30MG 10TAB XSAT",
+      "description": "EMCAP EXTRA PARACETAMOL/CAFFEINE500MG /30MG 10TAB XSAT - Available at Kunle Ara Pharmacy",
+      "price": 200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "EMCAP",
+      "created_at": "2026-01-07T19:56:05.914944"
+    },
+    {
+      "sku": "KAP-TRE-0097",
+      "name": "TREVIA 50MG SITAGLIPTIN 7TABS X SACHET",
+      "description": "TREVIA 50MG SITAGLIPTIN 7TABS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 2280.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "TREVIA",
+      "created_at": "2026-01-07T19:56:05.914947"
+    },
+    {
+      "sku": "KAP-CON-0098",
+      "name": "CONFORM GLOVE 10PCS",
+      "description": "CONFORM GLOVE 10PCS - Available at Kunle Ara Pharmacy",
+      "price": 410.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "CONFORM",
+      "created_at": "2026-01-07T19:56:05.914953"
+    },
+    {
+      "sku": "KAP-DIE-0099",
+      "name": "DIETHYLCARBAMAZINE 50MG COUNTING X TAB",
+      "description": "DIETHYLCARBAMAZINE 50MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 10.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "DIETHYLCARBAMAZINE",
+      "created_at": "2026-01-07T19:56:05.914957"
+    },
+    {
+      "sku": "KAP-ESS-0100",
+      "name": "ESSENTIAL FORTE ESSENTIAL PHOSPHOLIPID 300MG XSATCHET",
+      "description": "ESSENTIAL FORTE ESSENTIAL PHOSPHOLIPID 300MG XSATCHET - Available at Kunle Ara Pharmacy",
+      "price": 2280.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ESSENTIAL",
+      "created_at": "2026-01-07T19:56:05.914960"
+    },
+    {
+      "sku": "KAP-5ML-0101",
+      "name": "5ML NEEDLE SYRINGE X PC",
+      "description": "5ML NEEDLE SYRINGE X PC - Available at Kunle Ara Pharmacy",
+      "price": 50.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "5ML",
+      "created_at": "2026-01-07T19:56:05.914963"
+    },
+    {
+      "sku": "KAP-2ML-0102",
+      "name": "2ML NEEDLE SYRINGE X PC",
+      "description": "2ML NEEDLE SYRINGE X PC - Available at Kunle Ara Pharmacy",
+      "price": 50.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "2ML",
+      "created_at": "2026-01-07T19:56:05.914966"
+    },
+    {
+      "sku": "KAP-GYN-0103",
+      "name": "GYNO DAKTARIN VAG CREAM 40G MICONAZOLE 20MG X TUBE",
+      "description": "GYNO DAKTARIN VAG CREAM 40G MICONAZOLE 20MG X TUBE - Available at Kunle Ara Pharmacy",
+      "price": 12700.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "GYNO",
+      "created_at": "2026-01-07T19:56:05.914970"
+    },
+    {
+      "sku": "KAP-CER-0104",
+      "name": "CERUMOL EAR DROP TURPENTINE OIL XBOTTLE",
+      "description": "CERUMOL EAR DROP TURPENTINE OIL XBOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 10200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "CERUMOL",
+      "created_at": "2026-01-07T19:56:05.914977"
+    },
+    {
+      "sku": "KAP-FLE-0105",
+      "name": "FLEMING 600MG INJ AMOXICILLIN/CLAVULANIC ACID X ONE VIAL",
+      "description": "FLEMING 600MG INJ AMOXICILLIN/CLAVULANIC ACID X ONE VIAL - Available at Kunle Ara Pharmacy",
+      "price": 850.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "FLEMING",
+      "created_at": "2026-01-07T19:56:05.914980"
+    },
+    {
+      "sku": "KAP-ERY-0106",
+      "name": "ERYTHROKID SUSP 250MG/5ML ERYTHROMYCIN 100ML X BOTTLE",
+      "description": "ERYTHROKID SUSP 250MG/5ML ERYTHROMYCIN 100ML X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 1860.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ERYTHROKID",
+      "created_at": "2026-01-07T19:56:05.914984"
+    },
+    {
+      "sku": "KAP-DYN-0107",
+      "name": "DYNAMOGEN ORAL 3MG/10ML X AMPOULE",
+      "description": "DYNAMOGEN ORAL 3MG/10ML X AMPOULE - Available at Kunle Ara Pharmacy",
+      "price": 420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "DYNAMOGEN",
+      "created_at": "2026-01-07T19:56:05.914987"
+    },
+    {
+      "sku": "KAP-EPI-0108",
+      "name": "EPILIM 500MG SODIUM VALPROATE SR 10TABS X SAT",
+      "description": "EPILIM 500MG SODIUM VALPROATE SR 10TABS X SAT - Available at Kunle Ara Pharmacy",
+      "price": 8050.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "EPILIM",
+      "created_at": "2026-01-07T19:56:05.914990"
+    },
+    {
+      "sku": "KAP-DEP-0109",
+      "name": "DEPIXOL INJ 40MG/2ML FLUPENTIXOL DECONATE X AMPOULE",
+      "description": "DEPIXOL INJ 40MG/2ML FLUPENTIXOL DECONATE X AMPOULE - Available at Kunle Ara Pharmacy",
+      "price": 9600.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "DEPIXOL",
+      "created_at": "2026-01-07T19:56:05.914994"
+    },
+    {
+      "sku": "KAP-COF-0110",
+      "name": "COFTA TAB AMMONIUM CL/IPECACUANHA 10TABS X SAT",
+      "description": "COFTA TAB AMMONIUM CL/IPECACUANHA 10TABS X SAT - Available at Kunle Ara Pharmacy",
+      "price": 330.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "COFTA",
+      "created_at": "2026-01-07T19:56:05.915003"
+    },
+    {
+      "sku": "KAP-CHL-0111",
+      "name": "CHLORAPHENICOL 0.5 EYE DROP 10ML MCA X BOTTLE",
+      "description": "CHLORAPHENICOL 0.5 EYE DROP 10ML MCA X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 455.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CHLORAPHENICOL",
+      "created_at": "2026-01-07T19:56:05.915006"
+    },
+    {
+      "sku": "KAP-DIS-0112",
+      "name": "DISPENSING ENVELOPE 1PK",
+      "description": "DISPENSING ENVELOPE 1PK - Available at Kunle Ara Pharmacy",
+      "price": 220.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "DISPENSING",
+      "created_at": "2026-01-07T19:56:05.915013"
+    },
+    {
+      "sku": "KAP-DIS-0113",
+      "name": "DISPOSABLE GLOVES X100 PIECIES PER PKT",
+      "description": "DISPOSABLE GLOVES X100 PIECIES PER PKT - Available at Kunle Ara Pharmacy",
+      "price": 380.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "DISPOSABLE",
+      "created_at": "2026-01-07T19:56:05.915020"
+    },
+    {
+      "sku": "KAP-FER-0114",
+      "name": "FERROUS BOTTLE 200MG FERROUS SULPHATE 200MG X 100TABS",
+      "description": "FERROUS BOTTLE 200MG FERROUS SULPHATE 200MG X 100TABS - Available at Kunle Ara Pharmacy",
+      "price": 445.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "FERROUS",
+      "created_at": "2026-01-07T19:56:05.915023"
+    },
+    {
+      "sku": "KAP-HCG-0115",
+      "name": "HCG DICLAIR INJ 5000IU XPKT",
+      "description": "HCG DICLAIR INJ 5000IU XPKT - Available at Kunle Ara Pharmacy",
+      "price": 13200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "HCG",
+      "created_at": "2026-01-07T19:56:05.915030"
+    },
+    {
+      "sku": "KAP-HIP-0116",
+      "name": "HIPRIL 10MG XSATCHET",
+      "description": "HIPRIL 10MG XSATCHET - Available at Kunle Ara Pharmacy",
+      "price": 280.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "HIPRIL",
+      "created_at": "2026-01-07T19:56:05.915035"
+    },
+    {
+      "sku": "KAP-HIP-0117",
+      "name": "HIPRIL 5MG XSACHET",
+      "description": "HIPRIL 5MG XSACHET - Available at Kunle Ara Pharmacy",
+      "price": 220.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "HIPRIL",
+      "created_at": "2026-01-07T19:56:05.915038"
+    },
+    {
+      "sku": "KAP-FUN-0118",
+      "name": "FUNGUSOL LOTION 50ML MICONAZOLE 2 X BOTTLE",
+      "description": "FUNGUSOL LOTION 50ML MICONAZOLE 2 X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 1070.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "FUNGUSOL",
+      "created_at": "2026-01-07T19:56:05.915042"
+    },
+    {
+      "sku": "KAP-HEP-0119",
+      "name": "HEPP FORT 200ML X BOTTLE",
+      "description": "HEPP FORT 200ML X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 320.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "HEPP",
+      "created_at": "2026-01-07T19:56:05.915045"
+    },
+    {
+      "sku": "KAP-GLU-0120",
+      "name": "GLUCOVANCE 500/2.5MG METFORMIN/GLIBENCLAMIDE 30TABS X PKT",
+      "description": "GLUCOVANCE 500/2.5MG METFORMIN/GLIBENCLAMIDE 30TABS X PKT - Available at Kunle Ara Pharmacy",
+      "price": 12040.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "GLUCOVANCE",
+      "created_at": "2026-01-07T19:56:05.915049"
+    },
+    {
+      "sku": "KAP-EPA-0121",
+      "name": "EPANUTIN FENITOIN 100MG COUNTING X TAB",
+      "description": "EPANUTIN FENITOIN 100MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 40.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "EPANUTIN",
+      "created_at": "2026-01-07T19:56:05.915052"
+    },
+    {
+      "sku": "KAP-CYC-0122",
+      "name": "CYCLOCEL 500MG CYCLOPHOSPHAMIDE X VIAL",
+      "description": "CYCLOCEL 500MG CYCLOPHOSPHAMIDE X VIAL - Available at Kunle Ara Pharmacy",
+      "price": 750.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CYCLOCEL",
+      "created_at": "2026-01-07T19:56:05.915055"
+    },
+    {
+      "sku": "KAP-OMR-0123",
+      "name": "OMRON ARM M2",
+      "description": "OMRON ARM M2 - Available at Kunle Ara Pharmacy",
+      "price": 70070.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "OMRON",
+      "created_at": "2026-01-07T19:56:05.915063"
+    },
+    {
+      "sku": "KAP-MIL-0124",
+      "name": "MILTON TAB",
+      "description": "MILTON TAB - Available at Kunle Ara Pharmacy",
+      "price": 5960.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "MILTON",
+      "created_at": "2026-01-07T19:56:05.915068"
+    },
+    {
+      "sku": "KAP-PUR-0125",
+      "name": "PURE LOVE SPRAY",
+      "description": "PURE LOVE SPRAY - Available at Kunle Ara Pharmacy",
+      "price": 1950.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "PURE",
+      "created_at": "2026-01-07T19:56:05.915074"
+    },
+    {
+      "sku": "KAP-ABA-0126",
+      "name": "ABAKTAL 400MG TAB PKT",
+      "description": "ABAKTAL 400MG TAB PKT - Available at Kunle Ara Pharmacy",
+      "price": 1170.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ABAKTAL",
+      "created_at": "2026-01-07T19:56:05.915077"
+    },
+    {
+      "sku": "KAP-ANA-0127",
+      "name": "ANAFRANIL 25MG SATCHET",
+      "description": "ANAFRANIL 25MG SATCHET - Available at Kunle Ara Pharmacy",
+      "price": 3000.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ANAFRANIL",
+      "created_at": "2026-01-07T19:56:05.915080"
+    },
+    {
+      "sku": "KAP-E45-0128",
+      "name": "E45 SKIN NOURISHING SOAP 250G 2 IN 1",
+      "description": "E45 SKIN NOURISHING SOAP 250G 2 IN 1 - Available at Kunle Ara Pharmacy",
+      "price": 1430.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "E45",
+      "created_at": "2026-01-07T19:56:05.915085"
+    },
+    {
+      "sku": "KAP-CIA-0129",
+      "name": "CIALIS 20MG TADALAFIL 2TAB XPK",
+      "description": "CIALIS 20MG TADALAFIL 2TAB XPK - Available at Kunle Ara Pharmacy",
+      "price": 8340.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CIALIS",
+      "created_at": "2026-01-07T19:56:05.915088"
+    },
+    {
+      "sku": "KAP-LUM-0130",
+      "name": "LUMIGAN EYE DROP X 1",
+      "description": "LUMIGAN EYE DROP X 1 - Available at Kunle Ara Pharmacy",
+      "price": 17400.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LUMIGAN",
+      "created_at": "2026-01-07T19:56:05.915099"
+    },
+    {
+      "sku": "KAP-PUR-0131",
+      "name": "PURIT 4L",
+      "description": "PURIT 4L - Available at Kunle Ara Pharmacy",
+      "price": 19470.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "PURIT",
+      "created_at": "2026-01-07T19:56:05.915105"
+    },
+    {
+      "sku": "KAP-ATR-0132",
+      "name": "ATRACURIUM INJ 50MG X AMP",
+      "description": "ATRACURIUM INJ 50MG X AMP - Available at Kunle Ara Pharmacy",
+      "price": 6600.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ATRACURIUM",
+      "created_at": "2026-01-07T19:56:05.915108"
+    },
+    {
+      "sku": "KAP-COL-0133",
+      "name": "COLOSTOMY BAG X 1PIECE",
+      "description": "COLOSTOMY BAG X 1PIECE - Available at Kunle Ara Pharmacy",
+      "price": 1800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "COLOSTOMY",
+      "created_at": "2026-01-07T19:56:05.915115"
+    },
+    {
+      "sku": "KAP-SUD-0134",
+      "name": "SUDREX CAFFEINE/PARACETAMOL XSATCHET",
+      "description": "SUDREX CAFFEINE/PARACETAMOL XSATCHET - Available at Kunle Ara Pharmacy",
+      "price": 510.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SUDREX",
+      "created_at": "2026-01-07T19:56:05.915123"
+    },
+    {
+      "sku": "KAP-ABR-0135",
+      "name": "ABRO LEATHER CLEANER FURNITURE CLEANER 473ML",
+      "description": "ABRO LEATHER CLEANER FURNITURE CLEANER 473ML - Available at Kunle Ara Pharmacy",
+      "price": 1380.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ABRO",
+      "created_at": "2026-01-07T19:56:05.915128"
+    },
+    {
+      "sku": "KAP-DET-0136",
+      "name": "DETTOL HAND SANITIZER 50ML",
+      "description": "DETTOL HAND SANITIZER 50ML - Available at Kunle Ara Pharmacy",
+      "price": 810.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "DETTOL",
+      "created_at": "2026-01-07T19:56:05.915132"
+    },
+    {
+      "sku": "KAP-DIA-0137",
+      "name": "DIABETAMIL 187.5G DRINK PK",
+      "description": "DIABETAMIL 187.5G DRINK PK - Available at Kunle Ara Pharmacy",
+      "price": 6240.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "DIABETAMIL",
+      "created_at": "2026-01-07T19:56:05.915138"
+    },
+    {
+      "sku": "KAP-EAS-0138",
+      "name": "EASY ON",
+      "description": "EASY ON - Available at Kunle Ara Pharmacy",
+      "price": 2750.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "EASY",
+      "created_at": "2026-01-07T19:56:05.915144"
+    },
+    {
+      "sku": "KAP-ONI-0139",
+      "name": "ONION CRACKERS 200G BISCUIT",
+      "description": "ONION CRACKERS 200G BISCUIT - Available at Kunle Ara Pharmacy",
+      "price": 1980.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ONION",
+      "created_at": "2026-01-07T19:56:05.915150"
+    },
+    {
+      "sku": "KAP-KOF-0140",
+      "name": "KOFOL COUGH EXPECTORANT SYRUP",
+      "description": "KOFOL COUGH EXPECTORANT SYRUP - Available at Kunle Ara Pharmacy",
+      "price": 2040.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "KOFOL",
+      "created_at": "2026-01-07T19:56:05.915153"
+    },
+    {
+      "sku": "KAP-MON-0141",
+      "name": "MONTE CARLO PERFUME 100ML",
+      "description": "MONTE CARLO PERFUME 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6600.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "MONTE",
+      "created_at": "2026-01-07T19:56:05.915158"
+    },
+    {
+      "sku": "KAP-LEV-0142",
+      "name": "LEVITRA 10MG XPKT",
+      "description": "LEVITRA 10MG XPKT - Available at Kunle Ara Pharmacy",
+      "price": 4000.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LEVITRA",
+      "created_at": "2026-01-07T19:56:05.915161"
+    },
+    {
+      "sku": "KAP-CEN-0143",
+      "name": "CENTRUM SILVER MEN 50 MULTIVITAMIN X 65TAB",
+      "description": "CENTRUM SILVER MEN 50 MULTIVITAMIN X 65TAB - Available at Kunle Ara Pharmacy",
+      "price": 30000.0,
+      "category": "Vitamins & Supplements",
+      "is_prescription": false,
+      "brand": "CENTRUM",
+      "created_at": "2026-01-07T19:56:05.915166"
+    },
+    {
+      "sku": "KAP-CEN-0144",
+      "name": "CENTRUM SILVER WOMEN 50 MULTIVITAMIN X100TAB",
+      "description": "CENTRUM SILVER WOMEN 50 MULTIVITAMIN X100TAB - Available at Kunle Ara Pharmacy",
+      "price": 31050.0,
+      "category": "Vitamins & Supplements",
+      "is_prescription": false,
+      "brand": "CENTRUM",
+      "created_at": "2026-01-07T19:56:05.915173"
+    },
+    {
+      "sku": "KAP-CEN-0145",
+      "name": "CENTRUM SILVER ADULT 50 MULTIVITAMINS 125TABS X CUP",
+      "description": "CENTRUM SILVER ADULT 50 MULTIVITAMINS 125TABS X CUP - Available at Kunle Ara Pharmacy",
+      "price": 31050.0,
+      "category": "Vitamins & Supplements",
+      "is_prescription": false,
+      "brand": "CENTRUM",
+      "created_at": "2026-01-07T19:56:05.915179"
+    },
+    {
+      "sku": "KAP-FAI-0146",
+      "name": "FAIR AND WHITE SAVON EXCLUSIVE WHITENIZER SOAP 200G",
+      "description": "FAIR AND WHITE SAVON EXCLUSIVE WHITENIZER SOAP 200G - Available at Kunle Ara Pharmacy",
+      "price": 5775.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "FAIR",
+      "created_at": "2026-01-07T19:56:05.915184"
+    },
+    {
+      "sku": "KAP-FAI-0147",
+      "name": "FAIR AND WHITE EXCLUSIVE WHITENIZER MAXI TONE 250ML",
+      "description": "FAIR AND WHITE EXCLUSIVE WHITENIZER MAXI TONE 250ML - Available at Kunle Ara Pharmacy",
+      "price": 15000.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "FAIR",
+      "created_at": "2026-01-07T19:56:05.915187"
+    },
+    {
+      "sku": "KAP-FAI-0148",
+      "name": "FAIR WHITE SOWHITE SERUM 30MLX1",
+      "description": "FAIR WHITE SOWHITE SERUM 30MLX1 - Available at Kunle Ara Pharmacy",
+      "price": 12000.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "FAIR",
+      "created_at": "2026-01-07T19:56:05.915190"
+    },
+    {
+      "sku": "KAP-FAI-0149",
+      "name": "FAIR AND WHITE SAVON GOMMANT SOAP 200G",
+      "description": "FAIR AND WHITE SAVON GOMMANT SOAP 200G - Available at Kunle Ara Pharmacy",
+      "price": 4950.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "FAIR",
+      "created_at": "2026-01-07T19:56:05.915195"
+    },
+    {
+      "sku": "KAP-FIE-0150",
+      "name": "FIESTA DOTTED CONDOM",
+      "description": "FIESTA DOTTED CONDOM - Available at Kunle Ara Pharmacy",
+      "price": 480.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "FIESTA",
+      "created_at": "2026-01-07T19:56:05.915203"
+    },
+    {
+      "sku": "KAP-LAD-0151",
+      "name": "LADYCARE WITH WINGS YELLOW X 10PCS",
+      "description": "LADYCARE WITH WINGS YELLOW X 10PCS - Available at Kunle Ara Pharmacy",
+      "price": 640.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LADYCARE",
+      "created_at": "2026-01-07T19:56:05.915210"
+    },
+    {
+      "sku": "KAP-CIP-0152",
+      "name": "CIPROBIOTIC FORTE 500MG CIPROFLOXACIN 10TABS X PKT",
+      "description": "CIPROBIOTIC FORTE 500MG CIPROFLOXACIN 10TABS X PKT - Available at Kunle Ara Pharmacy",
+      "price": 660.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CIPROBIOTIC",
+      "created_at": "2026-01-07T19:56:05.915213"
+    },
+    {
+      "sku": "KAP-PIL-0153",
+      "name": "PILOCARPINE 2 EYE DROP",
+      "description": "PILOCARPINE 2 EYE DROP - Available at Kunle Ara Pharmacy",
+      "price": 6000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "PILOCARPINE",
+      "created_at": "2026-01-07T19:56:05.915219"
+    },
+    {
+      "sku": "KAP-BRU-0154",
+      "name": "BRUT DEODORANT ORIGINAL BODY SPRAY 200ML",
+      "description": "BRUT DEODORANT ORIGINAL BODY SPRAY 200ML - Available at Kunle Ara Pharmacy",
+      "price": 2550.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "BRUT",
+      "created_at": "2026-01-07T19:56:05.915223"
+    },
+    {
+      "sku": "KAP-TAX-0155",
+      "name": "TAXOTERE 80MG/4ML DOCETAXEL X VIAL",
+      "description": "TAXOTERE 80MG/4ML DOCETAXEL X VIAL - Available at Kunle Ara Pharmacy",
+      "price": 129830.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "TAXOTERE",
+      "created_at": "2026-01-07T19:56:05.915227"
+    },
+    {
+      "sku": "KAP-COL-0156",
+      "name": "COLIPAN SYRUP 60ML HYOSCINE-N-BUTYLBROMIDE X BOTTLE",
+      "description": "COLIPAN SYRUP 60ML HYOSCINE-N-BUTYLBROMIDE X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 750.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "COLIPAN",
+      "created_at": "2026-01-07T19:56:05.915230"
+    },
+    {
+      "sku": "KAP-FEV-0157",
+      "name": "FEVIZ PLUS PK",
+      "description": "FEVIZ PLUS PK - Available at Kunle Ara Pharmacy",
+      "price": 1000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "FEVIZ",
+      "created_at": "2026-01-07T19:56:05.915236"
+    },
+    {
+      "sku": "KAP-TRI-0158",
+      "name": "TRIBACT CREAM 30G CLOTRIMAZOLE BETAMETHASONE NEOMYCIN X TUBE",
+      "description": "TRIBACT CREAM 30G CLOTRIMAZOLE BETAMETHASONE NEOMYCIN X TUBE - Available at Kunle Ara Pharmacy",
+      "price": 600.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "TRIBACT",
+      "created_at": "2026-01-07T19:56:05.915242"
+    },
+    {
+      "sku": "KAP-CLI-0159",
+      "name": "CLINDA GPO 150MG CLINDAMYCIN 10CAPS X SAT",
+      "description": "CLINDA GPO 150MG CLINDAMYCIN 10CAPS X SAT - Available at Kunle Ara Pharmacy",
+      "price": 1980.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CLINDA",
+      "created_at": "2026-01-07T19:56:05.915245"
+    },
+    {
+      "sku": "KAP-END-0160",
+      "name": "ENDIX G CREAM 20G ECONAZOLE TRIAMCINOLONE GENTAMICIN X TUBE",
+      "description": "ENDIX G CREAM 20G ECONAZOLE TRIAMCINOLONE GENTAMICIN X TUBE - Available at Kunle Ara Pharmacy",
+      "price": 1500.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "ENDIX",
+      "created_at": "2026-01-07T19:56:05.915251"
+    },
+    {
+      "sku": "KAP-QUA-0161",
+      "name": "QUAKER OAT 420G TIN",
+      "description": "QUAKER OAT 420G TIN - Available at Kunle Ara Pharmacy",
+      "price": 3260.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "QUAKER",
+      "created_at": "2026-01-07T19:56:05.915257"
+    },
+    {
+      "sku": "KAP-ROY-0162",
+      "name": "ROYAL SHAVING POWDER",
+      "description": "ROYAL SHAVING POWDER - Available at Kunle Ara Pharmacy",
+      "price": 2110.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ROYAL",
+      "created_at": "2026-01-07T19:56:05.915263"
+    },
+    {
+      "sku": "KAP-ANG-0163",
+      "name": "ANGEL BABY ECO LARGE 9-14KGS X36PCS",
+      "description": "ANGEL BABY ECO LARGE 9-14KGS X36PCS - Available at Kunle Ara Pharmacy",
+      "price": 5230.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "ANGEL",
+      "created_at": "2026-01-07T19:56:05.915269"
+    },
+    {
+      "sku": "KAP-ANG-0164",
+      "name": "ANGEL BABY DIAPER JUMBO LARGE 9-1KGS X 72PCS",
+      "description": "ANGEL BABY DIAPER JUMBO LARGE 9-1KGS X 72PCS - Available at Kunle Ara Pharmacy",
+      "price": 10500.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "ANGEL",
+      "created_at": "2026-01-07T19:56:05.915276"
+    },
+    {
+      "sku": "KAP-DAN-0165",
+      "name": "DANO SLIM 900G SATCHET",
+      "description": "DANO SLIM 900G SATCHET - Available at Kunle Ara Pharmacy",
+      "price": 11750.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "DANO",
+      "created_at": "2026-01-07T19:56:05.915282"
+    },
+    {
+      "sku": "KAP-DAN-0166",
+      "name": "DANO SLIM SACHET 400G",
+      "description": "DANO SLIM SACHET 400G - Available at Kunle Ara Pharmacy",
+      "price": 5700.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "DANO",
+      "created_at": "2026-01-07T19:56:05.915288"
+    },
+    {
+      "sku": "KAP-DR -0167",
+      "name": "DR ALADDINS 7 KEYS HERBAL MIXTURE X BOTTLE",
+      "description": "DR ALADDINS 7 KEYS HERBAL MIXTURE X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 1280.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "DR",
+      "created_at": "2026-01-07T19:56:05.915296"
+    },
+    {
+      "sku": "KAP-INS-0168",
+      "name": "INSULIN SYRINGE X ONE PIECE",
+      "description": "INSULIN SYRINGE X ONE PIECE - Available at Kunle Ara Pharmacy",
+      "price": 120.0,
+      "category": "Medical Supplies",
+      "is_prescription": false,
+      "brand": "INSULIN",
+      "created_at": "2026-01-07T19:56:05.915300"
+    },
+    {
+      "sku": "KAP-MEN-0169",
+      "name": "MENTHOLATUM",
+      "description": "MENTHOLATUM - Available at Kunle Ara Pharmacy",
+      "price": 590.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "MENTHOLATUM",
+      "created_at": "2026-01-07T19:56:05.915306"
+    },
+    {
+      "sku": "KAP-SIL-0170",
+      "name": "SILVERCARE PLUS UNDERPADS X 1",
+      "description": "SILVERCARE PLUS UNDERPADS X 1 - Available at Kunle Ara Pharmacy",
+      "price": 3360.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SILVERCARE",
+      "created_at": "2026-01-07T19:56:05.915314"
+    },
+    {
+      "sku": "KAP-CEF-0171",
+      "name": "CEFIXIME DISP 200MG BENOW PKT",
+      "description": "CEFIXIME DISP 200MG BENOW PKT - Available at Kunle Ara Pharmacy",
+      "price": 840.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CEFIXIME",
+      "created_at": "2026-01-07T19:56:05.915318"
+    },
+    {
+      "sku": "KAP-FOR-0172",
+      "name": "FORBETIC 500MG METFORMIN HYDROCHLORIDE X 10TABS X SAT",
+      "description": "FORBETIC 500MG METFORMIN HYDROCHLORIDE X 10TABS X SAT - Available at Kunle Ara Pharmacy",
+      "price": 210.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "FORBETIC",
+      "created_at": "2026-01-07T19:56:05.915321"
+    },
+    {
+      "sku": "KAP-AAR-0173",
+      "name": "AAROMATE ORGANIC FRESHENER",
+      "description": "AAROMATE ORGANIC FRESHENER - Available at Kunle Ara Pharmacy",
+      "price": 780.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "AAROMATE",
+      "created_at": "2026-01-07T19:56:05.915329"
+    },
+    {
+      "sku": "KAP-CER-0174",
+      "name": "CERELAC HONEY WHEAT MILK 400G",
+      "description": "CERELAC HONEY WHEAT MILK 400G - Available at Kunle Ara Pharmacy",
+      "price": 8250.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "CERELAC",
+      "created_at": "2026-01-07T19:56:05.915337"
+    },
+    {
+      "sku": "KAP-PEA-0175",
+      "name": "PEAK BABY INFANT FORMULAR 0-12MONTH",
+      "description": "PEAK BABY INFANT FORMULAR 0-12MONTH - Available at Kunle Ara Pharmacy",
+      "price": 8710.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "PEAK",
+      "created_at": "2026-01-07T19:56:05.915345"
+    },
+    {
+      "sku": "KAP-FRI-0176",
+      "name": "FRISO GOLD RICE MILK CEREAL 300G",
+      "description": "FRISO GOLD RICE MILK CEREAL 300G - Available at Kunle Ara Pharmacy",
+      "price": 27500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "FRISO",
+      "created_at": "2026-01-07T19:56:05.915352"
+    },
+    {
+      "sku": "KAP-FRI-0177",
+      "name": "FRISO GOLD WHEAT MILK CEREAL 300G",
+      "description": "FRISO GOLD WHEAT MILK CEREAL 300G - Available at Kunle Ara Pharmacy",
+      "price": 32100.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "FRISO",
+      "created_at": "2026-01-07T19:56:05.915359"
+    },
+    {
+      "sku": "KAP-AMO-0178",
+      "name": "AMOS WHITE WHITENING SOAP WITH SHEA",
+      "description": "AMOS WHITE WHITENING SOAP WITH SHEA - Available at Kunle Ara Pharmacy",
+      "price": 420.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "AMOS",
+      "created_at": "2026-01-07T19:56:05.915363"
+    },
+    {
+      "sku": "KAP-MY -0179",
+      "name": "MY BOY INFANT FORMULA 400G",
+      "description": "MY BOY INFANT FORMULA 400G - Available at Kunle Ara Pharmacy",
+      "price": 7660.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "MY",
+      "created_at": "2026-01-07T19:56:05.915369"
+    },
+    {
+      "sku": "KAP-GOL-0180",
+      "name": "GOLDEN MORN 300G",
+      "description": "GOLDEN MORN 300G - Available at Kunle Ara Pharmacy",
+      "price": 1700.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "GOLDEN",
+      "created_at": "2026-01-07T19:56:05.915376"
+    },
+    {
+      "sku": "KAP-THR-0181",
+      "name": "THREE CROWN EVAPORATED TIN",
+      "description": "THREE CROWN EVAPORATED TIN - Available at Kunle Ara Pharmacy",
+      "price": 630.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "THREE",
+      "created_at": "2026-01-07T19:56:05.915382"
+    },
+    {
+      "sku": "KAP-NIV-0182",
+      "name": "NIVEA NOURISHING COCOA BUTTER 5IN1 400ML",
+      "description": "NIVEA NOURISHING COCOA BUTTER 5IN1 400ML - Available at Kunle Ara Pharmacy",
+      "price": 3950.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "NIVEA",
+      "created_at": "2026-01-07T19:56:05.915386"
+    },
+    {
+      "sku": "KAP-CER-0183",
+      "name": "CERELAC HONEY WHEAT MILK 1KG RUBBER COVER",
+      "description": "CERELAC HONEY WHEAT MILK 1KG RUBBER COVER - Available at Kunle Ara Pharmacy",
+      "price": 16500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "CERELAC",
+      "created_at": "2026-01-07T19:56:05.915393"
+    },
+    {
+      "sku": "KAP-BAM-0184",
+      "name": "BAMA MAYONNAISE 385ML",
+      "description": "BAMA MAYONNAISE 385ML - Available at Kunle Ara Pharmacy",
+      "price": 1835.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "BAMA",
+      "created_at": "2026-01-07T19:56:05.916239"
+    },
+    {
+      "sku": "KAP-DIG-0185",
+      "name": "DIGITAL ELECTRONIC PERSONAL SCALE",
+      "description": "DIGITAL ELECTRONIC PERSONAL SCALE - Available at Kunle Ara Pharmacy",
+      "price": 12000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "DIGITAL",
+      "created_at": "2026-01-07T19:56:05.916250"
+    },
+    {
+      "sku": "KAP-CT -0186",
+      "name": "CT CLEAR THERAPY 250ML ORANGE",
+      "description": "CT CLEAR THERAPY 250ML ORANGE - Available at Kunle Ara Pharmacy",
+      "price": 3300.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CT",
+      "created_at": "2026-01-07T19:56:05.916254"
+    },
+    {
+      "sku": "KAP-PAW-0187",
+      "name": "PAWPAW OIL 60ML",
+      "description": "PAWPAW OIL 60ML - Available at Kunle Ara Pharmacy",
+      "price": 1380.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PAWPAW",
+      "created_at": "2026-01-07T19:56:05.916257"
+    },
+    {
+      "sku": "KAP-PEA-0188",
+      "name": "PEAK FULL CREAM INSTANT MILK POWDER 900G TIN",
+      "description": "PEAK FULL CREAM INSTANT MILK POWDER 900G TIN - Available at Kunle Ara Pharmacy",
+      "price": 11740.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "PEAK",
+      "created_at": "2026-01-07T19:56:05.916262"
+    },
+    {
+      "sku": "KAP-PEA-0189",
+      "name": "PEAK FULL CREAM INSTANT MILK POWDER 400G TIN",
+      "description": "PEAK FULL CREAM INSTANT MILK POWDER 400G TIN - Available at Kunle Ara Pharmacy",
+      "price": 5500.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "PEAK",
+      "created_at": "2026-01-07T19:56:05.916267"
+    },
+    {
+      "sku": "KAP-PEA-0190",
+      "name": "PEAK FULL CREAM INSTANT MILK POWDER SATCHET X10PCS",
+      "description": "PEAK FULL CREAM INSTANT MILK POWDER SATCHET X10PCS - Available at Kunle Ara Pharmacy",
+      "price": 1770.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "PEAK",
+      "created_at": "2026-01-07T19:56:05.916271"
+    },
+    {
+      "sku": "KAP-PEA-0191",
+      "name": "PEAK FULL CREAM INSTANT MILK POWDER 360G SATCHET",
+      "description": "PEAK FULL CREAM INSTANT MILK POWDER 360G SATCHET - Available at Kunle Ara Pharmacy",
+      "price": 4310.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "PEAK",
+      "created_at": "2026-01-07T19:56:05.916276"
+    },
+    {
+      "sku": "KAP-BLU-0192",
+      "name": "BLUE BAND LOW FAT SPREAD 250G",
+      "description": "BLUE BAND LOW FAT SPREAD 250G - Available at Kunle Ara Pharmacy",
+      "price": 1650.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "BLUE",
+      "created_at": "2026-01-07T19:56:05.916283"
+    },
+    {
+      "sku": "KAP-BLU-0193",
+      "name": "BLUE BAND LOW FAT SPREAD 75G",
+      "description": "BLUE BAND LOW FAT SPREAD 75G - Available at Kunle Ara Pharmacy",
+      "price": 520.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "BLUE",
+      "created_at": "2026-01-07T19:56:05.916292"
+    },
+    {
+      "sku": "KAP-X-P-0194",
+      "name": "X-PRESSION 3X RUWA BRAID COLOR 1",
+      "description": "X-PRESSION 3X RUWA BRAID COLOR 1 - Available at Kunle Ara Pharmacy",
+      "price": 4070.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "X-PRESSION",
+      "created_at": "2026-01-07T19:56:05.916301"
+    },
+    {
+      "sku": "KAP-SEN-0195",
+      "name": "SENSODYNE DAILYCARE PROMO PACK TWO75ML ONE50ML",
+      "description": "SENSODYNE DAILYCARE PROMO PACK TWO75ML ONE50ML - Available at Kunle Ara Pharmacy",
+      "price": 2920.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SENSODYNE",
+      "created_at": "2026-01-07T19:56:05.916305"
+    },
+    {
+      "sku": "KAP-ZOT-0196",
+      "name": "ZOTRIM CO-TRIMOXAZOLE SUSP 240MG/5ML",
+      "description": "ZOTRIM CO-TRIMOXAZOLE SUSP 240MG/5ML - Available at Kunle Ara Pharmacy",
+      "price": 570.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ZOTRIM",
+      "created_at": "2026-01-07T19:56:05.916308"
+    },
+    {
+      "sku": "KAP-WIN-0197",
+      "name": "WIND AIR FRESHENER BLOCK STRAWBERRY/ APPLE 65G",
+      "description": "WIND AIR FRESHENER BLOCK STRAWBERRY/ APPLE 65G - Available at Kunle Ara Pharmacy",
+      "price": 360.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "WIND",
+      "created_at": "2026-01-07T19:56:05.916315"
+    },
+    {
+      "sku": "KAP-SIM-0198",
+      "name": "SIMPSOM BP GREEN WATER 20MLS",
+      "description": "SIMPSOM BP GREEN WATER 20MLS - Available at Kunle Ara Pharmacy",
+      "price": 6600.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SIMPSOM",
+      "created_at": "2026-01-07T19:56:05.916319"
+    },
+    {
+      "sku": "KAP-ZED-0199",
+      "name": "ZEDEX COLD PKT",
+      "description": "ZEDEX COLD PKT - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ZEDEX",
+      "created_at": "2026-01-07T19:56:05.916325"
+    },
+    {
+      "sku": "KAP-ANG-0200",
+      "name": "ANGITEL 40MG X SAT",
+      "description": "ANGITEL 40MG X SAT - Available at Kunle Ara Pharmacy",
+      "price": 760.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ANGITEL",
+      "created_at": "2026-01-07T19:56:05.916330"
+    },
+    {
+      "sku": "KAP-ESO-0201",
+      "name": "ESOFAG -D ESOMEPRAZOE 40MG DOMEPERIDONE 30MG 10TABS X SACHET",
+      "description": "ESOFAG -D ESOMEPRAZOE 40MG DOMEPERIDONE 30MG 10TABS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 1960.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ESOFAG",
+      "created_at": "2026-01-07T19:56:05.916335"
+    },
+    {
+      "sku": "KAP-ACL-0202",
+      "name": "ACLOTIL 75MG CLOPIDOGREL X SAT",
+      "description": "ACLOTIL 75MG CLOPIDOGREL X SAT - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ACLOTIL",
+      "created_at": "2026-01-07T19:56:05.916339"
+    },
+    {
+      "sku": "KAP-MAG-0203",
+      "name": "MAGIC YOUR LIFE LIP OIL",
+      "description": "MAGIC YOUR LIFE LIP OIL - Available at Kunle Ara Pharmacy",
+      "price": 450.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "MAGIC",
+      "created_at": "2026-01-07T19:56:05.916347"
+    },
+    {
+      "sku": "KAP-GAB-0204",
+      "name": "GAB-M SACHET X10TABS",
+      "description": "GAB-M SACHET X10TABS - Available at Kunle Ara Pharmacy",
+      "price": 480.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "GAB-M",
+      "created_at": "2026-01-07T19:56:05.916353"
+    },
+    {
+      "sku": "KAP-CLA-0205",
+      "name": "CLARTEM QS 80/480MG ARTEMETHER 80MG LUMEFANTRINE 480MG 6TABS X PKT",
+      "description": "CLARTEM QS 80/480MG ARTEMETHER 80MG LUMEFANTRINE 480MG 6TABS X PKT - Available at Kunle Ara Pharmacy",
+      "price": 990.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CLARTEM",
+      "created_at": "2026-01-07T19:56:05.916357"
+    },
+    {
+      "sku": "KAP-AMP-0206",
+      "name": "AMPICILLIN AND CLOXACILLIN 500MG KRISCLOX 10CAPS X SACHET",
+      "description": "AMPICILLIN AND CLOXACILLIN 500MG KRISCLOX 10CAPS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 530.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "AMPICILLIN",
+      "created_at": "2026-01-07T19:56:05.916361"
+    },
+    {
+      "sku": "KAP-EL -0207",
+      "name": "EL GAZELLE BIG CHICKEN KILISHI",
+      "description": "EL GAZELLE BIG CHICKEN KILISHI - Available at Kunle Ara Pharmacy",
+      "price": 990.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "EL",
+      "created_at": "2026-01-07T19:56:05.916368"
+    },
+    {
+      "sku": "KAP-ALM-0208",
+      "name": "ALMIITRON SOFTGEL 80/480MG ARTEMETHER LUMEFANTRINE 6TABS X PKT",
+      "description": "ALMIITRON SOFTGEL 80/480MG ARTEMETHER LUMEFANTRINE 6TABS X PKT - Available at Kunle Ara Pharmacy",
+      "price": 2040.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ALMIITRON",
+      "created_at": "2026-01-07T19:56:05.916372"
+    },
+    {
+      "sku": "KAP-LIT-0209",
+      "name": "LITTLE GIRL 3PIECES BAND",
+      "description": "LITTLE GIRL 3PIECES BAND - Available at Kunle Ara Pharmacy",
+      "price": 1000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LITTLE",
+      "created_at": "2026-01-07T19:56:05.916378"
+    },
+    {
+      "sku": "KAP-KIS-0210",
+      "name": "KISSKIDS EMBRACE SOFT BABY DIAPER MIDI SIZE 3 X 50PCS",
+      "description": "KISSKIDS EMBRACE SOFT BABY DIAPER MIDI SIZE 3 X 50PCS - Available at Kunle Ara Pharmacy",
+      "price": 6000.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "KISSKIDS",
+      "created_at": "2026-01-07T19:56:05.916385"
+    },
+    {
+      "sku": "KAP-BAB-0211",
+      "name": "BABY LIP BALM WITH OIL",
+      "description": "BABY LIP BALM WITH OIL - Available at Kunle Ara Pharmacy",
+      "price": 690.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "BABY",
+      "created_at": "2026-01-07T19:56:05.916390"
+    },
+    {
+      "sku": "KAP-MAR-0212",
+      "name": "MARVICO NUTMEG POWDER 5G X10",
+      "description": "MARVICO NUTMEG POWDER 5G X10 - Available at Kunle Ara Pharmacy",
+      "price": 1100.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "MARVICO",
+      "created_at": "2026-01-07T19:56:05.916396"
+    },
+    {
+      "sku": "KAP-BAF-0213",
+      "name": "BAFAMA CREAM 30G X TUBE",
+      "description": "BAFAMA CREAM 30G X TUBE - Available at Kunle Ara Pharmacy",
+      "price": 580.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "BAFAMA",
+      "created_at": "2026-01-07T19:56:05.916402"
+    },
+    {
+      "sku": "KAP-LIP-0214",
+      "name": "LIPIKIND 10MG XSAT",
+      "description": "LIPIKIND 10MG XSAT - Available at Kunle Ara Pharmacy",
+      "price": 580.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LIPIKIND",
+      "created_at": "2026-01-07T19:56:05.916405"
+    },
+    {
+      "sku": "KAP-LAV-0215",
+      "name": "LAVERA SANDWICH BISCUITS BIG XPACKET",
+      "description": "LAVERA SANDWICH BISCUITS BIG XPACKET - Available at Kunle Ara Pharmacy",
+      "price": 1380.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LAVERA",
+      "created_at": "2026-01-07T19:56:05.916411"
+    },
+    {
+      "sku": "KAP-MAR-0216",
+      "name": "MARCNOL 5/2.5MG AMLODIPINE RAMIPRIL 10TABS X SACHET",
+      "description": "MARCNOL 5/2.5MG AMLODIPINE RAMIPRIL 10TABS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 750.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "MARCNOL",
+      "created_at": "2026-01-07T19:56:05.916414"
+    },
+    {
+      "sku": "KAP-NEU-0217",
+      "name": "NEUROGESIC EXTRA 35G X TUBE",
+      "description": "NEUROGESIC EXTRA 35G X TUBE - Available at Kunle Ara Pharmacy",
+      "price": 1320.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "NEUROGESIC",
+      "created_at": "2026-01-07T19:56:05.916420"
+    },
+    {
+      "sku": "KAP-PAR-0218",
+      "name": "PARLE-G GLUCO BISCUITS 30G",
+      "description": "PARLE-G GLUCO BISCUITS 30G - Available at Kunle Ara Pharmacy",
+      "price": 100.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "PARLE-G",
+      "created_at": "2026-01-07T19:56:05.916426"
+    },
+    {
+      "sku": "KAP-ORI-0219",
+      "name": "ORIGINAL OYIN AYO HONEY 500ML",
+      "description": "ORIGINAL OYIN AYO HONEY 500ML - Available at Kunle Ara Pharmacy",
+      "price": 3850.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ORIGINAL",
+      "created_at": "2026-01-07T19:56:05.916429"
+    },
+    {
+      "sku": "KAP-SPI-0220",
+      "name": "SPIDOL 75MG CLOPIDOGREL 7TABS X SATCHET",
+      "description": "SPIDOL 75MG CLOPIDOGREL 7TABS X SATCHET - Available at Kunle Ara Pharmacy",
+      "price": 660.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SPIDOL",
+      "created_at": "2026-01-07T19:56:05.916432"
+    },
+    {
+      "sku": "KAP-DIC-0221",
+      "name": "DICLOFENAC EYE DROP DGF",
+      "description": "DICLOFENAC EYE DROP DGF - Available at Kunle Ara Pharmacy",
+      "price": 1260.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "DICLOFENAC",
+      "created_at": "2026-01-07T19:56:05.916438"
+    },
+    {
+      "sku": "KAP-VAS-0222",
+      "name": "VASELINE ESSENTIAL EVENTONE SPF24 LOTION 400ML",
+      "description": "VASELINE ESSENTIAL EVENTONE SPF24 LOTION 400ML - Available at Kunle Ara Pharmacy",
+      "price": 3710.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "VASELINE",
+      "created_at": "2026-01-07T19:56:05.916442"
+    },
+    {
+      "sku": "KAP-VAS-0223",
+      "name": "VASELINE ALOE SOOTHE NON GREASY LOTION 400ML",
+      "description": "VASELINE ALOE SOOTHE NON GREASY LOTION 400ML - Available at Kunle Ara Pharmacy",
+      "price": 3710.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "VASELINE",
+      "created_at": "2026-01-07T19:56:05.916445"
+    },
+    {
+      "sku": "KAP-VAS-0224",
+      "name": "VASELINE COCOA RADIANTT NON GREASY 400ML",
+      "description": "VASELINE COCOA RADIANTT NON GREASY 400ML - Available at Kunle Ara Pharmacy",
+      "price": 3710.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "VASELINE",
+      "created_at": "2026-01-07T19:56:05.916448"
+    },
+    {
+      "sku": "KAP-MET-0225",
+      "name": "METRONIDAZOLE 200MG COUNTING X TAB",
+      "description": "METRONIDAZOLE 200MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 10.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "METRONIDAZOLE",
+      "created_at": "2026-01-07T19:56:05.916451"
+    },
+    {
+      "sku": "KAP-MUL-0226",
+      "name": "MULTIVITE TAB COUNTING X TAB",
+      "description": "MULTIVITE TAB COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 5.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "MULTIVITE",
+      "created_at": "2026-01-07T19:56:05.916459"
+    },
+    {
+      "sku": "KAP-CAL-0227",
+      "name": "CALCIUM 300MGTAB COUNT",
+      "description": "CALCIUM 300MGTAB COUNT - Available at Kunle Ara Pharmacy",
+      "price": 6.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CALCIUM",
+      "created_at": "2026-01-07T19:56:05.916461"
+    },
+    {
+      "sku": "KAP-FER-0228",
+      "name": "FERSOLATE FERROUS SULPHATE COUNTING X TAB",
+      "description": "FERSOLATE FERROUS SULPHATE COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 5.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "FERSOLATE",
+      "created_at": "2026-01-07T19:56:05.916468"
+    },
+    {
+      "sku": "KAP-ASP-0229",
+      "name": "ASPIRIN 300MG TAB",
+      "description": "ASPIRIN 300MG TAB - Available at Kunle Ara Pharmacy",
+      "price": 5.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ASPIRIN",
+      "created_at": "2026-01-07T19:56:05.916471"
+    },
+    {
+      "sku": "KAP-PIR-0230",
+      "name": "PIRITON TAB COUNTING X TAB",
+      "description": "PIRITON TAB COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 2.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "PIRITON",
+      "created_at": "2026-01-07T19:56:05.916477"
+    },
+    {
+      "sku": "KAP-PAR-0231",
+      "name": "PARACETAMOL EMZOR 500MG 12TABS X SAT",
+      "description": "PARACETAMOL EMZOR 500MG 12TABS X SAT - Available at Kunle Ara Pharmacy",
+      "price": 150.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PARACETAMOL",
+      "created_at": "2026-01-07T19:56:05.916480"
+    },
+    {
+      "sku": "KAP-AMI-0232",
+      "name": "AMINOPHYLLINE 100MG COUNTING X TAB",
+      "description": "AMINOPHYLLINE 100MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 10.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "AMINOPHYLLINE",
+      "created_at": "2026-01-07T19:56:05.916483"
+    },
+    {
+      "sku": "KAP-DAP-0233",
+      "name": "DAPSONE 100MG COUNTING X TAB",
+      "description": "DAPSONE 100MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 10.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "DAPSONE",
+      "created_at": "2026-01-07T19:56:05.916487"
+    },
+    {
+      "sku": "KAP-C/P-0234",
+      "name": "C/PROMAZINE 50MG COUNTING X TAB",
+      "description": "C/PROMAZINE 50MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 10.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "C/PROMAZINE",
+      "created_at": "2026-01-07T19:56:05.916494"
+    },
+    {
+      "sku": "KAP-BEN-0235",
+      "name": "BENDROFLUAZIDE 5MG COUNTING X TAB",
+      "description": "BENDROFLUAZIDE 5MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 10.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "BENDROFLUAZIDE",
+      "created_at": "2026-01-07T19:56:05.916497"
+    },
+    {
+      "sku": "KAP-FRU-0236",
+      "name": "FRUSEMIDE TAB COUNTING X TAB",
+      "description": "FRUSEMIDE TAB COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 10.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "FRUSEMIDE",
+      "created_at": "2026-01-07T19:56:05.916504"
+    },
+    {
+      "sku": "KAP-HYD-0237",
+      "name": "HYDROCHLORTHIAZIDE 50MG XTAB",
+      "description": "HYDROCHLORTHIAZIDE 50MG XTAB - Available at Kunle Ara Pharmacy",
+      "price": 6.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "HYDROCHLORTHIAZIDE",
+      "created_at": "2026-01-07T19:56:05.916506"
+    },
+    {
+      "sku": "KAP-SPI-0238",
+      "name": "SPIRINOLACTONE 25MG COUNTING X TAB",
+      "description": "SPIRINOLACTONE 25MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 70.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SPIRINOLACTONE",
+      "created_at": "2026-01-07T19:56:05.916509"
+    },
+    {
+      "sku": "KAP-NIT-0239",
+      "name": "NITROFURANTOIN 100MG COUNTING X TAB",
+      "description": "NITROFURANTOIN 100MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 30.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "NITROFURANTOIN",
+      "created_at": "2026-01-07T19:56:05.916512"
+    },
+    {
+      "sku": "KAP-PYR-0240",
+      "name": "PYRIDOXINE B6 50MG COUNTING X TAB",
+      "description": "PYRIDOXINE B6 50MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 10.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PYRIDOXINE",
+      "created_at": "2026-01-07T19:56:05.916515"
+    },
+    {
+      "sku": "KAP-KET-0241",
+      "name": "KETRAX TAB COUNTING LEVAMISOLE X TAB",
+      "description": "KETRAX TAB COUNTING LEVAMISOLE X TAB - Available at Kunle Ara Pharmacy",
+      "price": 10.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "KETRAX",
+      "created_at": "2026-01-07T19:56:05.916522"
+    },
+    {
+      "sku": "KAP-C/P-0242",
+      "name": "C/PROMAZINE 100MG COUNTING X TAB",
+      "description": "C/PROMAZINE 100MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 30.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "C/PROMAZINE",
+      "created_at": "2026-01-07T19:56:05.916524"
+    },
+    {
+      "sku": "KAP-PAR-0243",
+      "name": "PARACETAMOL 500MG COUNTING X TAB",
+      "description": "PARACETAMOL 500MG COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 10.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PARACETAMOL",
+      "created_at": "2026-01-07T19:56:05.916528"
+    },
+    {
+      "sku": "KAP-CHL-0244",
+      "name": "CHLOROQUINE COUNTING X TAB",
+      "description": "CHLOROQUINE COUNTING X TAB - Available at Kunle Ara Pharmacy",
+      "price": 50.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "CHLOROQUINE",
+      "created_at": "2026-01-07T19:56:05.916535"
+    },
+    {
+      "sku": "KAP-DIG-0245",
+      "name": "DIGOXIN TAB 0.25MG",
+      "description": "DIGOXIN TAB 0.25MG - Available at Kunle Ara Pharmacy",
+      "price": 20.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "DIGOXIN",
+      "created_at": "2026-01-07T19:56:05.916537"
+    },
+    {
+      "sku": "KAP-BAB-0246",
+      "name": "BABYMED GENTLE LOTION 800ML",
+      "description": "BABYMED GENTLE LOTION 800ML - Available at Kunle Ara Pharmacy",
+      "price": 5500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "BABYMED",
+      "created_at": "2026-01-07T19:56:05.916540"
+    },
+    {
+      "sku": "KAP-BAB-0247",
+      "name": "BABYMED GENTLE SOAP 175G",
+      "description": "BABYMED GENTLE SOAP 175G - Available at Kunle Ara Pharmacy",
+      "price": 1400.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "BABYMED",
+      "created_at": "2026-01-07T19:56:05.916545"
+    },
+    {
+      "sku": "KAP-PAW-0248",
+      "name": "PAWPAW CLARIFYING LOTION 500ML",
+      "description": "PAWPAW CLARIFYING LOTION 500ML - Available at Kunle Ara Pharmacy",
+      "price": 4770.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PAWPAW",
+      "created_at": "2026-01-07T19:56:05.916548"
+    },
+    {
+      "sku": "KAP-CAR-0249",
+      "name": "CAROWHITE LIGHTDROPS SERUM 5AMPLES",
+      "description": "CAROWHITE LIGHTDROPS SERUM 5AMPLES - Available at Kunle Ara Pharmacy",
+      "price": 1300.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "CAROWHITE",
+      "created_at": "2026-01-07T19:56:05.916554"
+    },
+    {
+      "sku": "KAP-PAW-0250",
+      "name": "PAWPAW LIGHTENING SHOWER GEL 500ML",
+      "description": "PAWPAW LIGHTENING SHOWER GEL 500ML - Available at Kunle Ara Pharmacy",
+      "price": 4950.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PAWPAW",
+      "created_at": "2026-01-07T19:56:05.916557"
+    },
+    {
+      "sku": "KAP-TER-0251",
+      "name": "TERRA CHICKEN X50CUBES PKT",
+      "description": "TERRA CHICKEN X50CUBES PKT - Available at Kunle Ara Pharmacy",
+      "price": 940.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "TERRA",
+      "created_at": "2026-01-07T19:56:05.916563"
+    },
+    {
+      "sku": "KAP-BLU-0252",
+      "name": "BLUE BAND ORIGINAL FAT SPREAD 450G",
+      "description": "BLUE BAND ORIGINAL FAT SPREAD 450G - Available at Kunle Ara Pharmacy",
+      "price": 3720.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "BLUE",
+      "created_at": "2026-01-07T19:56:05.916571"
+    },
+    {
+      "sku": "KAP-BLU-0253",
+      "name": "BLUE BAND ORIGINAL FAT SPREAD 250G",
+      "description": "BLUE BAND ORIGINAL FAT SPREAD 250G - Available at Kunle Ara Pharmacy",
+      "price": 2300.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "BLUE",
+      "created_at": "2026-01-07T19:56:05.916577"
+    },
+    {
+      "sku": "KAP-BLU-0254",
+      "name": "BLUE BAND LOW FAT SPREAD 900G",
+      "description": "BLUE BAND LOW FAT SPREAD 900G - Available at Kunle Ara Pharmacy",
+      "price": 4310.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "BLUE",
+      "created_at": "2026-01-07T19:56:05.916583"
+    },
+    {
+      "sku": "KAP-PEA-0255",
+      "name": "PEAK 1-2-3YEARS GROWING UP MILK 360G SACHET",
+      "description": "PEAK 1-2-3YEARS GROWING UP MILK 360G SACHET - Available at Kunle Ara Pharmacy",
+      "price": 4770.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "PEAK",
+      "created_at": "2026-01-07T19:56:05.916590"
+    },
+    {
+      "sku": "KAP-PUR-0256",
+      "name": "PURIT ANTISEPTIC 125ML",
+      "description": "PURIT ANTISEPTIC 125ML - Available at Kunle Ara Pharmacy",
+      "price": 1455.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PURIT",
+      "created_at": "2026-01-07T19:56:05.916593"
+    },
+    {
+      "sku": "KAP-PUR-0257",
+      "name": "PURIT ANTISEPTIC 250ML",
+      "description": "PURIT ANTISEPTIC 250ML - Available at Kunle Ara Pharmacy",
+      "price": 2450.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PURIT",
+      "created_at": "2026-01-07T19:56:05.916596"
+    },
+    {
+      "sku": "KAP-PUR-0258",
+      "name": "PURIT ANTISEPTIC 500ML",
+      "description": "PURIT ANTISEPTIC 500ML - Available at Kunle Ara Pharmacy",
+      "price": 4760.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PURIT",
+      "created_at": "2026-01-07T19:56:05.916598"
+    },
+    {
+      "sku": "KAP-SAF-0259",
+      "name": "SAFE CUT 125ML",
+      "description": "SAFE CUT 125ML - Available at Kunle Ara Pharmacy",
+      "price": 930.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SAFE",
+      "created_at": "2026-01-07T19:56:05.916601"
+    },
+    {
+      "sku": "KAP-PUR-0260",
+      "name": "PURIT 2LITERS",
+      "description": "PURIT 2LITERS - Available at Kunle Ara Pharmacy",
+      "price": 11660.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "PURIT",
+      "created_at": "2026-01-07T19:56:05.916607"
+    },
+    {
+      "sku": "KAP-ALW-0261",
+      "name": "ALWAYS ULTRA THIN 3IN1 X 7PADS",
+      "description": "ALWAYS ULTRA THIN 3IN1 X 7PADS - Available at Kunle Ara Pharmacy",
+      "price": 1200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ALWAYS",
+      "created_at": "2026-01-07T19:56:05.916613"
+    },
+    {
+      "sku": "KAP-ALW-0262",
+      "name": "ALWAYS ULTRA THIN X14 BLUE",
+      "description": "ALWAYS ULTRA THIN X14 BLUE - Available at Kunle Ara Pharmacy",
+      "price": 2260.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ALWAYS",
+      "created_at": "2026-01-07T19:56:05.916619"
+    },
+    {
+      "sku": "KAP-LAR-0263",
+      "name": "LARSOR TOMATO SEASONING 100G",
+      "description": "LARSOR TOMATO SEASONING 100G - Available at Kunle Ara Pharmacy",
+      "price": 800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LARSOR",
+      "created_at": "2026-01-07T19:56:05.916626"
+    },
+    {
+      "sku": "KAP-LAR-0264",
+      "name": "LARSOR CHICKEN SEASONING X10PCS",
+      "description": "LARSOR CHICKEN SEASONING X10PCS - Available at Kunle Ara Pharmacy",
+      "price": 800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LARSOR",
+      "created_at": "2026-01-07T19:56:05.916633"
+    },
+    {
+      "sku": "KAP-LAR-0265",
+      "name": "LARSOR FRIED RICE SEASONING 100G",
+      "description": "LARSOR FRIED RICE SEASONING 100G - Available at Kunle Ara Pharmacy",
+      "price": 800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LARSOR",
+      "created_at": "2026-01-07T19:56:05.916639"
+    },
+    {
+      "sku": "KAP-FUR-0266",
+      "name": "FUROCYST POLYCYSTIC OVARY XPKT",
+      "description": "FUROCYST POLYCYSTIC OVARY XPKT - Available at Kunle Ara Pharmacy",
+      "price": 36000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "FUROCYST",
+      "created_at": "2026-01-07T19:56:05.916645"
+    },
+    {
+      "sku": "KAP-JOH-0267",
+      "name": "JOHNSON COTTON BUD X200PCS",
+      "description": "JOHNSON COTTON BUD X200PCS - Available at Kunle Ara Pharmacy",
+      "price": 1200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "JOHNSON",
+      "created_at": "2026-01-07T19:56:05.916652"
+    },
+    {
+      "sku": "KAP-HAY-0268",
+      "name": "HAYAATI LATTAFA BLACK PERFUME 100MLS",
+      "description": "HAYAATI LATTAFA BLACK PERFUME 100MLS - Available at Kunle Ara Pharmacy",
+      "price": 18800.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "HAYAATI",
+      "created_at": "2026-01-07T19:56:05.916655"
+    },
+    {
+      "sku": "KAP-OUD-0269",
+      "name": "OUD FOR GLORY PERFUME 100ML",
+      "description": "OUD FOR GLORY PERFUME 100ML - Available at Kunle Ara Pharmacy",
+      "price": 30800.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "OUD",
+      "created_at": "2026-01-07T19:56:05.916658"
+    },
+    {
+      "sku": "KAP-LUX-0270",
+      "name": "LUXE LATTAFA PERFUME 100ML",
+      "description": "LUXE LATTAFA PERFUME 100ML - Available at Kunle Ara Pharmacy",
+      "price": 24200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LUXE",
+      "created_at": "2026-01-07T19:56:05.916662"
+    },
+    {
+      "sku": "KAP-QAE-0271",
+      "name": "QAED AL FURSAN PERFUME 90ML",
+      "description": "QAED AL FURSAN PERFUME 90ML - Available at Kunle Ara Pharmacy",
+      "price": 7200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "QAED",
+      "created_at": "2026-01-07T19:56:05.916665"
+    },
+    {
+      "sku": "KAP-SAM-0272",
+      "name": "SAMJONES AMLODIPINE 10MG XSACHET",
+      "description": "SAMJONES AMLODIPINE 10MG XSACHET - Available at Kunle Ara Pharmacy",
+      "price": 410.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SAMJONES",
+      "created_at": "2026-01-07T19:56:05.916669"
+    },
+    {
+      "sku": "KAP-VES-0273",
+      "name": "VESICARE 5MG X10TABS SACHET",
+      "description": "VESICARE 5MG X10TABS SACHET - Available at Kunle Ara Pharmacy",
+      "price": 5200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "VESICARE",
+      "created_at": "2026-01-07T19:56:05.916672"
+    },
+    {
+      "sku": "KAP-MAL-0274",
+      "name": "MALAL DISPERSIBLEX6 XPKT",
+      "description": "MALAL DISPERSIBLEX6 XPKT - Available at Kunle Ara Pharmacy",
+      "price": 200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "MALAL",
+      "created_at": "2026-01-07T19:56:05.916680"
+    },
+    {
+      "sku": "KAP-MDP-0275",
+      "name": "MDP YITE WHITE TONE GLUTA/GOLD/CARROT SOAP 200G",
+      "description": "MDP YITE WHITE TONE GLUTA/GOLD/CARROT SOAP 200G - Available at Kunle Ara Pharmacy",
+      "price": 2300.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "MDP",
+      "created_at": "2026-01-07T19:56:05.916685"
+    },
+    {
+      "sku": "KAP-PAN-0276",
+      "name": "PANDA COLD DROP PARACETA CHLORPHENIRAMINE 15ML",
+      "description": "PANDA COLD DROP PARACETA CHLORPHENIRAMINE 15ML - Available at Kunle Ara Pharmacy",
+      "price": 1500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "PANDA",
+      "created_at": "2026-01-07T19:56:05.916689"
+    },
+    {
+      "sku": "KAP-LAR-0277",
+      "name": "LARIACT 20/120 PKT",
+      "description": "LARIACT 20/120 PKT - Available at Kunle Ara Pharmacy",
+      "price": 240.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "LARIACT",
+      "created_at": "2026-01-07T19:56:05.916695"
+    },
+    {
+      "sku": "KAP-X-P-0278",
+      "name": "X-PRESSION RUWA BRAID COLOR 33",
+      "description": "X-PRESSION RUWA BRAID COLOR 33 - Available at Kunle Ara Pharmacy",
+      "price": 3580.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "X-PRESSION",
+      "created_at": "2026-01-07T19:56:05.916701"
+    },
+    {
+      "sku": "KAP-CAM-0279",
+      "name": "CAMARA MEASURE BODY SPRAY 250ML",
+      "description": "CAMARA MEASURE BODY SPRAY 250ML - Available at Kunle Ara Pharmacy",
+      "price": 3150.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CAMARA",
+      "created_at": "2026-01-07T19:56:05.916704"
+    },
+    {
+      "sku": "KAP-CAM-0280",
+      "name": "CAMARA MONARCH BODY SPRAY 250ML",
+      "description": "CAMARA MONARCH BODY SPRAY 250ML - Available at Kunle Ara Pharmacy",
+      "price": 3150.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CAMARA",
+      "created_at": "2026-01-07T19:56:05.916707"
+    },
+    {
+      "sku": "KAP-GOO-0281",
+      "name": "GOOD DAY CHUNKIES CHOCOCHIP 150G",
+      "description": "GOOD DAY CHUNKIES CHOCOCHIP 150G - Available at Kunle Ara Pharmacy",
+      "price": 1300.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "GOOD",
+      "created_at": "2026-01-07T19:56:05.916714"
+    },
+    {
+      "sku": "KAP-BOU-0282",
+      "name": "BOURBON BRITANNIA ORIGINAL CHOCOLATE BISCUIT 2X100G",
+      "description": "BOURBON BRITANNIA ORIGINAL CHOCOLATE BISCUIT 2X100G - Available at Kunle Ara Pharmacy",
+      "price": 1250.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "BOURBON",
+      "created_at": "2026-01-07T19:56:05.916721"
+    },
+    {
+      "sku": "KAP-ROY-0283",
+      "name": "ROYAL GAD LYSOL 60ML",
+      "description": "ROYAL GAD LYSOL 60ML - Available at Kunle Ara Pharmacy",
+      "price": 200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ROYAL",
+      "created_at": "2026-01-07T19:56:05.916724"
+    },
+    {
+      "sku": "KAP-SAI-0284",
+      "name": "SAIDA FOREVER BISCUIT STUFFED WITH COCOA CREAM 100G",
+      "description": "SAIDA FOREVER BISCUIT STUFFED WITH COCOA CREAM 100G - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "SAIDA",
+      "created_at": "2026-01-07T19:56:05.916731"
+    },
+    {
+      "sku": "KAP-SAI-0285",
+      "name": "SAIDA DARK CHOCOLATE BISCUIT 100G",
+      "description": "SAIDA DARK CHOCOLATE BISCUIT 100G - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SAIDA",
+      "created_at": "2026-01-07T19:56:05.916738"
+    },
+    {
+      "sku": "KAP-SAI-0286",
+      "name": "SAIDA TRENDY CHOCOLATE BISCIUTSWITH COCOA CREAM 100G",
+      "description": "SAIDA TRENDY CHOCOLATE BISCIUTSWITH COCOA CREAM 100G - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "SAIDA",
+      "created_at": "2026-01-07T19:56:05.916743"
+    },
+    {
+      "sku": "KAP-OPT-0287",
+      "name": "OPTAFEN EYE DROP 10ML TIMOLOL MALEATE 0.5 X BOTTLE",
+      "description": "OPTAFEN EYE DROP 10ML TIMOLOL MALEATE 0.5 X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 1140.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "OPTAFEN",
+      "created_at": "2026-01-07T19:56:05.916746"
+    },
+    {
+      "sku": "KAP-CET-0288",
+      "name": "CETAFENAC 500/50MG PARACETAMOL DICLOFENAC 10TAB XPACK",
+      "description": "CETAFENAC 500/50MG PARACETAMOL DICLOFENAC 10TAB XPACK - Available at Kunle Ara Pharmacy",
+      "price": 540.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CETAFENAC",
+      "created_at": "2026-01-07T19:56:05.916750"
+    },
+    {
+      "sku": "KAP-CET-0289",
+      "name": "CETIN LORATADINE 10MG 10TAB XSAT",
+      "description": "CETIN LORATADINE 10MG 10TAB XSAT - Available at Kunle Ara Pharmacy",
+      "price": 110.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CETIN",
+      "created_at": "2026-01-07T19:56:05.916752"
+    },
+    {
+      "sku": "KAP-NOW-0290",
+      "name": "NOW BONE STRENGHT X 120CAPS",
+      "description": "NOW BONE STRENGHT X 120CAPS - Available at Kunle Ara Pharmacy",
+      "price": 6000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "NOW",
+      "created_at": "2026-01-07T19:56:05.916759"
+    },
+    {
+      "sku": "KAP-HIS-0291",
+      "name": "HISTOLAT 5MG LEVOCETRIZINE 10TABS X SAT",
+      "description": "HISTOLAT 5MG LEVOCETRIZINE 10TABS X SAT - Available at Kunle Ara Pharmacy",
+      "price": 120.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "HISTOLAT",
+      "created_at": "2026-01-07T19:56:05.916763"
+    },
+    {
+      "sku": "KAP-NO--0292",
+      "name": "NO-PAIN 300MG ACETYL SALICYLIC ACID 10TABS X SACHET",
+      "description": "NO-PAIN 300MG ACETYL SALICYLIC ACID 10TABS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 120.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "NO-PAIN",
+      "created_at": "2026-01-07T19:56:05.916766"
+    },
+    {
+      "sku": "KAP-WAL-0293",
+      "name": "WALKING FRAME WITH TYRE X1",
+      "description": "WALKING FRAME WITH TYRE X1 - Available at Kunle Ara Pharmacy",
+      "price": 33600.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "WALKING",
+      "created_at": "2026-01-07T19:56:05.916773"
+    },
+    {
+      "sku": "KAP-CAR-0294",
+      "name": "CARTINEX RANOLAZINE EXTENTED 500MG 10TABS X SACHET",
+      "description": "CARTINEX RANOLAZINE EXTENTED 500MG 10TABS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 3080.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "CARTINEX",
+      "created_at": "2026-01-07T19:56:05.916776"
+    },
+    {
+      "sku": "KAP-CLA-0295",
+      "name": "CLAVUREM 375 X PKT",
+      "description": "CLAVUREM 375 X PKT - Available at Kunle Ara Pharmacy",
+      "price": 1020.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "CLAVUREM",
+      "created_at": "2026-01-07T19:56:05.916783"
+    },
+    {
+      "sku": "KAP-NEX-0296",
+      "name": "NEXA 1000MG 1VIAL MEROPENEM",
+      "description": "NEXA 1000MG 1VIAL MEROPENEM - Available at Kunle Ara Pharmacy",
+      "price": 10080.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "NEXA",
+      "created_at": "2026-01-07T19:56:05.916787"
+    },
+    {
+      "sku": "KAP-TAM-0297",
+      "name": "TAMARAB INJ 20MG RABEPRAZOLE X VIAL",
+      "description": "TAMARAB INJ 20MG RABEPRAZOLE X VIAL - Available at Kunle Ara Pharmacy",
+      "price": 2040.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "TAMARAB",
+      "created_at": "2026-01-07T19:56:05.916790"
+    },
+    {
+      "sku": "KAP-FUR-0298",
+      "name": "FUROSEMIDE 20MG ROTEX BRAND INJECT XONE AMPOULE",
+      "description": "FUROSEMIDE 20MG ROTEX BRAND INJECT XONE AMPOULE - Available at Kunle Ara Pharmacy",
+      "price": 400.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "FUROSEMIDE",
+      "created_at": "2026-01-07T19:56:05.916793"
+    },
+    {
+      "sku": "KAP-SIL-0299",
+      "name": "SILVER CARE UNDERPAD X25",
+      "description": "SILVER CARE UNDERPAD X25 - Available at Kunle Ara Pharmacy",
+      "price": 3600.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SILVER",
+      "created_at": "2026-01-07T19:56:05.916799"
+    },
+    {
+      "sku": "KAP-GLO-0300",
+      "name": "GLODERM CREAM 30G CLOBETASOL MICONAZOLE GENTAMYCIN X TUBE",
+      "description": "GLODERM CREAM 30G CLOBETASOL MICONAZOLE GENTAMYCIN X TUBE - Available at Kunle Ara Pharmacy",
+      "price": 1020.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "GLODERM",
+      "created_at": "2026-01-07T19:56:05.916804"
+    },
+    {
+      "sku": "KAP-SMA-0301",
+      "name": "SMART COLLECTION PERFUME 25ML NO540",
+      "description": "SMART COLLECTION PERFUME 25ML NO540 - Available at Kunle Ara Pharmacy",
+      "price": 2520.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916807"
+    },
+    {
+      "sku": "KAP-LOS-0302",
+      "name": "LOSARTAN POTASSIUM 50MG NUSAR 10TABS X SACHET",
+      "description": "LOSARTAN POTASSIUM 50MG NUSAR 10TABS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 1200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "LOSARTAN",
+      "created_at": "2026-01-07T19:56:05.916810"
+    },
+    {
+      "sku": "KAP-EAS-0303",
+      "name": "EASADOL 500MG ACETAMINOPHEN 10CAPS X SACHET",
+      "description": "EASADOL 500MG ACETAMINOPHEN 10CAPS X SACHET - Available at Kunle Ara Pharmacy",
+      "price": 180.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "EASADOL",
+      "created_at": "2026-01-07T19:56:05.916813"
+    },
+    {
+      "sku": "KAP-HAE-0304",
+      "name": "HAEMATOVITE XPKT",
+      "description": "HAEMATOVITE XPKT - Available at Kunle Ara Pharmacy",
+      "price": 360.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "HAEMATOVITE",
+      "created_at": "2026-01-07T19:56:05.916819"
+    },
+    {
+      "sku": "KAP-WAY-0305",
+      "name": "WAYBILL 3",
+      "description": "WAYBILL 3 - Available at Kunle Ara Pharmacy",
+      "price": 2000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "WAYBILL",
+      "created_at": "2026-01-07T19:56:05.916824"
+    },
+    {
+      "sku": "KAP-SMA-0306",
+      "name": "SMART COLLECTION PERFUME NO225 100ML",
+      "description": "SMART COLLECTION PERFUME NO225 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916828"
+    },
+    {
+      "sku": "KAP-CER-0307",
+      "name": "CERELAC WHEAT APPLE AFTER 6 MONTH 250G REFILL",
+      "description": "CERELAC WHEAT APPLE AFTER 6 MONTH 250G REFILL - Available at Kunle Ara Pharmacy",
+      "price": 1980.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "CERELAC",
+      "created_at": "2026-01-07T19:56:05.916835"
+    },
+    {
+      "sku": "KAP-SMA-0308",
+      "name": "SMART COLLECTION PERFUME NO332 100ML",
+      "description": "SMART COLLECTION PERFUME NO332 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916838"
+    },
+    {
+      "sku": "KAP-SMA-0309",
+      "name": "SMART COLLECTION PERFUME NO322 100ML",
+      "description": "SMART COLLECTION PERFUME NO322 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916841"
+    },
+    {
+      "sku": "KAP-SMA-0310",
+      "name": "SMART COLLECTION PERFUME NO94 100ML",
+      "description": "SMART COLLECTION PERFUME NO94 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916845"
+    },
+    {
+      "sku": "KAP-SMA-0311",
+      "name": "SMART COLLECTION PERFUME NO359 100ML",
+      "description": "SMART COLLECTION PERFUME NO359 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916849"
+    },
+    {
+      "sku": "KAP-SMA-0312",
+      "name": "SMART COLLECTION PERFUME NO540 100ML",
+      "description": "SMART COLLECTION PERFUME NO540 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916852"
+    },
+    {
+      "sku": "KAP-SMA-0313",
+      "name": "SMART COLLECTION PERFUME NO262 100ML",
+      "description": "SMART COLLECTION PERFUME NO262 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916855"
+    },
+    {
+      "sku": "KAP-SMA-0314",
+      "name": "SMART COLLECTION PERFUMR NO67 100ML",
+      "description": "SMART COLLECTION PERFUMR NO67 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916857"
+    },
+    {
+      "sku": "KAP-SMA-0315",
+      "name": "SMART COLLECTION PERFUME NO275 100ML",
+      "description": "SMART COLLECTION PERFUME NO275 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6450.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916860"
+    },
+    {
+      "sku": "KAP-SMA-0316",
+      "name": "SMART COLLECTION PERFUME NO28 100ML",
+      "description": "SMART COLLECTION PERFUME NO28 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6450.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916863"
+    },
+    {
+      "sku": "KAP-SMA-0317",
+      "name": "SMART COLLECTION PERFUME NO02 100ML",
+      "description": "SMART COLLECTION PERFUME NO02 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916865"
+    },
+    {
+      "sku": "KAP-SMA-0318",
+      "name": "SMART COLLECTION PERFUME NO250 100ML",
+      "description": "SMART COLLECTION PERFUME NO250 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6450.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916868"
+    },
+    {
+      "sku": "KAP-SMA-0319",
+      "name": "SMART COLLECTION PERFUME NO538 100ML",
+      "description": "SMART COLLECTION PERFUME NO538 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916870"
+    },
+    {
+      "sku": "KAP-SMA-0320",
+      "name": "SMART COLLECTION PERFUME 100 NO64",
+      "description": "SMART COLLECTION PERFUME 100 NO64 - Available at Kunle Ara Pharmacy",
+      "price": 6200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916876"
+    },
+    {
+      "sku": "KAP-SMA-0321",
+      "name": "SMART COLLECTION PERFUME NO393 100ML",
+      "description": "SMART COLLECTION PERFUME NO393 100ML - Available at Kunle Ara Pharmacy",
+      "price": 6420.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SMART",
+      "created_at": "2026-01-07T19:56:05.916879"
+    },
+    {
+      "sku": "KAP-SAD-0322",
+      "name": "SADOER HONEY FACIAL MASK 25G",
+      "description": "SADOER HONEY FACIAL MASK 25G - Available at Kunle Ara Pharmacy",
+      "price": 330.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SADOER",
+      "created_at": "2026-01-07T19:56:05.916885"
+    },
+    {
+      "sku": "KAP-SAD-0323",
+      "name": "SADOER RASPBERRY FACIAL MASK 25G",
+      "description": "SADOER RASPBERRY FACIAL MASK 25G - Available at Kunle Ara Pharmacy",
+      "price": 330.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SADOER",
+      "created_at": "2026-01-07T19:56:05.916892"
+    },
+    {
+      "sku": "KAP-SAD-0324",
+      "name": "SADOER ORANGE FACIAL MASK 25G",
+      "description": "SADOER ORANGE FACIAL MASK 25G - Available at Kunle Ara Pharmacy",
+      "price": 330.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SADOER",
+      "created_at": "2026-01-07T19:56:05.916899"
+    },
+    {
+      "sku": "KAP-DR.-0325",
+      "name": "DR. MEINAIER BODY MASSAGE OIL 250MLS",
+      "description": "DR. MEINAIER BODY MASSAGE OIL 250MLS - Available at Kunle Ara Pharmacy",
+      "price": 2300.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "DR.",
+      "created_at": "2026-01-07T19:56:05.916903"
+    },
+    {
+      "sku": "KAP-DRU-0326",
+      "name": "DRUMAZINE PLUS CREAM 25G",
+      "description": "DRUMAZINE PLUS CREAM 25G - Available at Kunle Ara Pharmacy",
+      "price": 1020.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "DRUMAZINE",
+      "created_at": "2026-01-07T19:56:05.916907"
+    },
+    {
+      "sku": "KAP-TOR-0327",
+      "name": "TOROLAC EYE DROP 5ML KETOROLAC TROMETHAMINE 0.5 X BOTTLE",
+      "description": "TOROLAC EYE DROP 5ML KETOROLAC TROMETHAMINE 0.5 X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 2520.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "TOROLAC",
+      "created_at": "2026-01-07T19:56:05.916912"
+    },
+    {
+      "sku": "KAP-OLU-0328",
+      "name": "OLUJI PURE COCOA POWDER 250g TIN",
+      "description": "OLUJI PURE COCOA POWDER 250g TIN - Available at Kunle Ara Pharmacy",
+      "price": 4310.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "OLUJI",
+      "created_at": "2026-01-07T19:56:05.916919"
+    },
+    {
+      "sku": "KAP-OLU-0329",
+      "name": "OLUJI PURE COCOA POWDER 250G REFILL PACKET",
+      "description": "OLUJI PURE COCOA POWDER 250G REFILL PACKET - Available at Kunle Ara Pharmacy",
+      "price": 3670.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "OLUJI",
+      "created_at": "2026-01-07T19:56:05.916926"
+    },
+    {
+      "sku": "KAP-ANU-0330",
+      "name": "ANUA NIACINAMIDE 10 TXA4 DARK SPOT 30ML",
+      "description": "ANUA NIACINAMIDE 10 TXA4 DARK SPOT 30ML - Available at Kunle Ara Pharmacy",
+      "price": 22000.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ANUA",
+      "created_at": "2026-01-07T19:56:05.916930"
+    },
+    {
+      "sku": "KAP-SPA-0331",
+      "name": "SPANISH GARDEN CHARCOAL EMERGENCY CONDITIONER 450ML",
+      "description": "SPANISH GARDEN CHARCOAL EMERGENCY CONDITIONER 450ML - Available at Kunle Ara Pharmacy",
+      "price": 3670.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SPANISH",
+      "created_at": "2026-01-07T19:56:05.916934"
+    },
+    {
+      "sku": "KAP-ROS-0332",
+      "name": "ROSHAL 10MG ROSUVASTATIN 10TABS X SAT",
+      "description": "ROSHAL 10MG ROSUVASTATIN 10TABS X SAT - Available at Kunle Ara Pharmacy",
+      "price": 1600.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "ROSHAL",
+      "created_at": "2026-01-07T19:56:05.916937"
+    },
+    {
+      "sku": "KAP-SEG-0333",
+      "name": "SEGO WRIST SUPPORT ELASTIC LARGE",
+      "description": "SEGO WRIST SUPPORT ELASTIC LARGE - Available at Kunle Ara Pharmacy",
+      "price": 4200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SEGO",
+      "created_at": "2026-01-07T19:56:05.916943"
+    },
+    {
+      "sku": "KAP-VIN-0334",
+      "name": "VINOZ ANTI- DANDRUFF CONDITIONER 225ML",
+      "description": "VINOZ ANTI- DANDRUFF CONDITIONER 225ML - Available at Kunle Ara Pharmacy",
+      "price": 700.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "VINOZ",
+      "created_at": "2026-01-07T19:56:05.916946"
+    },
+    {
+      "sku": "KAP-COT-0335",
+      "name": "COTRIM 10TAB XSACHET",
+      "description": "COTRIM 10TAB XSACHET - Available at Kunle Ara Pharmacy",
+      "price": 25.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "COTRIM",
+      "created_at": "2026-01-07T19:56:05.916952"
+    },
+    {
+      "sku": "KAP-TYG-0336",
+      "name": "TYGACIL INJ 50MG",
+      "description": "TYGACIL INJ 50MG - Available at Kunle Ara Pharmacy",
+      "price": 13610.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "TYGACIL",
+      "created_at": "2026-01-07T19:56:05.916955"
+    },
+    {
+      "sku": "KAP-EUC-0337",
+      "name": "EUCALYPTUS OIL 30ML",
+      "description": "EUCALYPTUS OIL 30ML - Available at Kunle Ara Pharmacy",
+      "price": 750.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "EUCALYPTUS",
+      "created_at": "2026-01-07T19:56:05.916958"
+    },
+    {
+      "sku": "KAP-DIP-0338",
+      "name": "DIPLOVAS 10MG XSACHET",
+      "description": "DIPLOVAS 10MG XSACHET - Available at Kunle Ara Pharmacy",
+      "price": 170.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "DIPLOVAS",
+      "created_at": "2026-01-07T19:56:05.916961"
+    },
+    {
+      "sku": "KAP-CIR-0339",
+      "name": "CIRCUMCISSION SET BY 14",
+      "description": "CIRCUMCISSION SET BY 14 - Available at Kunle Ara Pharmacy",
+      "price": 9600.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "CIRCUMCISSION",
+      "created_at": "2026-01-07T19:56:05.916967"
+    },
+    {
+      "sku": "KAP-FOL-0340",
+      "name": "FOLIC ACID 400MCG X100TAB NATURES FIELD",
+      "description": "FOLIC ACID 400MCG X100TAB NATURES FIELD - Available at Kunle Ara Pharmacy",
+      "price": 2860.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "FOLIC",
+      "created_at": "2026-01-07T19:56:05.916973"
+    },
+    {
+      "sku": "KAP-RID-0341",
+      "name": "RIDA HERBAL SUPPLEMENT X90CAPSULES",
+      "description": "RIDA HERBAL SUPPLEMENT X90CAPSULES - Available at Kunle Ara Pharmacy",
+      "price": 4080.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "RIDA",
+      "created_at": "2026-01-07T19:56:05.916977"
+    },
+    {
+      "sku": "KAP-EXA-0342",
+      "name": "EXACLAV CO-AMOXICLAV 625MG XPKT",
+      "description": "EXACLAV CO-AMOXICLAV 625MG XPKT - Available at Kunle Ara Pharmacy",
+      "price": 1440.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "EXACLAV",
+      "created_at": "2026-01-07T19:56:05.916980"
+    },
+    {
+      "sku": "KAP-BET-0343",
+      "name": "BETAWOMAN X30SOFTGEL XPKT",
+      "description": "BETAWOMAN X30SOFTGEL XPKT - Available at Kunle Ara Pharmacy",
+      "price": 8040.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "BETAWOMAN",
+      "created_at": "2026-01-07T19:56:05.916986"
+    },
+    {
+      "sku": "KAP-ACE-0344",
+      "name": "ACEL PLUS ACECLOFENAC PARACETAMOL 10TABS X PKT",
+      "description": "ACEL PLUS ACECLOFENAC PARACETAMOL 10TABS X PKT - Available at Kunle Ara Pharmacy",
+      "price": 600.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ACEL",
+      "created_at": "2026-01-07T19:56:05.916993"
+    },
+    {
+      "sku": "KAP-MEP-0345",
+      "name": "MEPRID 2MG GLIMEPIRIDE 10TABS X SAT",
+      "description": "MEPRID 2MG GLIMEPIRIDE 10TABS X SAT - Available at Kunle Ara Pharmacy",
+      "price": 500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "MEPRID",
+      "created_at": "2026-01-07T19:56:05.916997"
+    },
+    {
+      "sku": "KAP-MID-0346",
+      "name": "MIDOZOL EYE DROP 5ML DORZOLAMIDE TIMOLOL X BOTTLE",
+      "description": "MIDOZOL EYE DROP 5ML DORZOLAMIDE TIMOLOL X BOTTLE - Available at Kunle Ara Pharmacy",
+      "price": 5040.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "MIDOZOL",
+      "created_at": "2026-01-07T19:56:05.917001"
+    },
+    {
+      "sku": "KAP-U-T-0347",
+      "name": "U-TRYP 100 000 IU XVIAL",
+      "description": "U-TRYP 100 000 IU XVIAL - Available at Kunle Ara Pharmacy",
+      "price": 49500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "U-TRYP",
+      "created_at": "2026-01-07T19:56:05.917006"
+    },
+    {
+      "sku": "KAP-BIS-0348",
+      "name": "BISMID FACE WHITENING CREAM 50G",
+      "description": "BISMID FACE WHITENING CREAM 50G - Available at Kunle Ara Pharmacy",
+      "price": 12100.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "BISMID",
+      "created_at": "2026-01-07T19:56:05.917011"
+    },
+    {
+      "sku": "KAP-VIT-0349",
+      "name": "VITAMIX SELENIUM ACE D XPKT",
+      "description": "VITAMIX SELENIUM ACE D XPKT - Available at Kunle Ara Pharmacy",
+      "price": 3300.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "VITAMIX",
+      "created_at": "2026-01-07T19:56:05.917017"
+    },
+    {
+      "sku": "KAP-COM-0350",
+      "name": "COMPREZON SOCKS XL",
+      "description": "COMPREZON SOCKS XL - Available at Kunle Ara Pharmacy",
+      "price": 11000.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "COMPREZON",
+      "created_at": "2026-01-07T19:56:05.917024"
+    },
+    {
+      "sku": "KAP-AML-0351",
+      "name": "AMLODIPINE 10MG XSACHET SANDOZ",
+      "description": "AMLODIPINE 10MG XSACHET SANDOZ - Available at Kunle Ara Pharmacy",
+      "price": 310.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "AMLODIPINE",
+      "created_at": "2026-01-07T19:56:05.917027"
+    },
+    {
+      "sku": "KAP-GAR-0352",
+      "name": "GARNIER SKIN NATURALS BRIGHT COMPLETE 400ML",
+      "description": "GARNIER SKIN NATURALS BRIGHT COMPLETE 400ML - Available at Kunle Ara Pharmacy",
+      "price": 8250.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "GARNIER",
+      "created_at": "2026-01-07T19:56:05.917031"
+    },
+    {
+      "sku": "KAP-SEN-0353",
+      "name": "SENSODYNE DAILY CARE 75ML",
+      "description": "SENSODYNE DAILY CARE 75ML - Available at Kunle Ara Pharmacy",
+      "price": 2200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "SENSODYNE",
+      "created_at": "2026-01-07T19:56:05.917034"
+    },
+    {
+      "sku": "KAP-SEN-0354",
+      "name": "SENSODYNE EXTRA FRESH",
+      "description": "SENSODYNE EXTRA FRESH - Available at Kunle Ara Pharmacy",
+      "price": 970.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SENSODYNE",
+      "created_at": "2026-01-07T19:56:05.917040"
+    },
+    {
+      "sku": "KAP-SEN-0355",
+      "name": "SENSODYNE RAPID RELIEF TOOTHBRUSH",
+      "description": "SENSODYNE RAPID RELIEF TOOTHBRUSH - Available at Kunle Ara Pharmacy",
+      "price": 670.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SENSODYNE",
+      "created_at": "2026-01-07T19:56:05.917046"
+    },
+    {
+      "sku": "KAP-SEN-0356",
+      "name": "SENSODYNE RAPID ACTION",
+      "description": "SENSODYNE RAPID ACTION - Available at Kunle Ara Pharmacy",
+      "price": 2240.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SENSODYNE",
+      "created_at": "2026-01-07T19:56:05.917052"
+    },
+    {
+      "sku": "KAP-SEN-0357",
+      "name": "SENSODYNE EXTRA WHITENING",
+      "description": "SENSODYNE EXTRA WHITENING - Available at Kunle Ara Pharmacy",
+      "price": 3380.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "SENSODYNE",
+      "created_at": "2026-01-07T19:56:05.917058"
+    },
+    {
+      "sku": "KAP-IRO-0358",
+      "name": "IROKO AFRICAN ROOT 500ML",
+      "description": "IROKO AFRICAN ROOT 500ML - Available at Kunle Ara Pharmacy",
+      "price": 12000.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "IROKO",
+      "created_at": "2026-01-07T19:56:05.917061"
+    },
+    {
+      "sku": "KAP-AMO-0359",
+      "name": "Amoxicillin 500mg Capsules",
+      "description": "Amoxicillin 500mg Capsules - Available at Kunle Ara Pharmacy",
+      "price": 2500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Amoxicillin",
+      "created_at": "2026-01-07T19:56:05.917063"
+    },
+    {
+      "sku": "KAP-AUG-0360",
+      "name": "Augmentin 625mg Tablets",
+      "description": "Augmentin 625mg Tablets - Available at Kunle Ara Pharmacy",
+      "price": 4500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Augmentin",
+      "created_at": "2026-01-07T19:56:05.917066"
+    },
+    {
+      "sku": "KAP-CIP-0361",
+      "name": "Ciprofloxacin 500mg Tablets",
+      "description": "Ciprofloxacin 500mg Tablets - Available at Kunle Ara Pharmacy",
+      "price": 3200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Ciprofloxacin",
+      "created_at": "2026-01-07T19:56:05.917068"
+    },
+    {
+      "sku": "KAP-MET-0362",
+      "name": "Metronidazole 400mg Tablets",
+      "description": "Metronidazole 400mg Tablets - Available at Kunle Ara Pharmacy",
+      "price": 1800.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Metronidazole",
+      "created_at": "2026-01-07T19:56:05.917070"
+    },
+    {
+      "sku": "KAP-ART-0363",
+      "name": "Artemether Lumefantrine Tablets",
+      "description": "Artemether Lumefantrine Tablets - Available at Kunle Ara Pharmacy",
+      "price": 3500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Artemether",
+      "created_at": "2026-01-07T19:56:05.917072"
+    },
+    {
+      "sku": "KAP-OME-0364",
+      "name": "Omeprazole 20mg Capsules",
+      "description": "Omeprazole 20mg Capsules - Available at Kunle Ara Pharmacy",
+      "price": 2800.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Omeprazole",
+      "created_at": "2026-01-07T19:56:05.917075"
+    },
+    {
+      "sku": "KAP-ATE-0365",
+      "name": "Atenolol 50mg Tablets",
+      "description": "Atenolol 50mg Tablets - Available at Kunle Ara Pharmacy",
+      "price": 2200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Atenolol",
+      "created_at": "2026-01-07T19:56:05.917077"
+    },
+    {
+      "sku": "KAP-MET-0366",
+      "name": "Metformin 500mg Tablets",
+      "description": "Metformin 500mg Tablets - Available at Kunle Ara Pharmacy",
+      "price": 1900.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Metformin",
+      "created_at": "2026-01-07T19:56:05.917079"
+    },
+    {
+      "sku": "KAP-PAR-0367",
+      "name": "Paracetamol 500mg Tablets",
+      "description": "Paracetamol 500mg Tablets - Available at Kunle Ara Pharmacy",
+      "price": 600.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Paracetamol",
+      "created_at": "2026-01-07T19:56:05.917081"
+    },
+    {
+      "sku": "KAP-PAN-0368",
+      "name": "Panadol Extra Tablets",
+      "description": "Panadol Extra Tablets - Available at Kunle Ara Pharmacy",
+      "price": 900.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Panadol",
+      "created_at": "2026-01-07T19:56:05.917083"
+    },
+    {
+      "sku": "KAP-IBU-0369",
+      "name": "Ibuprofen 400mg Tablets",
+      "description": "Ibuprofen 400mg Tablets - Available at Kunle Ara Pharmacy",
+      "price": 800.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Ibuprofen",
+      "created_at": "2026-01-07T19:56:05.917087"
+    },
+    {
+      "sku": "KAP-BOS-0370",
+      "name": "Boska Pain Relief Tablets",
+      "description": "Boska Pain Relief Tablets - Available at Kunle Ara Pharmacy",
+      "price": 500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Boska",
+      "created_at": "2026-01-07T19:56:05.917089"
+    },
+    {
+      "sku": "KAP-ALA-0371",
+      "name": "Alabukun Powder",
+      "description": "Alabukun Powder - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Alabukun",
+      "created_at": "2026-01-07T19:56:05.917096"
+    },
+    {
+      "sku": "KAP-BEN-0372",
+      "name": "Benylin Cough Syrup 100ml",
+      "description": "Benylin Cough Syrup 100ml - Available at Kunle Ara Pharmacy",
+      "price": 1200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Benylin",
+      "created_at": "2026-01-07T19:56:05.917099"
+    },
+    {
+      "sku": "KAP-ORS-0373",
+      "name": "ORS Oral Rehydration Salt",
+      "description": "ORS Oral Rehydration Salt - Available at Kunle Ara Pharmacy",
+      "price": 200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "ORS",
+      "created_at": "2026-01-07T19:56:05.917105"
+    },
+    {
+      "sku": "KAP-ANT-0374",
+      "name": "Antacid Tablets",
+      "description": "Antacid Tablets - Available at Kunle Ara Pharmacy",
+      "price": 450.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Antacid",
+      "created_at": "2026-01-07T19:56:05.917107"
+    },
+    {
+      "sku": "KAP-VIT-0375",
+      "name": "Vitamin C 1000mg Tablets",
+      "description": "Vitamin C 1000mg Tablets - Available at Kunle Ara Pharmacy",
+      "price": 2500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Vitamin",
+      "created_at": "2026-01-07T19:56:05.917109"
+    },
+    {
+      "sku": "KAP-CEN-0376",
+      "name": "Centrum Multivitamin",
+      "description": "Centrum Multivitamin - Available at Kunle Ara Pharmacy",
+      "price": 4000.0,
+      "category": "Vitamins & Supplements",
+      "is_prescription": false,
+      "brand": "Centrum",
+      "created_at": "2026-01-07T19:56:05.917114"
+    },
+    {
+      "sku": "KAP-CAL-0377",
+      "name": "Calcium Vitamin D3 Tablets",
+      "description": "Calcium Vitamin D3 Tablets - Available at Kunle Ara Pharmacy",
+      "price": 3200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Calcium",
+      "created_at": "2026-01-07T19:56:05.917116"
+    },
+    {
+      "sku": "KAP-IRO-0378",
+      "name": "Iron Folic Acid Tablets",
+      "description": "Iron Folic Acid Tablets - Available at Kunle Ara Pharmacy",
+      "price": 1800.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Iron",
+      "created_at": "2026-01-07T19:56:05.917119"
+    },
+    {
+      "sku": "KAP-COD-0379",
+      "name": "Cod Liver Oil Capsules",
+      "description": "Cod Liver Oil Capsules - Available at Kunle Ara Pharmacy",
+      "price": 3500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Cod",
+      "created_at": "2026-01-07T19:56:05.917121"
+    },
+    {
+      "sku": "KAP-ZIN-0380",
+      "name": "Zinc Tablets 50mg",
+      "description": "Zinc Tablets 50mg - Available at Kunle Ara Pharmacy",
+      "price": 2000.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Zinc",
+      "created_at": "2026-01-07T19:56:05.917123"
+    },
+    {
+      "sku": "KAP-VIT-0381",
+      "name": "Vitamin B Complex",
+      "description": "Vitamin B Complex - Available at Kunle Ara Pharmacy",
+      "price": 2200.0,
+      "category": "Vitamins & Supplements",
+      "is_prescription": false,
+      "brand": "Vitamin",
+      "created_at": "2026-01-07T19:56:05.917128"
+    },
+    {
+      "sku": "KAP-MAG-0382",
+      "name": "Magnesium Supplements",
+      "description": "Magnesium Supplements - Available at Kunle Ara Pharmacy",
+      "price": 2800.0,
+      "category": "Vitamins & Supplements",
+      "is_prescription": false,
+      "brand": "Magnesium",
+      "created_at": "2026-01-07T19:56:05.917132"
+    },
+    {
+      "sku": "KAP-COC-0383",
+      "name": "Coca Cola 35cl",
+      "description": "Coca Cola 35cl - Available at Kunle Ara Pharmacy",
+      "price": 200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Coca",
+      "created_at": "2026-01-07T19:56:05.917138"
+    },
+    {
+      "sku": "KAP-SPR-0384",
+      "name": "Sprite 50cl",
+      "description": "Sprite 50cl - Available at Kunle Ara Pharmacy",
+      "price": 250.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Sprite",
+      "created_at": "2026-01-07T19:56:05.917144"
+    },
+    {
+      "sku": "KAP-FAN-0385",
+      "name": "Fanta Orange 35cl",
+      "description": "Fanta Orange 35cl - Available at Kunle Ara Pharmacy",
+      "price": 200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Fanta",
+      "created_at": "2026-01-07T19:56:05.917149"
+    },
+    {
+      "sku": "KAP-EVA-0386",
+      "name": "Eva Water 75cl",
+      "description": "Eva Water 75cl - Available at Kunle Ara Pharmacy",
+      "price": 150.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Eva",
+      "created_at": "2026-01-07T19:56:05.917155"
+    },
+    {
+      "sku": "KAP-CHI-0387",
+      "name": "Chi Exotic Juice 1L",
+      "description": "Chi Exotic Juice 1L - Available at Kunle Ara Pharmacy",
+      "price": 400.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Chi",
+      "created_at": "2026-01-07T19:56:05.917161"
+    },
+    {
+      "sku": "KAP-HOL-0388",
+      "name": "Hollandia Yoghurt",
+      "description": "Hollandia Yoghurt - Available at Kunle Ara Pharmacy",
+      "price": 500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Hollandia",
+      "created_at": "2026-01-07T19:56:05.917166"
+    },
+    {
+      "sku": "KAP-PEP-0389",
+      "name": "Pepsi 50cl",
+      "description": "Pepsi 50cl - Available at Kunle Ara Pharmacy",
+      "price": 250.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Pepsi",
+      "created_at": "2026-01-07T19:56:05.917173"
+    },
+    {
+      "sku": "KAP-7UP-0390",
+      "name": "7UP 35cl",
+      "description": "7UP 35cl - Available at Kunle Ara Pharmacy",
+      "price": 200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "7UP",
+      "created_at": "2026-01-07T19:56:05.917179"
+    },
+    {
+      "sku": "KAP-DIG-0391",
+      "name": "Digestive Biscuits",
+      "description": "Digestive Biscuits - Available at Kunle Ara Pharmacy",
+      "price": 800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Digestive",
+      "created_at": "2026-01-07T19:56:05.917185"
+    },
+    {
+      "sku": "KAP-PRI-0392",
+      "name": "Pringles Original 165g",
+      "description": "Pringles Original 165g - Available at Kunle Ara Pharmacy",
+      "price": 1200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Pringles",
+      "created_at": "2026-01-07T19:56:05.917191"
+    },
+    {
+      "sku": "KAP-GAL-0393",
+      "name": "Gala Sausage Roll",
+      "description": "Gala Sausage Roll - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Gala",
+      "created_at": "2026-01-07T19:56:05.917197"
+    },
+    {
+      "sku": "KAP-PLA-0394",
+      "name": "Plantain Chips 100g",
+      "description": "Plantain Chips 100g - Available at Kunle Ara Pharmacy",
+      "price": 500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Plantain",
+      "created_at": "2026-01-07T19:56:05.917202"
+    },
+    {
+      "sku": "KAP-GRO-0395",
+      "name": "Groundnut 100g",
+      "description": "Groundnut 100g - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Groundnut",
+      "created_at": "2026-01-07T19:56:05.917207"
+    },
+    {
+      "sku": "KAP-CAB-0396",
+      "name": "Cabin Biscuits",
+      "description": "Cabin Biscuits - Available at Kunle Ara Pharmacy",
+      "price": 400.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Cabin",
+      "created_at": "2026-01-07T19:56:05.917213"
+    },
+    {
+      "sku": "KAP-SHO-0397",
+      "name": "Shortbread Biscuits",
+      "description": "Shortbread Biscuits - Available at Kunle Ara Pharmacy",
+      "price": 700.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Shortbread",
+      "created_at": "2026-01-07T19:56:05.917218"
+    },
+    {
+      "sku": "KAP-MEA-0398",
+      "name": "Meat Pie",
+      "description": "Meat Pie - Available at Kunle Ara Pharmacy",
+      "price": 400.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Meat",
+      "created_at": "2026-01-07T19:56:05.917225"
+    },
+    {
+      "sku": "KAP-DET-0399",
+      "name": "Dettol Antiseptic 250ml",
+      "description": "Dettol Antiseptic 250ml - Available at Kunle Ara Pharmacy",
+      "price": 1500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Dettol",
+      "created_at": "2026-01-07T19:56:05.917229"
+    },
+    {
+      "sku": "KAP-SAV-0400",
+      "name": "Savlon Antiseptic Cream",
+      "description": "Savlon Antiseptic Cream - Available at Kunle Ara Pharmacy",
+      "price": 1000.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "Savlon",
+      "created_at": "2026-01-07T19:56:05.917233"
+    },
+    {
+      "sku": "KAP-JOH-0401",
+      "name": "Johnson Baby Oil 300ml",
+      "description": "Johnson Baby Oil 300ml - Available at Kunle Ara Pharmacy",
+      "price": 1200.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Johnson",
+      "created_at": "2026-01-07T19:56:05.917236"
+    },
+    {
+      "sku": "KAP-VAS-0402",
+      "name": "Vaseline Petroleum Jelly",
+      "description": "Vaseline Petroleum Jelly - Available at Kunle Ara Pharmacy",
+      "price": 800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Vaseline",
+      "created_at": "2026-01-07T19:56:05.917242"
+    },
+    {
+      "sku": "KAP-COT-0403",
+      "name": "Cotton Wool 50g",
+      "description": "Cotton Wool 50g - Available at Kunle Ara Pharmacy",
+      "price": 400.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Cotton",
+      "created_at": "2026-01-07T19:56:05.917248"
+    },
+    {
+      "sku": "KAP-BAN-0404",
+      "name": "Bandage Roll 5cm",
+      "description": "Bandage Roll 5cm - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "Medical Supplies",
+      "is_prescription": false,
+      "brand": "Bandage",
+      "created_at": "2026-01-07T19:56:05.917251"
+    },
+    {
+      "sku": "KAP-HAN-0405",
+      "name": "Hand Sanitizer 100ml",
+      "description": "Hand Sanitizer 100ml - Available at Kunle Ara Pharmacy",
+      "price": 600.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Hand",
+      "created_at": "2026-01-07T19:56:05.917255"
+    },
+    {
+      "sku": "KAP-HYD-0406",
+      "name": "Hydrogen Peroxide 100ml",
+      "description": "Hydrogen Peroxide 100ml - Available at Kunle Ara Pharmacy",
+      "price": 500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Hydrogen",
+      "created_at": "2026-01-07T19:56:05.917258"
+    },
+    {
+      "sku": "KAP-DET-0407",
+      "name": "Dettol Disinfectant 500ml",
+      "description": "Dettol Disinfectant 500ml - Available at Kunle Ara Pharmacy",
+      "price": 2000.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Dettol",
+      "created_at": "2026-01-07T19:56:05.917261"
+    },
+    {
+      "sku": "KAP-TOI-0408",
+      "name": "Toilet Paper 4-pack",
+      "description": "Toilet Paper 4-pack - Available at Kunle Ara Pharmacy",
+      "price": 1200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Toilet",
+      "created_at": "2026-01-07T19:56:05.917267"
+    },
+    {
+      "sku": "KAP-OMO-0409",
+      "name": "Omo Detergent 500g",
+      "description": "Omo Detergent 500g - Available at Kunle Ara Pharmacy",
+      "price": 1500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Omo",
+      "created_at": "2026-01-07T19:56:05.917273"
+    },
+    {
+      "sku": "KAP-BAY-0410",
+      "name": "Baygon Insecticide Spray",
+      "description": "Baygon Insecticide Spray - Available at Kunle Ara Pharmacy",
+      "price": 1800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Baygon",
+      "created_at": "2026-01-07T19:56:05.917280"
+    },
+    {
+      "sku": "KAP-AIR-0411",
+      "name": "Air Freshener Spray",
+      "description": "Air Freshener Spray - Available at Kunle Ara Pharmacy",
+      "price": 800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Air",
+      "created_at": "2026-01-07T19:56:05.917286"
+    },
+    {
+      "sku": "KAP-DUR-0412",
+      "name": "Duracell Batteries AA",
+      "description": "Duracell Batteries AA - Available at Kunle Ara Pharmacy",
+      "price": 600.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Duracell",
+      "created_at": "2026-01-07T19:56:05.917292"
+    },
+    {
+      "sku": "KAP-ROS-0413",
+      "name": "Rose Tissue Paper",
+      "description": "Rose Tissue Paper - Available at Kunle Ara Pharmacy",
+      "price": 400.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Rose",
+      "created_at": "2026-01-07T19:56:05.917298"
+    },
+    {
+      "sku": "KAP-CAN-0414",
+      "name": "Candles Pack of 6",
+      "description": "Candles Pack of 6 - Available at Kunle Ara Pharmacy",
+      "price": 300.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Candles",
+      "created_at": "2026-01-07T19:56:05.917304"
+    },
+    {
+      "sku": "KAP-PAM-0415",
+      "name": "Pampers Baby Dry Size 3",
+      "description": "Pampers Baby Dry Size 3 - Available at Kunle Ara Pharmacy",
+      "price": 4500.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "Pampers",
+      "created_at": "2026-01-07T19:56:05.917309"
+    },
+    {
+      "sku": "KAP-SMA-0416",
+      "name": "SMA Baby Formula 400g",
+      "description": "SMA Baby Formula 400g - Available at Kunle Ara Pharmacy",
+      "price": 5500.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "SMA",
+      "created_at": "2026-01-07T19:56:05.917314"
+    },
+    {
+      "sku": "KAP-JOH-0417",
+      "name": "Johnson Baby Shampoo",
+      "description": "Johnson Baby Shampoo - Available at Kunle Ara Pharmacy",
+      "price": 1500.0,
+      "category": "Personal Care",
+      "is_prescription": false,
+      "brand": "Johnson",
+      "created_at": "2026-01-07T19:56:05.917318"
+    },
+    {
+      "sku": "KAP-BAB-0418",
+      "name": "Baby Wipes 80-pack",
+      "description": "Baby Wipes 80-pack - Available at Kunle Ara Pharmacy",
+      "price": 1200.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "Baby",
+      "created_at": "2026-01-07T19:56:05.917322"
+    },
+    {
+      "sku": "KAP-CER-0419",
+      "name": "Cerelac Baby Food 400g",
+      "description": "Cerelac Baby Food 400g - Available at Kunle Ara Pharmacy",
+      "price": 2200.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "Cerelac",
+      "created_at": "2026-01-07T19:56:05.917327"
+    },
+    {
+      "sku": "KAP-FEE-0420",
+      "name": "Feeding Bottle 250ml",
+      "description": "Feeding Bottle 250ml - Available at Kunle Ara Pharmacy",
+      "price": 2000.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Feeding",
+      "created_at": "2026-01-07T19:56:05.917330"
+    },
+    {
+      "sku": "KAP-BAB-0421",
+      "name": "Baby Powder 200g",
+      "description": "Baby Powder 200g - Available at Kunle Ara Pharmacy",
+      "price": 1300.0,
+      "category": "Baby Care",
+      "is_prescription": false,
+      "brand": "Baby",
+      "created_at": "2026-01-07T19:56:05.917335"
+    },
+    {
+      "sku": "KAP-PAC-0422",
+      "name": "Pacifier Size 1",
+      "description": "Pacifier Size 1 - Available at Kunle Ara Pharmacy",
+      "price": 800.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Pacifier",
+      "created_at": "2026-01-07T19:56:05.917342"
+    },
+    {
+      "sku": "KAP-MOR-0423",
+      "name": "Moringa Powder 100g",
+      "description": "Moringa Powder 100g - Available at Kunle Ara Pharmacy",
+      "price": 2500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Moringa",
+      "created_at": "2026-01-07T19:56:05.917348"
+    },
+    {
+      "sku": "KAP-GIN-0424",
+      "name": "Ginger Honey Tea",
+      "description": "Ginger Honey Tea - Available at Kunle Ara Pharmacy",
+      "price": 1500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Ginger",
+      "created_at": "2026-01-07T19:56:05.917354"
+    },
+    {
+      "sku": "KAP-TUR-0425",
+      "name": "Turmeric Capsules",
+      "description": "Turmeric Capsules - Available at Kunle Ara Pharmacy",
+      "price": 3000.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Turmeric",
+      "created_at": "2026-01-07T19:56:05.917356"
+    },
+    {
+      "sku": "KAP-BLA-0426",
+      "name": "Black Seed Oil 100ml",
+      "description": "Black Seed Oil 100ml - Available at Kunle Ara Pharmacy",
+      "price": 2800.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Black",
+      "created_at": "2026-01-07T19:56:05.917359"
+    },
+    {
+      "sku": "KAP-PUR-0427",
+      "name": "Pure Honey 500g",
+      "description": "Pure Honey 500g - Available at Kunle Ara Pharmacy",
+      "price": 3500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Pure",
+      "created_at": "2026-01-07T19:56:05.917364"
+    },
+    {
+      "sku": "KAP-GAR-0428",
+      "name": "Garlic Supplement",
+      "description": "Garlic Supplement - Available at Kunle Ara Pharmacy",
+      "price": 2200.0,
+      "category": "Vitamins & Supplements",
+      "is_prescription": false,
+      "brand": "Garlic",
+      "created_at": "2026-01-07T19:56:05.917370"
+    },
+    {
+      "sku": "KAP-WHE-0429",
+      "name": "Whey Protein Powder 1kg",
+      "description": "Whey Protein Powder 1kg - Available at Kunle Ara Pharmacy",
+      "price": 8500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Whey",
+      "created_at": "2026-01-07T19:56:05.917376"
+    },
+    {
+      "sku": "KAP-CRE-0430",
+      "name": "Creatine Monohydrate",
+      "description": "Creatine Monohydrate - Available at Kunle Ara Pharmacy",
+      "price": 6500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Creatine",
+      "created_at": "2026-01-07T19:56:05.917382"
+    },
+    {
+      "sku": "KAP-BCA-0431",
+      "name": "BCAA Amino Acids",
+      "description": "BCAA Amino Acids - Available at Kunle Ara Pharmacy",
+      "price": 7200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "BCAA",
+      "created_at": "2026-01-07T19:56:05.917387"
+    },
+    {
+      "sku": "KAP-FAT-0432",
+      "name": "Fat Burner Capsules",
+      "description": "Fat Burner Capsules - Available at Kunle Ara Pharmacy",
+      "price": 5500.0,
+      "category": "Pharmaceuticals",
+      "is_prescription": false,
+      "brand": "Fat",
+      "created_at": "2026-01-07T19:56:05.917390"
+    },
+    {
+      "sku": "KAP-PRE-0433",
+      "name": "Pre-workout Energy Drink",
+      "description": "Pre-workout Energy Drink - Available at Kunle Ara Pharmacy",
+      "price": 4500.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Pre-workout",
+      "created_at": "2026-01-07T19:56:05.917396"
+    },
+    {
+      "sku": "KAP-MAS-0434",
+      "name": "Mass Gainer Powder",
+      "description": "Mass Gainer Powder - Available at Kunle Ara Pharmacy",
+      "price": 9200.0,
+      "category": "General Medicine",
+      "is_prescription": false,
+      "brand": "Mass",
+      "created_at": "2026-01-07T19:56:05.917402"
+    }
+  ]
+}

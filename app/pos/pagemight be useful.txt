@@ -1,0 +1,607 @@
+'use client'
+
+import { useState, useMemo } from 'react'
+import { kunleAraProducts } from '../data/kunle_ara_products'
+import { categories, Product } from '../lib/database'
+
+interface CartItem {
+  product: Product
+  quantity: number
+  prescriberId?: string  // NEW: Track prescriber for each item
+}
+
+interface PrescriptionValidation {
+  itemId: string
+  itemName: string
+  prescriberId: string
+  prescriberName: string
+  validatedAt: Date
+  validatedBy: string // Cashier who validated
+}
+
+interface Sale {
+  id: string
+  items: CartItem[]
+  total: number
+  date: Date
+  staffId: string
+  customerName?: string
+  branchId: string
+  prescriptionValidations: PrescriptionValidation[] // NEW: Track all prescriptions
+}
+
+interface Branch {
+  id: string
+  name: string
+  location: string
+  icon: string
+}
+
+const branches: Branch[] = [
+  { id: 'uch', name: 'UCH Branch', location: 'University College Hospital Area', icon: '🏥' },
+  { id: 'yemetu', name: 'Yemetu Branch', location: 'Yemetu Area, Ibadan', icon: '🏪' },
+  { id: 'ring-road', name: 'Ring Road Branch', location: 'Ring Road Area, Ibadan', icon: '🏢' }
+]
+
+export default function POSPage() {
+  // Authentication state
+  const [isAuthenticated, setIsAuthenticated] = useState(false)
+  const [staffId, setStaffId] = useState('')
+  const [password, setPassword] = useState('')
+  const [selectedBranch, setSelectedBranch] = useState('')
+  const [currentBranch, setCurrentBranch] = useState<Branch | null>(null)
+
+  // Cart and sales state
+  const [cart, setCart] = useState<CartItem[]>([])
+  const [searchTerm, setSearchTerm] = useState('')
+  const [selectedCategory, setSelectedCategory] = useState('all')
+  const [customerName, setCustomerName] = useState('')
+  const [sales, setSales] = useState<Sale[]>([])
+
+  // NEW: Prescription validation state
+  const [showPrescriptionModal, setShowPrescriptionModal] = useState(false)
+  const [currentPrescriptionItem, setCurrentPrescriptionItem] = useState<CartItem | null>(null)
+  const [prescriberId, setPrescriberId] = useState('')
+  const [prescriberName, setPrescriberName] = useState('')
+  const [prescriptionValidations, setPrescriptionValidations] = useState<PrescriptionValidation[]>([])
+// Filter products for POS
+  const filteredProducts = useMemo(() => {
+    return kunleAraProducts.filter(product => {
+      const matchesSearch = product.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+                          product.barcode?.includes(searchTerm)
+      const matchesCategory = selectedCategory === 'all' || product.category === selectedCategory
+      return matchesSearch && matchesCategory && product.inStock
+    })
+  }, [searchTerm, selectedCategory])
+
+  // Authentication logic
+  const handleLogin = (e: React.FormEvent) => {
+    e.preventDefault()
+    if (staffId && password && selectedBranch) {
+      const branch = branches.find(b => b.id === selectedBranch)
+      setCurrentBranch(branch!)
+      setIsAuthenticated(true)
+    }
+  }
+
+  // Enhanced add to cart with prescription check
+  const addToCart = (product: Product) => {
+    const existingItem = cart.find(item => item.product.id === product.id)
+    
+    if (existingItem) {
+      // If prescription item, need to validate each unit
+      if (product.prescriptionRequired) {
+        setCurrentPrescriptionItem({
+          product,
+          quantity: existingItem.quantity + 1
+        })
+        setShowPrescriptionModal(true)
+      } else {
+        setCart(cart.map(item => 
+          item.product.id === product.id 
+            ? { ...item, quantity: item.quantity + 1 }
+            : item
+        ))
+      }
+    } else {
+      if (product.prescriptionRequired) {
+        setCurrentPrescriptionItem({
+          product,
+          quantity: 1
+        })
+        setShowPrescriptionModal(true)
+      } else {
+        setCart([...cart, { product, quantity: 1 }])
+      }
+    }
+  }
+
+  // NEW: Handle prescription validation
+  const handlePrescriptionValidation = () => {
+    // Validate prescriber ID format
+    const prescriberRegex = /^PR\d{5}$/
+    if (!prescriberRegex.test(prescriberId)) {
+      alert('Invalid Prescriber ID format. Must be PR00001 to PR99999')
+      return
+    }
+
+    if (!prescriberName.trim()) {
+      alert('Prescriber name is required')
+      return
+    }
+
+    if (!currentPrescriptionItem) return
+
+    // Create validation record
+    const validation: PrescriptionValidation = {
+      itemId: currentPrescriptionItem.product.id,
+      itemName: currentPrescriptionItem.product.name,
+      prescriberId: prescriberId,
+      prescriberName: prescriberName,
+      validatedAt: new Date(),
+      validatedBy: staffId
+    }
+
+    // Add to validations
+    setPrescriptionValidations([...prescriptionValidations, validation])
+
+    // Add to cart with prescription details
+    const cartItem: CartItem = {
+      ...currentPrescriptionItem,
+      prescriberId: prescriberId
+    }
+
+    const existingItem = cart.find(item => item.product.id === currentPrescriptionItem.product.id)
+    
+    if (existingItem) {
+      setCart(cart.map(item => 
+        item.product.id === currentPrescriptionItem.product.id 
+          ? cartItem
+          : item
+      ))
+    } else {
+      setCart([...cart, cartItem])
+    }
+
+    // Close modal and reset
+    setShowPrescriptionModal(false)
+    setCurrentPrescriptionItem(null)
+    setPrescriberId('')
+    setPrescriberName('')
+  }
+
+  // Enhanced sale processing with prescription tracking
+  const processSale = () => {
+    if (cart.length === 0) {
+      alert('Cart is empty!')
+      return
+    }
+
+    // Check for prescription items without validation
+    const unvalidatedPrescriptions = cart.filter(item => 
+      item.product.prescriptionRequired && !item.prescriberId
+    )
+
+    if (unvalidatedPrescriptions.length > 0) {
+      alert(`Cannot complete sale. The following prescription items need prescriber validation:\n${
+        unvalidatedPrescriptions.map(item => item.product.name).join('\n')
+      }`)
+      return
+    }
+
+    const subtotal = cart.reduce((sum, item) => sum + (item.product.price * item.quantity), 0)
+    const tax = subtotal * 0.075
+    const total = subtotal + tax
+
+    const newSale: Sale = {
+      id: `SALE-${currentBranch?.id}-${Date.now()}`,
+      items: [...cart],
+      total,
+      date: new Date(),
+      staffId,
+      customerName: customerName || 'Walk-in Customer',
+      branchId: currentBranch?.id || '',
+      prescriptionValidations: [...prescriptionValidations]
+    }
+
+    setSales([...sales, newSale])
+    setCart([])
+    setCustomerName('')
+    setPrescriptionValidations([])
+    
+    alert(`Sale completed! Total: ₦${total.toLocaleString()}\n${
+      newSale.prescriptionValidations.length > 0 
+        ? `Prescriptions validated: ${newSale.prescriptionValidations.length}` 
+        : ''
+    }`)
+  }
+
+  // Login screen
+  if (!isAuthenticated) {
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-green-50 to-blue-50 flex items-center justify-center">
+        <div className="bg-white p-8 rounded-2xl shadow-2xl max-w-md w-full">
+          <div className="text-center mb-8">
+            <div className="text-4xl mb-4">🏥</div>
+            <h1 className="text-3xl font-bold text-gray-800">Kunle Ara Pharmacy</h1>
+            <h2 className="text-xl text-green-600 font-semibold">POS System</h2>
+            <p className="text-gray-600 mt-2">Prescription Validation Enabled</p>
+          </div>
+
+          <form onSubmit={handleLogin} className="space-y-6">
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">
+                Select Your Branch
+              </label>
+              <select
+                value={selectedBranch}
+                onChange={(e) => setSelectedBranch(e.target.value)}
+                className="w-full p-4 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500"
+                required
+              >
+                <option value="">Choose your branch...</option>
+                {branches.map(branch => (
+                  <option key={branch.id} value={branch.id}>
+                    {branch.icon} {branch.name} - {branch.location}
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">
+                Staff ID
+              </label>
+              <input
+                type="text"
+                value={staffId}
+                onChange={(e) => setStaffId(e.target.value)}
+                placeholder="Enter your staff ID"
+                className="w-full p-4 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500"
+                required
+              />
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">
+                Password
+              </label>
+              <input
+                type="password"
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+                placeholder="Enter your password"
+                className="w-full p-4 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500"
+                required
+              />
+            </div>
+
+            <button
+              type="submit"
+              className="w-full bg-green-600 text-white py-4 rounded-lg hover:bg-green-700 transition duration-300 font-semibold"
+            >
+              Login to POS System
+            </button>
+          </form>
+        </div>
+      </div>
+    )
+  }
+
+  
+
+  // Calculate totals
+  const subtotal = cart.reduce((sum, item) => sum + (item.product.price * item.quantity), 0)
+  const tax = subtotal * 0.075
+  const total = subtotal + tax
+
+  return (
+    <div className="min-h-screen bg-gray-100">
+      {/* Enhanced Header with Prescription Alert */}
+      <div className="bg-green-600 text-white p-4">
+        <div className="flex justify-between items-center">
+          <div>
+            <h1 className="text-2xl font-bold">Kunle Ara Pharmacy - POS</h1>
+            <div className="flex items-center space-x-4 text-green-100">
+              <span>📍 {currentBranch?.icon} {currentBranch?.name}</span>
+              <span>👤 Staff: {staffId}</span>
+              <span>📅 {new Date().toLocaleDateString()}</span>
+              <span className="bg-red-500 px-2 py-1 rounded text-xs">
+                🔒 PRESCRIPTION CONTROL ACTIVE
+              </span>
+            </div>
+          </div>
+          <button
+            onClick={() => setIsAuthenticated(false)}
+            className="bg-green-700 hover:bg-green-800 px-4 py-2 rounded transition-colors"
+          >
+            Logout
+          </button>
+        </div>
+      </div>
+
+      <div className="flex h-screen">
+        {/* Product Selection Area */}
+        <div className="flex-1 p-4">
+          {/* Search and Filter */}
+          <div className="bg-white p-4 rounded-lg shadow mb-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <input
+                type="text"
+                placeholder="Search products or scan barcode..."
+                value={searchTerm}
+                onChange={(e) => setSearchTerm(e.target.value)}
+                className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500"
+              />
+              <select
+                value={selectedCategory}
+                onChange={(e) => setSelectedCategory(e.target.value)}
+                className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500"
+              >
+                <option value="all">All Categories</option>
+                {categories.map(category => (
+                  <option key={category.id} value={category.id}>
+                    {category.icon} {category.name}
+                  </option>
+                ))}
+              </select>
+            </div>
+          </div>
+
+          {/* Products Grid with Prescription Indicators */}
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 max-h-96 overflow-y-auto">
+            {filteredProducts.map(product => {
+              const categoryInfo = categories.find(c => c.id === product.category)
+              
+              return (
+                <button
+                  key={product.id}
+                  onClick={() => addToCart(product)}
+                  className={`bg-white p-4 rounded-lg shadow hover:shadow-md transition-shadow text-left ${
+                    product.prescriptionRequired ? 'border-2 border-red-300' : ''
+                  }`}
+                  disabled={!product.inStock}
+                >
+                  <div className={`text-xs px-2 py-1 rounded mb-2 ${categoryInfo?.color}`}>
+                    {categoryInfo?.icon} {categoryInfo?.name}
+                  </div>
+                  
+                  <h3 className="font-semibold text-sm mb-1">{product.name}</h3>
+                  <p className="text-xs text-gray-600 mb-2">{product.brand}</p>
+                  
+                  <div className="flex justify-between items-center">
+                    <span className="text-green-600 font-bold">₦{product.price.toLocaleString()}</span>
+                    <span className="text-xs text-gray-500">{product.stockQuantity} left</span>
+                  </div>
+                  
+                  {product.prescriptionRequired && (
+                    <div className="text-xs bg-red-100 text-red-800 px-2 py-1 rounded mt-2 font-semibold">
+                      🔒 PRESCRIPTION REQUIRED
+                    </div>
+                  )}
+                </button>
+              )
+            })}
+          </div>
+        </div>
+
+        {/* Cart/Checkout Area with Prescription Status */}
+        <div className="w-96 bg-white border-l border-gray-200 p-4">
+          <h2 className="text-xl font-bold mb-4">Current Sale - {currentBranch?.name}</h2>
+
+          {/* Customer Info */}
+          <div className="mb-4">
+            <input
+              type="text"
+              placeholder="Customer name (optional)"
+              value={customerName}
+              onChange={(e) => setCustomerName(e.target.value)}
+              className="w-full p-2 border border-gray-300 rounded"
+            />
+          </div>
+
+          {/* Cart Items with Prescription Status */}
+          <div className="space-y-2 mb-4 max-h-64 overflow-y-auto">
+            {cart.map(item => (
+              <div 
+                key={item.product.id} 
+                className={`p-3 rounded ${
+                  item.product.prescriptionRequired 
+                    ? 'bg-red-50 border border-red-200' 
+                    : 'bg-gray-50'
+                }`}
+              >
+                <div className="flex justify-between items-start">
+                  <div className="flex-1">
+                    <h4 className="font-semibold text-sm">{item.product.name}</h4>
+                    <p className="text-xs text-gray-600">₦{item.product.price.toLocaleString()} each</p>
+                    
+                    {item.product.prescriptionRequired && (
+                      <div className="text-xs mt-1">
+                        {item.prescriberId ? (
+                          <span className="text-green-700 font-semibold">
+                            ✅ Validated: {item.prescriberId}
+                          </span>
+                        ) : (
+                          <span className="text-red-700 font-semibold">
+                            ⚠️ NEEDS VALIDATION
+                          </span>
+                        )}
+                      </div>
+                    )}
+                  </div>
+                  
+                  <button
+                    onClick={() => setCart(cart.filter(cartItem => cartItem.product.id !== item.product.id))}
+                    className="text-red-500 hover:text-red-700 text-xs"
+                  >
+                    Remove
+                  </button>
+                </div>
+                
+                <div className="flex items-center justify-between mt-2">
+                  <div className="flex items-center space-x-2">
+                    <span className="font-semibold">Qty: {item.quantity}</span>
+                  </div>
+                  <span className="font-bold">₦{(item.product.price * item.quantity).toLocaleString()}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* Prescription Summary */}
+          {cart.some(item => item.product.prescriptionRequired) && (
+            <div className="bg-yellow-50 border border-yellow-200 p-3 rounded mb-4">
+              <h4 className="font-semibold text-sm text-yellow-800 mb-2">
+                🔒 Prescription Items Summary
+              </h4>
+              {cart.filter(item => item.product.prescriptionRequired).map(item => (
+                <div key={item.product.id} className="text-xs text-yellow-700">
+                  • {item.product.name} - {item.prescriberId ? '✅ Validated' : '⚠️ Pending'}
+                </div>
+              ))}
+            </div>
+          )}
+
+          {/* Totals */}
+          <div className="border-t pt-4 space-y-2">
+            <div className="flex justify-between">
+              <span>Subtotal:</span>
+              <span>₦{subtotal.toLocaleString()}</span>
+            </div>
+            <div className="flex justify-between">
+              <span>VAT (7.5%):</span>
+              <span>₦{tax.toLocaleString()}</span>
+            </div>
+            <div className="flex justify-between font-bold text-lg border-t pt-2">
+              <span>Total:</span>
+              <span className="text-green-600">₦{total.toLocaleString()}</span>
+            </div>
+          </div>
+
+          {/* Action Buttons */}
+          <div className="space-y-2 mt-4">
+            <button
+              onClick={processSale}
+              disabled={cart.length === 0}
+              className="w-full bg-green-600 text-white py-3 rounded-lg hover:bg-green-700 disabled:bg-gray-400 disabled:cursor-not-allowed font-semibold"
+            >
+              Complete Sale (₦{total.toLocaleString()})
+            </button>
+            <button
+              onClick={() => setCart([])}
+              className="w-full bg-red-600 text-white py-2 rounded-lg hover:bg-red-700"
+            >
+              Clear Cart
+            </button>
+          </div>
+
+          {/* Recent Sales */}
+          <div className="mt-6">
+            <h3 className="font-semibold mb-2">Recent Sales ({sales.length})</h3>
+            <div className="text-xs space-y-1 max-h-24 overflow-y-auto">
+              {sales.slice(-3).reverse().map(sale => (
+                <div key={sale.id} className="bg-gray-50 p-2 rounded">
+                  <div className="flex justify-between">
+                    <span>{sale.customerName}</span>
+                    <span>₦{sale.total.toLocaleString()}</span>
+                  </div>
+                  <div className="text-gray-500">
+                    {sale.date.toLocaleTimeString()}
+                    {sale.prescriptionValidations.length > 0 && (
+                      <span className="text-red-600 ml-2">
+                        🔒 {sale.prescriptionValidations.length} Rx
+                      </span>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* NEW: Prescription Validation Modal */}
+      {showPrescriptionModal && currentPrescriptionItem && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+          <div className="bg-white p-8 rounded-2xl shadow-2xl max-w-md w-full mx-4">
+            <div className="text-center mb-6">
+              <div className="text-4xl mb-2">🔒</div>
+              <h2 className="text-2xl font-bold text-red-600">Prescription Validation Required</h2>
+              <p className="text-gray-600 mt-2">This item requires prescriber authorization</p>
+            </div>
+
+            <div className="bg-red-50 border border-red-200 p-4 rounded-lg mb-6">
+              <h3 className="font-semibold text-red-800">{currentPrescriptionItem.product.name}</h3>
+              <p className="text-sm text-red-600">Quantity: {currentPrescriptionItem.quantity}</p>
+              <p className="text-sm text-red-600">Price: ₦{currentPrescriptionItem.product.price.toLocaleString()}</p>
+            </div>
+
+            <div className="space-y-4">
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">
+                  Prescriber ID <span className="text-red-500">*</span>
+                </label>
+                <input
+                  type="text"
+                  value={prescriberId}
+                  onChange={(e) => setPrescriberId(e.target.value.toUpperCase())}
+                  placeholder="PR00001 to PR99999"
+                  pattern="PR\d{5}"
+                  maxLength={7}
+                  className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500"
+                  required
+                />
+                <p className="text-xs text-gray-500 mt-1">Format: PR followed by 5 digits (e.g., PR00123)</p>
+              </div>
+
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">
+                  Prescriber Name <span className="text-red-500">*</span>
+                </label>
+                <input
+                  type="text"
+                  value={prescriberName}
+                  onChange={(e) => setPrescriberName(e.target.value)}
+                  placeholder="Dr. John Smith"
+                  className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500"F
+                  required
+                />
+              </div>
+
+              <div className="bg-yellow-50 border border-yellow-200 p-3 rounded">
+                <p className="text-xs text-yellow-800">
+                  <strong>Validation Info:</strong><br/>
+                  Cashier: {staffId}<br/>
+                  Branch: {currentBranch?.name}<br/>
+                  Time: {new Date().toLocaleString()}
+                </p>
+              </div>
+            </div>
+
+            <div className="flex space-x-3 mt-6">
+              <button
+                onClick={() => {
+                  setShowPrescriptionModal(false)
+                  setCurrentPrescriptionItem(null)
+                  setPrescriberId('')
+                  setPrescriberName('')
+                }}
+                className="flex-1 bg-gray-500 text-white py-3 rounded-lg hover:bg-gray-600"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={handlePrescriptionValidation}
+                disabled={!prescriberId || !prescriberName}
+                className="flex-1 bg-green-600 text-white py-3 rounded-lg hover:bg-green-700 disabled:bg-gray-400 disabled:cursor-not-allowed font-semibold"
+              >
+                Validate & Add to Cart
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  )
+}
